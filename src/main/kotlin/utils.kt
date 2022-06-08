@@ -9,6 +9,8 @@ import io.ktor.client.request.*
 import io.ktor.client.statement.*
 import io.ktor.http.*
 import kotlinx.coroutines.delay
+import kotlinx.serialization.json.JsonObject
+import kotlinx.serialization.json.JsonObjectBuilder
 import net.mamoe.mirai.contact.Contact
 import net.mamoe.mirai.contact.Contact.Companion.uploadImage
 import net.mamoe.mirai.message.data.Image
@@ -16,9 +18,12 @@ import net.mamoe.mirai.utils.MiraiLogger
 import okhttp3.OkHttpClient
 import okhttp3.Request
 import org.apache.commons.codec.digest.DigestUtils
+import org.json.JSONArray
+import org.json.JSONObject
 import java.io.File
 import java.io.InputStream
 import java.net.URL
+import java.util.*
 import java.util.concurrent.TimeUnit
 import javax.script.Bindings
 import javax.script.ScriptEngine
@@ -29,13 +34,24 @@ import kotlin.collections.forEach
 import kotlin.collections.map
 import kotlin.collections.mutableMapOf
 import kotlin.collections.set
+import kotlin.contracts.ExperimentalContracts
+import kotlin.contracts.InvocationKind
+import kotlin.contracts.contract
 
 const val dollar = '$'
+val intRegex = Regex("\\d{1,10}")
+val longRegex = Regex("\\d+")
+val floatRegex = Regex("\\d+\\.\\d+")
+val booleanRegex = Regex("(true|false)")
+val forceToStringRegex = Regex("'\\S+'")
 
 private val iDResources = mutableMapOf<String, MutableMap<Int, IDResource>>()
+
 val logger: MiraiLogger get() {
     return QueryPokemon.logger
 }
+
+//val inside: Boolean = true
 
 fun queryIDResource(key: String, path: String): List<IDResource> {
     return loadIDResourceMapFromLocalCache(path).filter {
@@ -102,6 +118,10 @@ object Translate {
 
             val requestUrl = Config.baidufanyi_http + "?" + paramBuilder.build().formUrlEncode()
 
+//            if (Config.debug) {
+//                if (!inside) logger.info("requesting: $requestUrl") else println("requesting: $requestUrl")
+//            }
+
             if (Config.debug) logger.info("requesting: $requestUrl")
 
             val resp = httpClient.newCall(Request.Builder()
@@ -120,7 +140,11 @@ object Translate {
                 val code = rjs["error_code"].asInt
                 val msg = rjs["error_msg"].asString
 
+
                 logger.error("调用翻译接口异常($code), 已驳回: $msg")
+//                if (!inside) {
+//
+//                } else println("调用翻译接口异常($code), 已驳回: $msg")
 
                 text
             } else {
@@ -131,7 +155,9 @@ object Translate {
                 sb.toString().trim()
             }
         } catch (e: Exception) {
-            logger.error(e.message)
+//            if (!inside) {
+                logger.error(e.message)
+//            } else println(e.message)
             text
         }
     }
@@ -235,6 +261,50 @@ fun ScriptEngine.kteval(script: String, bindings: Bindings? = null): Any? {
     return if (result == null) null else result
 }
 
+
+fun buildJSONObject(builderAction: JSONObjectBuilder.() -> Unit): JSONObject {
+    val builder = JSONObjectBuilder()
+    builder.builderAction()
+    return builder.json
+}
+
+fun buildJSONArray(builderAction: JSONArrayBuilder.() -> Unit): JSONArray {
+    val builder = JSONArrayBuilder()
+    builder.builderAction()
+    return builder.arr
+}
+
+class JSONObjectBuilder {
+    val json = JSONObject()
+}
+
+class JSONArrayBuilder {
+    val arr = JSONArray()
+}
+
+inline fun JSONObjectBuilder.put(key: String, obj: JSONObject) = json.put(key, obj)
+inline fun JSONObjectBuilder.put(key: String, arr: JSONArray) = json.put(key, arr)
+inline fun JSONObjectBuilder.put(key: String, str: String) = json.put(key, str)
+inline fun JSONObjectBuilder.put(key: String, int: Int) = json.put(key, int)
+inline fun JSONObjectBuilder.put(key: String, bool: Boolean) = json.put(key, bool)
+inline fun JSONObjectBuilder.put(key: String, double: Double) = json.put(key, double)
+inline fun JSONObjectBuilder.put(key: String, long: Long) = json.put(key, long)
+inline fun JSONObjectBuilder.put(key: String, number: Number) = json.put(key, number)
+inline fun JSONObjectBuilder.put(key: String, list: List<*>) = json.put(key, list)
+inline fun JSONObjectBuilder.put(key: String, map: Map<*, *>) = json.put(key, map)
+
+inline fun JSONArrayBuilder.add(obj: JSONObject) = arr.put(obj)
+inline fun JSONArrayBuilder.add(arr: JSONArray) = arr.put(arr)
+inline fun JSONArrayBuilder.add(str: String) = arr.put(str)
+inline fun JSONArrayBuilder.add(int: Int) = arr.put(int)
+inline fun JSONArrayBuilder.add(bool: Boolean) = arr.put(bool)
+inline fun JSONArrayBuilder.add(double: Double) = arr.put(double)
+inline fun JSONArrayBuilder.add(long: Long) = arr.put(long)
+inline fun JSONArrayBuilder.add(number: Number) = arr.put(number)
+inline fun JSONArrayBuilder.add(list: List<*>) = arr.put(list)
+inline fun JSONArrayBuilder.add(map: Map<*, *>) = arr.put(map)
+
+
 inline val JsonElement.o get() = this.asJsonObject
 inline val JsonElement.a get() = this.asJsonArray
 inline val JsonElement.s get() = this.asString
@@ -243,3 +313,4 @@ inline val JsonElement.b get() = this.asBoolean
 inline val JsonElement.l get() = this.asLong
 inline val JsonElement.d get() = this.asDouble
 inline val JsonElement.n get() = this.asJsonNull
+

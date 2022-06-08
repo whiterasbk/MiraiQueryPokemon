@@ -8,31 +8,34 @@ import io.ktor.client.request.*
 import io.ktor.client.statement.*
 import kotlinx.coroutines.InternalCoroutinesApi
 import kotlinx.coroutines.internal.synchronized
-import kotlinx.serialization.json.JsonObject
-import kotlinx.serialization.json.JsonObjectBuilder
-import kotlinx.serialization.json.buildJsonObject
-import kotlinx.serialization.json.put
 import me.sargunvohra.lib.pokekotlin.client.PokeApiClient
+import net.mamoe.mirai.console.command.CommandSender
+import net.mamoe.mirai.console.util.cast
 import net.mamoe.mirai.console.util.safeCast
 import okhttp3.internal.toImmutableMap
+import org.json.JSONObject
 import org.yaml.snakeyaml.Yaml
 import java.io.File
 import java.io.FileFilter
-import java.lang.StringBuilder
 import javax.script.Bindings
 import javax.script.ScriptEngine
 import javax.script.ScriptEngineManager
 import kotlin.properties.Delegates
 
-class QueryFile(private val file: File): QueryExecutable(file.readText()) {
-    constructor(path: String): this(File(path))
+class QueryFile(private val file: File, config: QueryExecutableConfiguration): QueryExecutable(file.readText(), config) {
+    constructor(path: String, config: QueryExecutableConfiguration): this(File(path), config)
 
     fun reload() {
         initializeFragment(file.readText())
     }
 }
 
-open class QueryExecutable(content: String) {
+class QueryExecutableConfiguration {
+    lateinit var externalScriptFolder: File
+    lateinit var externalGraphqlFolder: File
+}
+
+open class QueryExecutable(content: String, val config: QueryExecutableConfiguration) {
 
     private var templateString: String = ""
     private lateinit var setupString: String
@@ -44,8 +47,8 @@ open class QueryExecutable(content: String) {
     lateinit var cmdName: String
     var operationName: String? = null
     val queryArguments = mutableListOf<Pair<String, String>>()
-
     private val templateJSCodes = mutableListOf<String>()
+
     private val templateJSInvokePlaceholder = mutableListOf<IntRange>()
     var argumentProcessCode: String = ""
 
@@ -98,8 +101,6 @@ open class QueryExecutable(content: String) {
                     logger.info("[loaded mapper script: ${it.name}]")
                 }
 
-
-
             } catch (e: Exception) {
                 logger.error("初始化配置失败")
                 if (Config.strictMode) throw e else logger.error(e)
@@ -122,6 +123,10 @@ open class QueryExecutable(content: String) {
 
             bindings["readDataFileKt"] = { path: String ->
                 QueryPokemon.resolveDataFile(path).readText()
+            }
+
+            bindings["readDataJSON"] = { path: String ->
+                JSONObject(QueryPokemon.resolveDataFile(path).readText())
             }
 
             bindings["fileReader"] = { file: File ->
@@ -155,7 +160,7 @@ open class QueryExecutable(content: String) {
             install(HttpTimeout)
         }
 
-        suspend fun QueryExecutable.graphQuery(query: String, variables: JsonObject? = null): String {
+        suspend fun QueryExecutable.graphQuery(query: String, variables: JSONObject? = null): String {
 
             val rep = httpClient.post<HttpResponse> {
                 if (!setupOptions.containsKey("url"))
@@ -178,7 +183,7 @@ open class QueryExecutable(content: String) {
                         else setupOptions["requestTimeout"] as Long
                 }
 
-                body = buildJsonObject {
+                body = buildJSONObject {
                     put("query", query)
                     variables?.let {
                         if (Config.debug) logger.info("passed arguments: $it")
@@ -212,7 +217,12 @@ open class QueryExecutable(content: String) {
 
         templateString = ""
         queryString = ""
+        argumentProcessCode = ""
+
         queryArguments.clear()
+        setupOptions.clear()
+        templateJSCodes.clear()
+        templateJSInvokePlaceholder.clear()
 
         val first_split = content.split(sharpSeparateRegex)
         val split = first_split.subList(1, first_split.size)
@@ -222,13 +232,12 @@ open class QueryExecutable(content: String) {
             when(matchResult.value) {
                 "#!setup" -> {
                     setupString = split[index].trim()
-                    setupOptions.clear()
 
                     // 初始化设置
                     setupOptions += "fuzzy-query" to false
                     setupOptions += "auto-reload" to false
                     setupOptions += "description" to "not yet"
-                    fuzzyField = ""
+                    fuzzyField = "zh"
                     fuzzyIn = ""
                     operationName = null
 
@@ -252,7 +261,7 @@ open class QueryExecutable(content: String) {
                         val list = setupOptions["script-import"].safeCast<ArrayList<String>>()
                         list?.let { array ->
                             array.forEach {
-                                val js = QueryPokemon.resolveDataFile("scripts/$it")
+                                val js = File(config.externalScriptFolder, it)
                                 val code = js.readText().lines().filter { line -> !line.startsWith("import ") }.joinToString("\n")
                                 templateString += "(: $code :)"
                             }
@@ -264,7 +273,8 @@ open class QueryExecutable(content: String) {
                         val list = setupOptions["graphql-import"].safeCast<ArrayList<String>>()
                         list?.let { array ->
                             array.forEach {
-                                val file = QueryPokemon.resolveDataFile("graphqls/$it")
+//                                val file = QueryPokemon.resolveDataFile("graphqls/$it")
+                                val file = File(config.externalGraphqlFolder,it)
                                 queryString += file.readText() + "\n"
                             }
                         } ?: throw Exception("列表格式错误")
@@ -273,21 +283,21 @@ open class QueryExecutable(content: String) {
                     // 解析外部文件参数
                     parseQueryArguments()
 
-                    // 初始化参数配置脚本
-                    if (setupOptions.containsKey("pre-execute")) {
-                        val list = setupOptions["pre-execute"].safeCast<ArrayList<String>>()
+                    // 初始化参数注入脚本
+                    if (setupOptions.containsKey("argument-inject")) {
+                        val list = setupOptions["argument-inject"].safeCast<ArrayList<String>>()
                         list?.let { array ->
                             array.forEach {
-                                val file = QueryPokemon.resolveDataFile("script/$it")
+//                                val file = QueryPokemon.resolveDataFile("scripts/$it")
+                                val file = File(config.externalScriptFolder, it)
                                 argumentProcessCode += file.readText() + "\n"
                             }
                         } ?: throw Exception("列表格式错误")
                     }
                 }
+
                 "#!template" -> {
                     templateString += split[index].trim()
-                    templateJSCodes.clear()
-                    templateJSInvokePlaceholder.clear()
 
                     if ("(:" in templateString && ":)" in templateString) {
                         templateString.onEachIndexed { index, char ->
@@ -305,7 +315,6 @@ open class QueryExecutable(content: String) {
                                         val code = rightWithBrackets
                                             .substring(2, rightWithBrackets.length)
                                             .substring(0, rightWithBrackets.length - 4)
-//                                    println(code)
                                         templateJSCodes += code
                                         templateJSInvokePlaceholder += startIndex .. startIndex + tsss_index + 2
                                     }
@@ -321,6 +330,7 @@ open class QueryExecutable(content: String) {
                 }
             }
         }
+
     }
 
     private fun parseQueryArguments() {
@@ -338,24 +348,36 @@ open class QueryExecutable(content: String) {
         }
     }
 
+    suspend fun execute(buildArg: JSONObjectBuilder.(List<Pair<String, String>>) -> Unit): String {
 
-    suspend fun execute(scriptArg: List<String> = emptyList(), buildArg: JsonObjectBuilder.(List<Pair<String, String>>) -> Unit): String {
-        val queryArg = buildJsonObject { buildArg(queryArguments) }
-
-        // 使用脚本处理参数后传递给 query 方法
-        if (argumentProcessCode.isNotBlank()) {
-            val aBindings = engine.createBindings()
-            aBindings["in"] = queryArg
-            engine.eval(argumentProcessCode, aBindings)
-            val out = aBindings["out"]
-            logger.info(out.toString())
+        var pass: Any? = null
+        val queryArg = buildJSONObject { buildArg(queryArguments) }.let {
+            if (isUseInjection()) {
+                val injected = injectArguments(it)
+                pass = injected.second
+                injected.first
+            } else it
         }
 
         val data = graphQuery(queryString, queryArg)
 
         if (Config.debug) logger.info("response data: $data")
 
-        return invokeScript(data, scriptArg, queryArg)
+        return invokeScript(data, pass, queryArg)
+    }
+
+    private fun injectArguments(queryArg: JSONObject): Pair<JSONObject, Any?>{
+        // 使用脚本注入参数后传递给 query 方法
+        val aBindings = engine.createBindings()
+        aBindings["input"] = queryArg
+        loadInitScript(engine, aBindings)
+        engine.eval(argumentProcessCode, aBindings)
+        val out = aBindings["output"]
+        val pass = aBindings["pass"]
+        if (Config.debug) logger.info("injected: " + out.toString())
+        if (out == null) throw Exception("inject script has to return a modified arguments list")
+        if (out !is JSONObject) throw Exception("type input arguments cannot change")
+        return out.cast<JSONObject>() to pass
     }
 
     private fun defineJsonData(name: String, data: String, bindings: Bindings) {
@@ -364,12 +386,16 @@ open class QueryExecutable(content: String) {
 
     private inline fun Bindings.putJson(name: String, data: String) = defineJsonData(name, data, this)
 
+    /*
+    * @params passing 上游的 js 传递的数据
+    * */
     @OptIn(InternalCoroutinesApi::class)
-    fun invokeScript(data: String = "{}", scriptArg: List<String>, extraArgument: Any? = null): String {
+    fun invokeScript(data: String = "{}", passing: Any? = null, extraArgument: Any? = null): String {
         // 定义资源要和执行脚本放在一起
         return synchronized(engine) {
             scopedList { bindings ->
                 bindings["extraArgument"] = extraArgument
+                bindings["pass"] = passing
                 bindings.putJson("result", data)
                 replaceInvokedScript {
                     val evalResult = engine.eval(it, bindings) ?: run {
@@ -424,5 +450,9 @@ open class QueryExecutable(content: String) {
         }
 
         return sb.toString()
+    }
+
+    fun isUseInjection(): Boolean {
+        return setupOptions.containsKey("argument-inject")
     }
 }

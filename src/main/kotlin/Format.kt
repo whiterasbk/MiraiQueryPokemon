@@ -81,7 +81,7 @@ suspend fun formatMessage(formatter: String, map: Map<String, Any?>? = null, msg
 
     if (formatter.filter { it == '`' }.length % 2 != 0) return formatFace(formatter)
 
-    val regex = Regex("`(([\\w .:]+)|(:\\w+ (([\\w.,;!&@=%#*^\$~\\-+()]+)|(https?|ftp|file)://[-A-Za-z0-9+&@#/%?=~_|!:,.;]+[-A-Za-z0-9+&@#/%=~_|])))`")
+    val regex = Regex("`(([\\w .:]+)|(:\\w+ (([\\w.,;!&@=%#*^\$~\\-+()]+)|(https?|ftp|file)://[-A-Za-z0-9+&@#/%?=~_|!:,.;\\u4e00-\\u9fa5]+[-A-Za-z0-9+&@#/%=~_|\\u4e00-\\u9fa5])))`")
     val messageChain = MessageChainBuilder()
     val improcMsgr = formatter.split(regex).map { formatFace(it) }
     val replacers = mutableListOf<String>()
@@ -127,7 +127,7 @@ suspend fun formatMessage(formatter: String, map: Map<String, Any?>? = null, msg
                     val args = replacer.substring(1 until replacer.length).split(" ")
                     val arg = if (args.size > 1) args[1] else ""
 
-                    val result: Message = msgCtx?.let { // todo 替换自定义的pack
+                    val result: Message = msgCtx?.let { // todo 替换自定义的 pack
                         when (args[0]) {
                             "img" -> {
                                 if (arg.startsWith("file://")) {
@@ -191,7 +191,6 @@ suspend fun formatMessage(formatter: String, map: Map<String, Any?>? = null, msg
                             else -> PlainText("`!$replacer`")
                         }
                     } ?: throw Exception("argument `MessageContext` is required")
-
                     improcMsgr[i] + result
                 } else improcMsgr[i] + "`!$replacer`"
             }
