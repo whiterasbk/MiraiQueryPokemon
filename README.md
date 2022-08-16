@@ -14,7 +14,7 @@
 1. 将插件放入 plugins 文件夹
 2. 运行一次或在 data 文件夹创建 bot.good.QueryPokemon 文件夹
 3. 将 release 中的 query-script.zip 解压并放入 bot.good.QueryPokemon 中
-4. 在管理员前提下, 发送 #enable 和 #enable this all
+4. 在管理员前提下, 发送 #enable 和 #enable all this
 5. 若 jdk 版本大于 11 则需在 `plugin-shared-libraries/libraries.txt` 追加以下内容
 ```text
 org.openjdk.nashorn:nashorn-core:15.4
