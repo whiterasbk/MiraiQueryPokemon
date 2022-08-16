@@ -1,0 +1,322 @@
+{
+  "44": {
+    "jpName": "バコウのみ",
+    "zhName": "棱瓜果",
+    "enName": "Coba"
+  },
+  "45": {
+    "jpName": "ウタンのみ",
+    "zhName": "福禄果",
+    "enName": "Payapa"
+  },
+  "46": {
+    "jpName": "タンガのみ",
+    "zhName": "扁樱果",
+    "enName": "Tanga"
+  },
+  "47": {
+    "jpName": "ヨロギのみ",
+    "zhName": "草蚕果",
+    "enName": "Charti"
+  },
+  "48": {
+    "jpName": "カシブのみ",
+    "zhName": "佛柑果",
+    "enName": "Kasib"
+  },
+  "49": {
+    "jpName": "ハバンのみ",
+    "zhName": "莓榴果",
+    "enName": "Haban"
+  },
+  "50": {
+    "jpName": "ナモのみ",
+    "zhName": "刺耳果",
+    "enName": "Colbur"
+  },
+  "51": {
+    "jpName": "リリバのみ",
+    "zhName": "霹霹果",
+    "enName": "Babiri"
+  },
+  "52": {
+    "jpName": "ホズのみ",
+    "zhName": "灯浆果",
+    "enName": "Chilan"
+  },
+  "53": {
+    "jpName": "チイラのみ",
+    "zhName": "枝荔果",
+    "enName": "Liechi"
+  },
+  "10": {
+    "jpName": "オボンのみ",
+    "zhName": "文柚果",
+    "enName": "Sitrus"
+  },
+  "54": {
+    "jpName": "リュガのみ",
+    "zhName": "龙睛果",
+    "enName": "Ganlon"
+  },
+  "11": {
+    "jpName": "フィラのみ",
+    "zhName": "勿花果",
+    "enName": "Figy"
+  },
+  "55": {
+    "jpName": "カムラのみ",
+    "zhName": "沙鳞果",
+    "enName": "Salac"
+  },
+  "12": {
+    "jpName": "ウイのみ",
+    "zhName": "异奇果",
+    "enName": "Wiki"
+  },
+  "56": {
+    "jpName": "ヤタピのみ",
+    "zhName": "龙火果",
+    "enName": "Petaya"
+  },
+  "13": {
+    "jpName": "マゴのみ",
+    "zhName": "芒芒果",
+    "enName": "Mago"
+  },
+  "57": {
+    "jpName": "ズアのみ",
+    "zhName": "杏仔果",
+    "enName": "Apicot"
+  },
+  "14": {
+    "jpName": "バンジのみ",
+    "zhName": "乐芭果",
+    "enName": "Aguav"
+  },
+  "58": {
+    "jpName": "サンのみ",
+    "zhName": "兰萨果",
+    "enName": "Lansat"
+  },
+  "15": {
+    "jpName": "イアのみ",
+    "zhName": "芭亚果",
+    "enName": "Iapapa"
+  },
+  "59": {
+    "jpName": "スターのみ",
+    "zhName": "星桃果",
+    "enName": "Starf"
+  },
+  "16": {
+    "jpName": "ズリのみ",
+    "zhName": "蔓莓果",
+    "enName": "Razz"
+  },
+  "17": {
+    "jpName": "ブリーのみ",
+    "zhName": "墨莓果",
+    "enName": "Bluk"
+  },
+  "18": {
+    "jpName": "ナナのみ",
+    "zhName": "蕉香果",
+    "enName": "Nanab"
+  },
+  "19": {
+    "jpName": "セシナのみ",
+    "zhName": "西梨果",
+    "enName": "Wepear"
+  },
+  "1": {
+    "jpName": "クラボのみ",
+    "zhName": "樱子果",
+    "enName": "Cheri"
+  },
+  "2": {
+    "jpName": "カゴのみ",
+    "zhName": "零余果",
+    "enName": "Chesto"
+  },
+  "3": {
+    "jpName": "モモンのみ",
+    "zhName": "桃桃果",
+    "enName": "Pecha"
+  },
+  "4": {
+    "jpName": "チーゴのみ",
+    "zhName": "莓莓果",
+    "enName": "Rawst"
+  },
+  "5": {
+    "jpName": "ナナシのみ",
+    "zhName": "利木果",
+    "enName": "Aspear"
+  },
+  "6": {
+    "jpName": "ヒメリのみ",
+    "zhName": "苹野果",
+    "enName": "Leppa"
+  },
+  "7": {
+    "jpName": "オレンのみ",
+    "zhName": "橙橙果",
+    "enName": "Oran"
+  },
+  "8": {
+    "jpName": "キーのみ",
+    "zhName": "柿仔果",
+    "enName": "Persim"
+  },
+  "9": {
+    "jpName": "ラムのみ",
+    "zhName": "木子果",
+    "enName": "Lum"
+  },
+  "60": {
+    "jpName": "ナゾのみ",
+    "zhName": "谜芝果",
+    "enName": "Enigma"
+  },
+  "61": {
+    "jpName": "ミクルのみ",
+    "zhName": "奇秘果",
+    "enName": "Micle"
+  },
+  "62": {
+    "jpName": "イバンのみ",
+    "zhName": "释陀果",
+    "enName": "Custap"
+  },
+  "63": {
+    "jpName": "ジャポのみ",
+    "zhName": "嘉珍果",
+    "enName": "Jaboca"
+  },
+  "20": {
+    "jpName": "パイルのみ",
+    "zhName": "凰梨果",
+    "enName": "Pinap"
+  },
+  "64": {
+    "jpName": "レンブのみ",
+    "zhName": "雾莲果",
+    "enName": "Rowap"
+  },
+  "21": {
+    "jpName": "ザロクのみ",
+    "zhName": "榴石果",
+    "enName": "Pomeg"
+  },
+  "22": {
+    "jpName": "ネコブのみ",
+    "zhName": "藻根果",
+    "enName": "Kelpsy"
+  },
+  "23": {
+    "jpName": "タポルのみ",
+    "zhName": "比巴果",
+    "enName": "Qualot"
+  },
+  "24": {
+    "jpName": "ロメのみ",
+    "zhName": "哈密果",
+    "enName": "Hondew"
+  },
+  "25": {
+    "jpName": "ウブのみ",
+    "zhName": "萄葡果",
+    "enName": "Grepa"
+  },
+  "26": {
+    "jpName": "マトマのみ",
+    "zhName": "茄番果",
+    "enName": "Tamato"
+  },
+  "27": {
+    "jpName": "モコシのみ",
+    "zhName": "玉黍果",
+    "enName": "Cornn"
+  },
+  "28": {
+    "jpName": "ゴスのみ",
+    "zhName": "岳竹果",
+    "enName": "Magost"
+  },
+  "29": {
+    "jpName": "ラブタのみ",
+    "zhName": "茸丹果",
+    "enName": "Rabuta"
+  },
+  "30": {
+    "jpName": "ノメルのみ",
+    "zhName": "檬柠果",
+    "enName": "Nomel"
+  },
+  "31": {
+    "jpName": "ノワキのみ",
+    "zhName": "刺角果",
+    "enName": "Spelon"
+  },
+  "32": {
+    "jpName": "シーヤのみ",
+    "zhName": "椰木果",
+    "enName": "Pamtre"
+  },
+  "33": {
+    "jpName": "カイスのみ",
+    "zhName": "瓜西果",
+    "enName": "Watmel"
+  },
+  "34": {
+    "jpName": "ドリのみ",
+    "zhName": "金枕果",
+    "enName": "Durin"
+  },
+  "35": {
+    "jpName": "ベリブのみ",
+    "zhName": "靛莓果",
+    "enName": "Belue"
+  },
+  "36": {
+    "jpName": "オッカのみ",
+    "zhName": "巧可果",
+    "enName": "Occa"
+  },
+  "37": {
+    "jpName": "イトケのみ",
+    "zhName": "千香果",
+    "enName": "Passho"
+  },
+  "38": {
+    "jpName": "ソクノのみ",
+    "zhName": "烛木果",
+    "enName": "Wacan"
+  },
+  "39": {
+    "jpName": "リンドのみ",
+    "zhName": "罗子果",
+    "enName": "Rindo"
+  },
+  "40": {
+    "jpName": "ヤチェのみ",
+    "zhName": "番荔果",
+    "enName": "Yache"
+  },
+  "41": {
+    "jpName": "ヨプのみ",
+    "zhName": "莲蒲果",
+    "enName": "Chople"
+  },
+  "42": {
+    "jpName": "ビアーのみ",
+    "zhName": "通通果",
+    "enName": "Kebia"
+  },
+  "43": {
+    "jpName": "シュカのみ",
+    "zhName": "腰木果",
+    "enName": "Shuca"
+  }
+}

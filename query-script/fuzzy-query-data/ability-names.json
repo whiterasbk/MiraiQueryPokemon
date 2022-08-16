@@ -1,0 +1,1637 @@
+{
+  "230": {
+    "jpName": "メタルプロテクト",
+    "zhName": "金属防护",
+    "enName": "Full Metal Body"
+  },
+  "110": {
+    "jpName": "いろめがね",
+    "zhName": "有色眼镜",
+    "enName": "Tinted Lens"
+  },
+  "231": {
+    "jpName": "ファントムガード",
+    "zhName": "幻影防守",
+    "enName": "Shadow Shield"
+  },
+  "111": {
+    "jpName": "フィルター",
+    "zhName": "过滤",
+    "enName": "Filter"
+  },
+  "232": {
+    "jpName": "プリズムアーマー",
+    "zhName": "棱镜装甲",
+    "enName": "Prism Armor"
+  },
+  "112": {
+    "jpName": "スロースタート",
+    "zhName": "慢启动",
+    "enName": "Slow Start"
+  },
+  "233": {
+    "jpName": "ブレインフォース",
+    "zhName": "脑核之力",
+    "enName": "Neuroforce"
+  },
+  "113": {
+    "jpName": "きもったま",
+    "zhName": "胆量",
+    "enName": "Scrappy"
+  },
+  "234": {
+    "jpName": "ふとうのけん",
+    "zhName": "不挠之剑",
+    "enName": "Intrepid Sword"
+  },
+  "114": {
+    "jpName": "よびみず",
+    "zhName": "引水",
+    "enName": "Storm Drain"
+  },
+  "235": {
+    "jpName": "ふくつのたて",
+    "zhName": "不屈之盾",
+    "enName": "Dauntless Shield"
+  },
+  "115": {
+    "jpName": "アイスボディ",
+    "zhName": "冰冻之躯",
+    "enName": "Ice Body"
+  },
+  "236": {
+    "jpName": "リベロ",
+    "zhName": "自由者",
+    "enName": "Libero"
+  },
+  "116": {
+    "jpName": "ハードロック",
+    "zhName": "坚硬岩石",
+    "enName": "Solid Rock"
+  },
+  "237": {
+    "jpName": "たまひろい",
+    "zhName": "捡球",
+    "enName": "Ball Fetch"
+  },
+  "117": {
+    "jpName": "ゆきふらし",
+    "zhName": "降雪",
+    "enName": "Snow Warning"
+  },
+  "238": {
+    "jpName": "わたげ",
+    "zhName": "棉絮",
+    "enName": "Cotton Down"
+  },
+  "118": {
+    "jpName": "みつあつめ",
+    "zhName": "采蜜",
+    "enName": "Honey Gather"
+  },
+  "239": {
+    "jpName": "スクリューおびれ",
+    "zhName": "螺旋尾鳍",
+    "enName": "Propeller Tail"
+  },
+  "119": {
+    "jpName": "おみとおし",
+    "zhName": "察觉",
+    "enName": "Frisk"
+  },
+  "10": {
+    "jpName": "ちくでん",
+    "zhName": "蓄电",
+    "enName": "Volt Absorb"
+  },
+  "11": {
+    "jpName": "ちょすい",
+    "zhName": "储水",
+    "enName": "Water Absorb"
+  },
+  "12": {
+    "jpName": "どんかん",
+    "zhName": "迟钝",
+    "enName": "Oblivious"
+  },
+  "13": {
+    "jpName": "ノーてんき",
+    "zhName": "无关天气",
+    "enName": "Cloud Nine"
+  },
+  "14": {
+    "jpName": "ふくがん",
+    "zhName": "复眼",
+    "enName": "Compound Eyes"
+  },
+  "15": {
+    "jpName": "ふみん",
+    "zhName": "不眠",
+    "enName": "Insomnia"
+  },
+  "16": {
+    "jpName": "へんしょく",
+    "zhName": "变色",
+    "enName": "Color Change"
+  },
+  "17": {
+    "jpName": "めんえき",
+    "zhName": "免疫",
+    "enName": "Immunity"
+  },
+  "18": {
+    "jpName": "もらいび",
+    "zhName": "引火",
+    "enName": "Flash Fire"
+  },
+  "19": {
+    "jpName": "りんぷん",
+    "zhName": "鳞粉",
+    "enName": "Shield Dust"
+  },
+  "240": {
+    "jpName": "ミラーアーマー",
+    "zhName": "镜甲",
+    "enName": "Mirror Armor"
+  },
+  "120": {
+    "jpName": "すてみ",
+    "zhName": "舍身",
+    "enName": "Reckless"
+  },
+  "241": {
+    "jpName": "うのミサイル",
+    "zhName": "一口导弹",
+    "enName": "Gulp Missile"
+  },
+  "121": {
+    "jpName": "マルチタイプ",
+    "zhName": "多属性",
+    "enName": "Multitype"
+  },
+  "242": {
+    "jpName": "すじがねいり",
+    "zhName": "坚毅",
+    "enName": "Stalwart"
+  },
+  "1": {
+    "jpName": "あくしゅう",
+    "zhName": "恶臭",
+    "enName": "Stench"
+  },
+  "122": {
+    "jpName": "フラワーギフト",
+    "zhName": "花之礼",
+    "enName": "Flower Gift"
+  },
+  "243": {
+    "jpName": "じょうききかん",
+    "zhName": "蒸汽机",
+    "enName": "Steam Engine"
+  },
+  "2": {
+    "jpName": "あめふらし",
+    "zhName": "降雨",
+    "enName": "Drizzle"
+  },
+  "123": {
+    "jpName": "ナイトメア",
+    "zhName": "梦魇",
+    "enName": "Bad Dreams"
+  },
+  "244": {
+    "jpName": "パンクロック",
+    "zhName": "庞克摇滚",
+    "enName": "Punk Rock"
+  },
+  "3": {
+    "jpName": "かそく",
+    "zhName": "加速",
+    "enName": "Speed Boost"
+  },
+  "124": {
+    "jpName": "わるいてぐせ",
+    "zhName": "顺手牵羊",
+    "enName": "Pickpocket"
+  },
+  "245": {
+    "jpName": "すなはき",
+    "zhName": "吐沙",
+    "enName": "Sand Spit"
+  },
+  "4": {
+    "jpName": "カブトアーマー",
+    "zhName": "战斗盔甲",
+    "enName": "Battle Armor"
+  },
+  "125": {
+    "jpName": "ちからずく",
+    "zhName": "强行",
+    "enName": "Sheer Force"
+  },
+  "246": {
+    "jpName": "こおりのりんぷん",
+    "zhName": "冰鳞粉",
+    "enName": "Ice Scales"
+  },
+  "5": {
+    "jpName": "がんじょう",
+    "zhName": "结实",
+    "enName": "Sturdy"
+  },
+  "126": {
+    "jpName": "あまのじゃく",
+    "zhName": "唱反调",
+    "enName": "Contrary"
+  },
+  "247": {
+    "jpName": "じゅくせい",
+    "zhName": "熟成",
+    "enName": "Ripen"
+  },
+  "6": {
+    "jpName": "しめりけ",
+    "zhName": "湿气",
+    "enName": "Damp"
+  },
+  "127": {
+    "jpName": "きんちょうかん",
+    "zhName": "紧张感",
+    "enName": "Unnerve"
+  },
+  "248": {
+    "jpName": "アイスフェイス",
+    "zhName": "结冻头",
+    "enName": "Ice Face"
+  },
+  "7": {
+    "jpName": "じゅうなん",
+    "zhName": "柔软",
+    "enName": "Limber"
+  },
+  "128": {
+    "jpName": "まけんき",
+    "zhName": "不服输",
+    "enName": "Defiant"
+  },
+  "249": {
+    "jpName": "パワースポット",
+    "zhName": "能量点",
+    "enName": "Power Spot"
+  },
+  "8": {
+    "jpName": "すながくれ",
+    "zhName": "沙隐",
+    "enName": "Sand Veil"
+  },
+  "129": {
+    "jpName": "よわき",
+    "zhName": "软弱",
+    "enName": "Defeatist"
+  },
+  "9": {
+    "jpName": "せいでんき",
+    "zhName": "静电",
+    "enName": "Static"
+  },
+  "20": {
+    "jpName": "マイペース",
+    "zhName": "我行我素",
+    "enName": "Own Tempo"
+  },
+  "21": {
+    "jpName": "きゅうばん",
+    "zhName": "吸盘",
+    "enName": "Suction Cups"
+  },
+  "22": {
+    "jpName": "いかく",
+    "zhName": "威吓",
+    "enName": "Intimidate"
+  },
+  "23": {
+    "jpName": "かげふみ",
+    "zhName": "踩影",
+    "enName": "Shadow Tag"
+  },
+  "24": {
+    "jpName": "さめはだ",
+    "zhName": "粗糙皮肤",
+    "enName": "Rough Skin"
+  },
+  "25": {
+    "jpName": "ふしぎなまもり",
+    "zhName": "神奇守护",
+    "enName": "Wonder Guard"
+  },
+  "26": {
+    "jpName": "ふゆう",
+    "zhName": "飘浮",
+    "enName": "Levitate"
+  },
+  "27": {
+    "jpName": "ほうし",
+    "zhName": "孢子",
+    "enName": "Effect Spore"
+  },
+  "28": {
+    "jpName": "シンクロ",
+    "zhName": "同步",
+    "enName": "Synchronize"
+  },
+  "29": {
+    "jpName": "クリアボディ",
+    "zhName": "恒净之躯",
+    "enName": "Clear Body"
+  },
+  "250": {
+    "jpName": "ぎたい",
+    "zhName": "拟态",
+    "enName": "Mimicry"
+  },
+  "130": {
+    "jpName": "のろわれボディ",
+    "zhName": "诅咒之躯",
+    "enName": "Cursed Body"
+  },
+  "251": {
+    "jpName": "バリアフリー",
+    "zhName": "除障",
+    "enName": "Screen Cleaner"
+  },
+  "131": {
+    "jpName": "いやしのこころ",
+    "zhName": "治愈之心",
+    "enName": "Healer"
+  },
+  "252": {
+    "jpName": "はがねのせいしん",
+    "zhName": "钢之意志",
+    "enName": "Steely Spirit"
+  },
+  "132": {
+    "jpName": "フレンドガード",
+    "zhName": "友情防守",
+    "enName": "Friend Guard"
+  },
+  "253": {
+    "jpName": "ほろびのボディ",
+    "zhName": "灭亡之躯",
+    "enName": "Perish Body"
+  },
+  "133": {
+    "jpName": "くだけるよろい",
+    "zhName": "碎裂铠甲",
+    "enName": "Weak Armor"
+  },
+  "254": {
+    "jpName": "さまようたましい",
+    "zhName": "游魂",
+    "enName": "Wandering Spirit"
+  },
+  "134": {
+    "jpName": "ヘヴィメタル",
+    "zhName": "重金属",
+    "enName": "Heavy Metal"
+  },
+  "255": {
+    "jpName": "ごりむちゅう",
+    "zhName": "一猩一意",
+    "enName": "Gorilla Tactics"
+  },
+  "135": {
+    "jpName": "ライトメタル",
+    "zhName": "轻金属",
+    "enName": "Light Metal"
+  },
+  "256": {
+    "jpName": "かがくへんかガス",
+    "zhName": "化学变化气体",
+    "enName": "Neutralizing Gas"
+  },
+  "136": {
+    "jpName": "マルチスケイル",
+    "zhName": "多重鳞片",
+    "enName": "Multiscale"
+  },
+  "257": {
+    "jpName": "パステルベール",
+    "zhName": "粉彩护幕",
+    "enName": "Pastel Veil"
+  },
+  "137": {
+    "jpName": "どくぼうそう",
+    "zhName": "中毒激升",
+    "enName": "Toxic Boost"
+  },
+  "258": {
+    "jpName": "はらぺこスイッチ",
+    "zhName": "饱了又饿",
+    "enName": "Hunger Switch"
+  },
+  "138": {
+    "jpName": "ねつぼうそう",
+    "zhName": "受热激升",
+    "enName": "Flare Boost"
+  },
+  "259": {
+    "jpName": "クイックドロウ",
+    "zhName": "速击",
+    "enName": "Quick Draw"
+  },
+  "139": {
+    "jpName": "しゅうかく",
+    "zhName": "收获",
+    "enName": "Harvest"
+  },
+  "30": {
+    "jpName": "しぜんかいふく",
+    "zhName": "自然回复",
+    "enName": "Natural Cure"
+  },
+  "31": {
+    "jpName": "ひらいしん",
+    "zhName": "避雷针",
+    "enName": "Lightning Rod"
+  },
+  "32": {
+    "jpName": "てんのめぐみ",
+    "zhName": "天恩",
+    "enName": "Serene Grace"
+  },
+  "33": {
+    "jpName": "すいすい",
+    "zhName": "悠游自如",
+    "enName": "Swift Swim"
+  },
+  "34": {
+    "jpName": "ようりょくそ",
+    "zhName": "叶绿素",
+    "enName": "Chlorophyll"
+  },
+  "35": {
+    "jpName": "はっこう",
+    "zhName": "发光",
+    "enName": "Illuminate"
+  },
+  "36": {
+    "jpName": "トレース",
+    "zhName": "复制",
+    "enName": "Trace"
+  },
+  "37": {
+    "jpName": "ちからもち",
+    "zhName": "大力士",
+    "enName": "Huge Power"
+  },
+  "38": {
+    "jpName": "どくのトゲ",
+    "zhName": "毒刺",
+    "enName": "Poison Point"
+  },
+  "39": {
+    "jpName": "せいしんりょく",
+    "zhName": "精神力",
+    "enName": "Inner Focus"
+  },
+  "260": {
+    "jpName": "ふかしのこぶし",
+    "zhName": "无形拳",
+    "enName": "Unseen Fist"
+  },
+  "140": {
+    "jpName": "テレパシー",
+    "zhName": "心灵感应",
+    "enName": "Telepathy"
+  },
+  "261": {
+    "jpName": "きみょうなくすり",
+    "zhName": "怪药",
+    "enName": "Curious Medicine"
+  },
+  "141": {
+    "jpName": "ムラっけ",
+    "zhName": "心情不定",
+    "enName": "Moody"
+  },
+  "262": {
+    "jpName": "トランジスタ",
+    "zhName": "电晶体",
+    "enName": "Transistor"
+  },
+  "142": {
+    "jpName": "ぼうじん",
+    "zhName": "防尘",
+    "enName": "Overcoat"
+  },
+  "263": {
+    "jpName": "りゅうのあぎと",
+    "zhName": "龙颚",
+    "enName": "Dragon’s Maw"
+  },
+  "143": {
+    "jpName": "どくしゅ",
+    "zhName": "毒手",
+    "enName": "Poison Touch"
+  },
+  "264": {
+    "jpName": "しろのいななき",
+    "zhName": "苍白嘶鸣",
+    "enName": "Chilling Neigh"
+  },
+  "144": {
+    "jpName": "さいせいりょく",
+    "zhName": "再生力",
+    "enName": "Regenerator"
+  },
+  "265": {
+    "jpName": "くろのいななき",
+    "zhName": "漆黑嘶鸣",
+    "enName": "Grim Neigh"
+  },
+  "145": {
+    "jpName": "はとむね",
+    "zhName": "健壮胸肌",
+    "enName": "Big Pecks"
+  },
+  "266": {
+    "jpName": "じんばいったい",
+    "zhName": "人马一体",
+    "enName": "As One"
+  },
+  "146": {
+    "jpName": "すなかき",
+    "zhName": "拨沙",
+    "enName": "Sand Rush"
+  },
+  "267": {
+    "jpName": "じんばいったい",
+    "zhName": "人马一体",
+    "enName": "As One"
+  },
+  "147": {
+    "jpName": "ミラクルスキン",
+    "zhName": "奇迹皮肤",
+    "enName": "Wonder Skin"
+  },
+  "148": {
+    "jpName": "アナライズ",
+    "zhName": "分析",
+    "enName": "Analytic"
+  },
+  "149": {
+    "jpName": "イリュージョン",
+    "zhName": "幻觉",
+    "enName": "Illusion"
+  },
+  "40": {
+    "jpName": "マグマのよろい",
+    "zhName": "熔岩铠甲",
+    "enName": "Magma Armor"
+  },
+  "41": {
+    "jpName": "みずのベール",
+    "zhName": "水幕",
+    "enName": "Water Veil"
+  },
+  "42": {
+    "jpName": "じりょく",
+    "zhName": "磁力",
+    "enName": "Magnet Pull"
+  },
+  "43": {
+    "jpName": "ぼうおん",
+    "zhName": "隔音",
+    "enName": "Soundproof"
+  },
+  "44": {
+    "jpName": "あめうけざら",
+    "zhName": "雨盘",
+    "enName": "Rain Dish"
+  },
+  "45": {
+    "jpName": "すなおこし",
+    "zhName": "扬沙",
+    "enName": "Sand Stream"
+  },
+  "46": {
+    "jpName": "プレッシャー",
+    "zhName": "压迫感",
+    "enName": "Pressure"
+  },
+  "47": {
+    "jpName": "あついしぼう",
+    "zhName": "厚脂肪",
+    "enName": "Thick Fat"
+  },
+  "48": {
+    "jpName": "はやおき",
+    "zhName": "早起",
+    "enName": "Early Bird"
+  },
+  "10051": {
+    "jpName": "",
+    "zhName": "厌恶",
+    "enName": "Disgust"
+  },
+  "49": {
+    "jpName": "ほのおのからだ",
+    "zhName": "火焰之躯",
+    "enName": "Flame Body"
+  },
+  "10050": {
+    "jpName": "",
+    "zhName": "冲刺",
+    "enName": "Sprint"
+  },
+  "10053": {
+    "jpName": "",
+    "zhName": "登山者",
+    "enName": "Climber"
+  },
+  "10052": {
+    "jpName": "",
+    "zhName": "高层建筑",
+    "enName": "High-rise"
+  },
+  "150": {
+    "jpName": "かわりもの",
+    "zhName": "变身者",
+    "enName": "Imposter"
+  },
+  "151": {
+    "jpName": "すりぬけ",
+    "zhName": "穿透",
+    "enName": "Infiltrator"
+  },
+  "152": {
+    "jpName": "ミイラ",
+    "zhName": "木乃伊",
+    "enName": "Mummy"
+  },
+  "153": {
+    "jpName": "じしんかじょう",
+    "zhName": "自信过度",
+    "enName": "Moxie"
+  },
+  "154": {
+    "jpName": "せいぎのこころ",
+    "zhName": "正义之心",
+    "enName": "Justified"
+  },
+  "155": {
+    "jpName": "びびり",
+    "zhName": "胆怯",
+    "enName": "Rattled"
+  },
+  "156": {
+    "jpName": "マジックミラー",
+    "zhName": "魔法镜",
+    "enName": "Magic Bounce"
+  },
+  "157": {
+    "jpName": "そうしょく",
+    "zhName": "食草",
+    "enName": "Sap Sipper"
+  },
+  "158": {
+    "jpName": "いたずらごころ",
+    "zhName": "恶作剧之心",
+    "enName": "Prankster"
+  },
+  "159": {
+    "jpName": "すなのちから",
+    "zhName": "沙之力",
+    "enName": "Sand Force"
+  },
+  "10055": {
+    "jpName": "",
+    "zhName": "Aqua Boost系列",
+    "enName": "Aqua Boost"
+  },
+  "10054": {
+    "jpName": "",
+    "zhName": "火焰助推器",
+    "enName": "Flame Boost"
+  },
+  "10057": {
+    "jpName": "",
+    "zhName": "征服者",
+    "enName": "Conqueror"
+  },
+  "50": {
+    "jpName": "にげあし",
+    "zhName": "逃跑",
+    "enName": "Run Away"
+  },
+  "10056": {
+    "jpName": "",
+    "zhName": "助跑，助跑",
+    "enName": "Run Up"
+  },
+  "51": {
+    "jpName": "するどいめ",
+    "zhName": "锐利目光",
+    "enName": "Keen Eye"
+  },
+  "10059": {
+    "jpName": "",
+    "zhName": "动物",
+    "enName": "Decoy"
+  },
+  "52": {
+    "jpName": "かいりきバサミ",
+    "zhName": "怪力钳",
+    "enName": "Hyper Cutter"
+  },
+  "10058": {
+    "jpName": "",
+    "zhName": "束缚",
+    "enName": "Shackle"
+  },
+  "53": {
+    "jpName": "ものひろい",
+    "zhName": "捡拾",
+    "enName": "Pickup"
+  },
+  "54": {
+    "jpName": "なまけ",
+    "zhName": "懒惰",
+    "enName": "Truant"
+  },
+  "55": {
+    "jpName": "はりきり",
+    "zhName": "活力",
+    "enName": "Hustle"
+  },
+  "56": {
+    "jpName": "メロメロボディ",
+    "zhName": "迷人之躯",
+    "enName": "Cute Charm"
+  },
+  "57": {
+    "jpName": "プラス",
+    "zhName": "正电",
+    "enName": "Plus"
+  },
+  "10060": {
+    "jpName": "",
+    "zhName": "盾",
+    "enName": "Shield"
+  },
+  "58": {
+    "jpName": "マイナス",
+    "zhName": "负电",
+    "enName": "Minus"
+  },
+  "59": {
+    "jpName": "てんきや",
+    "zhName": "阴晴不定",
+    "enName": "Forecast"
+  },
+  "160": {
+    "jpName": "てつのトゲ",
+    "zhName": "铁刺",
+    "enName": "Iron Barbs"
+  },
+  "161": {
+    "jpName": "ダルマモード",
+    "zhName": "达摩模式",
+    "enName": "Zen Mode"
+  },
+  "162": {
+    "jpName": "しょうりのほし",
+    "zhName": "胜利之星",
+    "enName": "Victory Star"
+  },
+  "163": {
+    "jpName": "ターボブレイズ",
+    "zhName": "涡轮火焰",
+    "enName": "Turboblaze"
+  },
+  "164": {
+    "jpName": "テラボルテージ",
+    "zhName": "兆级电压",
+    "enName": "Teravolt"
+  },
+  "165": {
+    "jpName": "アロマベール",
+    "zhName": "芳香幕",
+    "enName": "Aroma Veil"
+  },
+  "166": {
+    "jpName": "フラワーベール",
+    "zhName": "花幕",
+    "enName": "Flower Veil"
+  },
+  "167": {
+    "jpName": "ほおぶくろ",
+    "zhName": "颊囊",
+    "enName": "Cheek Pouch"
+  },
+  "168": {
+    "jpName": "へんげんじざい",
+    "zhName": "变幻自如",
+    "enName": "Protean"
+  },
+  "169": {
+    "jpName": "ファーコート",
+    "zhName": "毛皮大衣",
+    "enName": "Fur Coat"
+  },
+  "60": {
+    "jpName": "ねんちゃく",
+    "zhName": "黏着",
+    "enName": "Sticky Hold"
+  },
+  "61": {
+    "jpName": "だっぴ",
+    "zhName": "蜕皮",
+    "enName": "Shed Skin"
+  },
+  "62": {
+    "jpName": "こんじょう",
+    "zhName": "毅力",
+    "enName": "Guts"
+  },
+  "63": {
+    "jpName": "ふしぎなうろこ",
+    "zhName": "神奇鳞片",
+    "enName": "Marvel Scale"
+  },
+  "64": {
+    "jpName": "ヘドロえき",
+    "zhName": "污泥浆",
+    "enName": "Liquid Ooze"
+  },
+  "65": {
+    "jpName": "しんりょく",
+    "zhName": "茂盛",
+    "enName": "Overgrow"
+  },
+  "66": {
+    "jpName": "もうか",
+    "zhName": "猛火",
+    "enName": "Blaze"
+  },
+  "67": {
+    "jpName": "げきりゅう",
+    "zhName": "激流",
+    "enName": "Torrent"
+  },
+  "68": {
+    "jpName": "むしのしらせ",
+    "zhName": "虫之预感",
+    "enName": "Swarm"
+  },
+  "69": {
+    "jpName": "いしあたま",
+    "zhName": "坚硬脑袋",
+    "enName": "Rock Head"
+  },
+  "10031": {
+    "jpName": "",
+    "zhName": "先锋队",
+    "enName": "Vanguard"
+  },
+  "10030": {
+    "jpName": "",
+    "zhName": "隐身",
+    "enName": "Stealth"
+  },
+  "170": {
+    "jpName": "マジシャン",
+    "zhName": "魔术师",
+    "enName": "Magician"
+  },
+  "171": {
+    "jpName": "ぼうだん",
+    "zhName": "防弹",
+    "enName": "Bulletproof"
+  },
+  "172": {
+    "jpName": "かちき",
+    "zhName": "好胜",
+    "enName": "Competitive"
+  },
+  "173": {
+    "jpName": "がんじょうあご",
+    "zhName": "强壮之颚",
+    "enName": "Strong Jaw"
+  },
+  "174": {
+    "jpName": "フリーズスキン",
+    "zhName": "冰冻皮肤",
+    "enName": "Refrigerate"
+  },
+  "175": {
+    "jpName": "スイートベール",
+    "zhName": "甜幕",
+    "enName": "Sweet Veil"
+  },
+  "176": {
+    "jpName": "バトルスイッチ",
+    "zhName": "战斗切换",
+    "enName": "Stance Change"
+  },
+  "177": {
+    "jpName": "はやてのつばさ",
+    "zhName": "疾风之翼",
+    "enName": "Gale Wings"
+  },
+  "178": {
+    "jpName": "メガランチャー",
+    "zhName": "超级发射器",
+    "enName": "Mega Launcher"
+  },
+  "179": {
+    "jpName": "くさのけがわ",
+    "zhName": "草之毛皮",
+    "enName": "Grass Pelt"
+  },
+  "10033": {
+    "jpName": "",
+    "zhName": "序列",
+    "enName": "Sequence"
+  },
+  "70": {
+    "jpName": "ひでり",
+    "zhName": "日照",
+    "enName": "Drought"
+  },
+  "10032": {
+    "jpName": "",
+    "zhName": "游牧民族",
+    "enName": "Nomad"
+  },
+  "71": {
+    "jpName": "ありじごく",
+    "zhName": "沙穴",
+    "enName": "Arena Trap"
+  },
+  "10035": {
+    "jpName": "",
+    "zhName": "庆祝",
+    "enName": "Celebrate"
+  },
+  "72": {
+    "jpName": "やるき",
+    "zhName": "干劲",
+    "enName": "Vital Spirit"
+  },
+  "10034": {
+    "jpName": "",
+    "zhName": "草斗篷",
+    "enName": "Grass Cloak"
+  },
+  "73": {
+    "jpName": "しろいけむり",
+    "zhName": "白色烟雾",
+    "enName": "White Smoke"
+  },
+  "10037": {
+    "jpName": "",
+    "zhName": "平静",
+    "enName": "Calming"
+  },
+  "74": {
+    "jpName": "ヨガパワー",
+    "zhName": "瑜伽之力",
+    "enName": "Pure Power"
+  },
+  "10036": {
+    "jpName": "",
+    "zhName": "摇篮曲",
+    "enName": "Lullaby"
+  },
+  "75": {
+    "jpName": "シェルアーマー",
+    "zhName": "硬壳盔甲",
+    "enName": "Shell Armor"
+  },
+  "10039": {
+    "jpName": "",
+    "zhName": "吓唬",
+    "enName": "Frighten"
+  },
+  "76": {
+    "jpName": "エアロック",
+    "zhName": "气闸",
+    "enName": "Air Lock"
+  },
+  "10038": {
+    "jpName": "",
+    "zhName": "迷惑",
+    "enName": "Daze"
+  },
+  "77": {
+    "jpName": "ちどりあし",
+    "zhName": "蹒跚",
+    "enName": "Tangled Feet"
+  },
+  "78": {
+    "jpName": "でんきエンジン",
+    "zhName": "电气引擎",
+    "enName": "Motor Drive"
+  },
+  "79": {
+    "jpName": "とうそうしん",
+    "zhName": "斗争心",
+    "enName": "Rivalry"
+  },
+  "10040": {
+    "jpName": "",
+    "zhName": "干扰",
+    "enName": "Interference"
+  },
+  "10042": {
+    "jpName": "",
+    "zhName": "信心",
+    "enName": "Confidence"
+  },
+  "10041": {
+    "jpName": "",
+    "zhName": "情绪制造者",
+    "enName": "Mood Maker"
+  },
+  "180": {
+    "jpName": "きょうせい",
+    "zhName": "共生",
+    "enName": "Symbiosis"
+  },
+  "181": {
+    "jpName": "かたいツメ",
+    "zhName": "硬爪",
+    "enName": "Tough Claws"
+  },
+  "182": {
+    "jpName": "フェアリースキン",
+    "zhName": "妖精皮肤",
+    "enName": "Pixilate"
+  },
+  "183": {
+    "jpName": "ぬめぬめ",
+    "zhName": "黏滑",
+    "enName": "Gooey"
+  },
+  "184": {
+    "jpName": "スカイスキン",
+    "zhName": "飞行皮肤",
+    "enName": "Aerilate"
+  },
+  "185": {
+    "jpName": "おやこあい",
+    "zhName": "亲子爱",
+    "enName": "Parental Bond"
+  },
+  "186": {
+    "jpName": "ダークオーラ",
+    "zhName": "暗黑气场",
+    "enName": "Dark Aura"
+  },
+  "187": {
+    "jpName": "フェアリーオーラ",
+    "zhName": "妖精气场",
+    "enName": "Fairy Aura"
+  },
+  "188": {
+    "jpName": "オーラブレイク",
+    "zhName": "气场破坏",
+    "enName": "Aura Break"
+  },
+  "189": {
+    "jpName": "はじまりのうみ",
+    "zhName": "始源之海",
+    "enName": "Primordial Sea"
+  },
+  "80": {
+    "jpName": "ふくつのこころ",
+    "zhName": "不屈之心",
+    "enName": "Steadfast"
+  },
+  "10044": {
+    "jpName": "",
+    "zhName": "富饶",
+    "enName": "Bonanza"
+  },
+  "81": {
+    "jpName": "ゆきがくれ",
+    "zhName": "雪隐",
+    "enName": "Snow Cloak"
+  },
+  "10043": {
+    "jpName": "",
+    "zhName": "财富",
+    "enName": "Fortune"
+  },
+  "82": {
+    "jpName": "くいしんぼう",
+    "zhName": "贪吃鬼",
+    "enName": "Gluttony"
+  },
+  "10046": {
+    "jpName": "",
+    "zhName": "万能的",
+    "enName": "Omnipotent"
+  },
+  "83": {
+    "jpName": "いかりのつぼ",
+    "zhName": "愤怒穴位",
+    "enName": "Anger Point"
+  },
+  "10045": {
+    "jpName": "",
+    "zhName": "爆炸",
+    "enName": "Explode"
+  },
+  "84": {
+    "jpName": "かるわざ",
+    "zhName": "轻装",
+    "enName": "Unburden"
+  },
+  "10048": {
+    "jpName": "",
+    "zhName": "黑洞",
+    "enName": "Black Hole"
+  },
+  "85": {
+    "jpName": "たいねつ",
+    "zhName": "耐热",
+    "enName": "Heatproof"
+  },
+  "10047": {
+    "jpName": "",
+    "zhName": "共有",
+    "enName": "Share"
+  },
+  "86": {
+    "jpName": "たんじゅん",
+    "zhName": "单纯",
+    "enName": "Simple"
+  },
+  "87": {
+    "jpName": "かんそうはだ",
+    "zhName": "干燥皮肤",
+    "enName": "Dry Skin"
+  },
+  "10049": {
+    "jpName": "",
+    "zhName": "阴影划线",
+    "enName": "Shadow Dash"
+  },
+  "88": {
+    "jpName": "ダウンロード",
+    "zhName": "下载",
+    "enName": "Download"
+  },
+  "89": {
+    "jpName": "てつのこぶし",
+    "zhName": "铁拳",
+    "enName": "Iron Fist"
+  },
+  "190": {
+    "jpName": "おわりのだいち",
+    "zhName": "终结之地",
+    "enName": "Desolate Land"
+  },
+  "191": {
+    "jpName": "デルタストリーム",
+    "zhName": "德尔塔气流",
+    "enName": "Delta Stream"
+  },
+  "192": {
+    "jpName": "じきゅうりょく",
+    "zhName": "持久力",
+    "enName": "Stamina"
+  },
+  "193": {
+    "jpName": "にげごし",
+    "zhName": "跃跃欲逃",
+    "enName": "Wimp Out"
+  },
+  "194": {
+    "jpName": "ききかいひ",
+    "zhName": "危险回避",
+    "enName": "Emergency Exit"
+  },
+  "195": {
+    "jpName": "みずがため",
+    "zhName": "遇水凝固",
+    "enName": "Water Compaction"
+  },
+  "196": {
+    "jpName": "ひとでなし",
+    "zhName": "不仁不义",
+    "enName": "Merciless"
+  },
+  "197": {
+    "jpName": "リミットシールド",
+    "zhName": "界限盾壳",
+    "enName": "Shields Down"
+  },
+  "198": {
+    "jpName": "はりこみ",
+    "zhName": "蹲守",
+    "enName": "Stakeout"
+  },
+  "10019": {
+    "jpName": "",
+    "zhName": "沙坑",
+    "enName": "Sandpit"
+  },
+  "199": {
+    "jpName": "すいほう",
+    "zhName": "水泡",
+    "enName": "Water Bubble"
+  },
+  "10018": {
+    "jpName": "",
+    "zhName": "食草动物",
+    "enName": "Herbivore"
+  },
+  "90": {
+    "jpName": "ポイズンヒール",
+    "zhName": "毒疗",
+    "enName": "Poison Heal"
+  },
+  "91": {
+    "jpName": "てきおうりょく",
+    "zhName": "适应力",
+    "enName": "Adaptability"
+  },
+  "10011": {
+    "jpName": "",
+    "zhName": "韧性",
+    "enName": "Tenacity"
+  },
+  "92": {
+    "jpName": "スキルリンク",
+    "zhName": "连续攻击",
+    "enName": "Skill Link"
+  },
+  "10010": {
+    "jpName": "",
+    "zhName": "冻伤",
+    "enName": "Frostbite"
+  },
+  "93": {
+    "jpName": "うるおいボディ",
+    "zhName": "湿润之躯",
+    "enName": "Hydration"
+  },
+  "10013": {
+    "jpName": "",
+    "zhName": "深度睡眠",
+    "enName": "Deep Sleep"
+  },
+  "94": {
+    "jpName": "サンパワー",
+    "zhName": "太阳之力",
+    "enName": "Solar Power"
+  },
+  "10012": {
+    "jpName": "",
+    "zhName": "自豪",
+    "enName": "Pride"
+  },
+  "95": {
+    "jpName": "はやあし",
+    "zhName": "飞毛腿",
+    "enName": "Quick Feet"
+  },
+  "10015": {
+    "jpName": "",
+    "zhName": "精神",
+    "enName": "Spirit"
+  },
+  "96": {
+    "jpName": "ノーマルスキン",
+    "zhName": "一般皮肤",
+    "enName": "Normalize"
+  },
+  "10014": {
+    "jpName": "",
+    "zhName": "电源Nap",
+    "enName": "Power Nap"
+  },
+  "97": {
+    "jpName": "スナイパー",
+    "zhName": "狙击手",
+    "enName": "Sniper"
+  },
+  "10017": {
+    "jpName": "",
+    "zhName": "吞咽",
+    "enName": "Gulp"
+  },
+  "98": {
+    "jpName": "マジックガード",
+    "zhName": "魔法防守",
+    "enName": "Magic Guard"
+  },
+  "10016": {
+    "jpName": "",
+    "zhName": "温暖的毯子",
+    "enName": "Warm Blanket"
+  },
+  "99": {
+    "jpName": "ノーガード",
+    "zhName": "无防守",
+    "enName": "No Guard"
+  },
+  "10020": {
+    "jpName": "",
+    "zhName": "热血的",
+    "enName": "Hot Blooded"
+  },
+  "10029": {
+    "jpName": "",
+    "zhName": "最后的堡垒",
+    "enName": "Last Bastion"
+  },
+  "10022": {
+    "jpName": "",
+    "zhName": "生命力",
+    "enName": "Life Force"
+  },
+  "10021": {
+    "jpName": "",
+    "zhName": "医生",
+    "enName": "Medic"
+  },
+  "10024": {
+    "jpName": "",
+    "zhName": "护士",
+    "enName": "Nurse"
+  },
+  "10023": {
+    "jpName": "",
+    "zhName": "午餐盒",
+    "enName": "Lunchbox"
+  },
+  "10026": {
+    "jpName": "",
+    "zhName": "海绵",
+    "enName": "Sponge"
+  },
+  "10025": {
+    "jpName": "",
+    "zhName": "近战",
+    "enName": "Melee"
+  },
+  "10028": {
+    "jpName": "",
+    "zhName": "英雄",
+    "enName": "Hero"
+  },
+  "10027": {
+    "jpName": "",
+    "zhName": "保镖",
+    "enName": "Bodyguard"
+  },
+  "10008": {
+    "jpName": "",
+    "zhName": "闪避",
+    "enName": "Dodge"
+  },
+  "10007": {
+    "jpName": "",
+    "zhName": "本能",
+    "enName": "Instinct"
+  },
+  "10009": {
+    "jpName": "",
+    "zhName": "锯齿状边缘",
+    "enName": "Jagged Edge"
+  },
+  "10002": {
+    "jpName": "",
+    "zhName": "波浪骑手",
+    "enName": "Wave Rider"
+  },
+  "10001": {
+    "jpName": "",
+    "zhName": "登山运动员",
+    "enName": "Mountaineer"
+  },
+  "10004": {
+    "jpName": "",
+    "zhName": "刺",
+    "enName": "Thrust"
+  },
+  "10003": {
+    "jpName": "",
+    "zhName": "滑冰运动员",
+    "enName": "Skater"
+  },
+  "10006": {
+    "jpName": "",
+    "zhName": "拦挡",
+    "enName": "Parry"
+  },
+  "10005": {
+    "jpName": "",
+    "zhName": "知觉",
+    "enName": "Perception"
+  },
+  "200": {
+    "jpName": "はがねつかい",
+    "zhName": "钢能力者",
+    "enName": "Steelworker"
+  },
+  "201": {
+    "jpName": "ぎゃくじょう",
+    "zhName": "怒火冲天",
+    "enName": "Berserk"
+  },
+  "202": {
+    "jpName": "ゆきかき",
+    "zhName": "拨雪",
+    "enName": "Slush Rush"
+  },
+  "203": {
+    "jpName": "えんかく",
+    "zhName": "远隔",
+    "enName": "Long Reach"
+  },
+  "204": {
+    "jpName": "うるおいボイス",
+    "zhName": "湿润之声",
+    "enName": "Liquid Voice"
+  },
+  "205": {
+    "jpName": "ヒーリングシフト",
+    "zhName": "先行治疗",
+    "enName": "Triage"
+  },
+  "206": {
+    "jpName": "エレキスキン",
+    "zhName": "电气皮肤",
+    "enName": "Galvanize"
+  },
+  "207": {
+    "jpName": "サーフテール",
+    "zhName": "冲浪之尾",
+    "enName": "Surge Surfer"
+  },
+  "208": {
+    "jpName": "ぎょぐん",
+    "zhName": "鱼群",
+    "enName": "Schooling"
+  },
+  "209": {
+    "jpName": "ばけのかわ",
+    "zhName": "画皮",
+    "enName": "Disguise"
+  },
+  "210": {
+    "jpName": "きずなへんげ",
+    "zhName": "牵绊变身",
+    "enName": "Battle Bond"
+  },
+  "211": {
+    "jpName": "スワームチェンジ",
+    "zhName": "群聚变形",
+    "enName": "Power Construct"
+  },
+  "212": {
+    "jpName": "ふしょく",
+    "zhName": "腐蚀",
+    "enName": "Corrosion"
+  },
+  "213": {
+    "jpName": "ぜったいねむり",
+    "zhName": "绝对睡眠",
+    "enName": "Comatose"
+  },
+  "214": {
+    "jpName": "じょおうのいげん",
+    "zhName": "女王的威严",
+    "enName": "Queenly Majesty"
+  },
+  "215": {
+    "jpName": "とびだすなかみ",
+    "zhName": "飞出的内在物",
+    "enName": "Innards Out"
+  },
+  "216": {
+    "jpName": "おどりこ",
+    "zhName": "舞者",
+    "enName": "Dancer"
+  },
+  "217": {
+    "jpName": "バッテリー",
+    "zhName": "蓄电池",
+    "enName": "Battery"
+  },
+  "218": {
+    "jpName": "もふもふ",
+    "zhName": "毛茸茸",
+    "enName": "Fluffy"
+  },
+  "219": {
+    "jpName": "ビビッドボディ",
+    "zhName": "鲜艳之躯",
+    "enName": "Dazzling"
+  },
+  "220": {
+    "jpName": "ソウルハート",
+    "zhName": "魂心",
+    "enName": "Soul-Heart"
+  },
+  "100": {
+    "jpName": "あとだし",
+    "zhName": "慢出",
+    "enName": "Stall"
+  },
+  "221": {
+    "jpName": "カーリーヘアー",
+    "zhName": "卷发",
+    "enName": "Tangling Hair"
+  },
+  "101": {
+    "jpName": "テクニシャン",
+    "zhName": "技术高手",
+    "enName": "Technician"
+  },
+  "222": {
+    "jpName": "レシーバー",
+    "zhName": "接球手",
+    "enName": "Receiver"
+  },
+  "102": {
+    "jpName": "リーフガード",
+    "zhName": "叶子防守",
+    "enName": "Leaf Guard"
+  },
+  "223": {
+    "jpName": "かがくのちから",
+    "zhName": "化学之力",
+    "enName": "Power of Alchemy"
+  },
+  "103": {
+    "jpName": "ぶきよう",
+    "zhName": "笨拙",
+    "enName": "Klutz"
+  },
+  "224": {
+    "jpName": "ビーストブースト",
+    "zhName": "异兽提升",
+    "enName": "Beast Boost"
+  },
+  "104": {
+    "jpName": "かたやぶり",
+    "zhName": "破格",
+    "enName": "Mold Breaker"
+  },
+  "225": {
+    "jpName": "ＡＲシステム",
+    "zhName": "ＡＲ系统",
+    "enName": "RKS System"
+  },
+  "105": {
+    "jpName": "きょううん",
+    "zhName": "超幸运",
+    "enName": "Super Luck"
+  },
+  "226": {
+    "jpName": "エレキメイカー",
+    "zhName": "电气制造者",
+    "enName": "Electric Surge"
+  },
+  "106": {
+    "jpName": "ゆうばく",
+    "zhName": "引爆",
+    "enName": "Aftermath"
+  },
+  "227": {
+    "jpName": "サイコメイカー",
+    "zhName": "精神制造者",
+    "enName": "Psychic Surge"
+  },
+  "107": {
+    "jpName": "きけんよち",
+    "zhName": "危险预知",
+    "enName": "Anticipation"
+  },
+  "228": {
+    "jpName": "ミストメイカー",
+    "zhName": "薄雾制造者",
+    "enName": "Misty Surge"
+  },
+  "108": {
+    "jpName": "よちむ",
+    "zhName": "预知梦",
+    "enName": "Forewarn"
+  },
+  "229": {
+    "jpName": "グラスメイカー",
+    "zhName": "青草制造者",
+    "enName": "Grassy Surge"
+  },
+  "109": {
+    "jpName": "てんねん",
+    "zhName": "纯朴",
+    "enName": "Unaware"
+  }
+}

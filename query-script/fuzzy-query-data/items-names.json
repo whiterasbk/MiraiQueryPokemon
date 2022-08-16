@@ -1,0 +1,9644 @@
+{
+  "1462": {
+    "jpName": "★Aur1577",
+    "zhName": "★Aur1577",
+    "enName": "★Aur1577",
+    "id": 1462
+  },
+  "1461": {
+    "jpName": "★Aur2095",
+    "zhName": "★Aur2095",
+    "enName": "★Aur2095",
+    "id": 1461
+  },
+  "1460": {
+    "jpName": "★Aur1605",
+    "zhName": "★Aur1605",
+    "enName": "★Aur1605",
+    "id": 1460
+  },
+  "1459": {
+    "jpName": "★Aur2088",
+    "zhName": "★Aur2088",
+    "enName": "★Aur2088",
+    "id": 1459
+  },
+  "1458": {
+    "jpName": "★Aur1708",
+    "zhName": "★Aur1708",
+    "enName": "★Aur1708",
+    "id": 1458
+  },
+  "1457": {
+    "jpName": "★Crv4786",
+    "zhName": "★Crv4786",
+    "enName": "★Crv4786",
+    "id": 1457
+  },
+  "1456": {
+    "jpName": "★Crv4662",
+    "zhName": "★Crv4662",
+    "enName": "★Crv4662",
+    "id": 1456
+  },
+  "1455": {
+    "jpName": "★Crv4623",
+    "zhName": "★Crv4623",
+    "enName": "★Crv4623",
+    "id": 1455
+  },
+  "1454": {
+    "jpName": "★Crv4757",
+    "zhName": "★Crv4757",
+    "enName": "★Crv4757",
+    "id": 1454
+  },
+  "1453": {
+    "jpName": "★Com4968",
+    "zhName": "★Com4968",
+    "enName": "★Com4968",
+    "id": 1453
+  },
+  "1452": {
+    "jpName": "★Cnc3249",
+    "zhName": "★Cnc3249",
+    "enName": "★Cnc3249",
+    "id": 1452
+  },
+  "1473": {
+    "jpName": "★Cep8238",
+    "zhName": "★Cep8238",
+    "enName": "★Cep8238",
+    "id": 1473
+  },
+  "1472": {
+    "jpName": "★Cep8162",
+    "zhName": "★Cep8162",
+    "enName": "★Cep8162",
+    "id": 1472
+  },
+  "1471": {
+    "jpName": "★Cep8974",
+    "zhName": "★Cep8974",
+    "enName": "★Cep8974",
+    "id": 1471
+  },
+  "1470": {
+    "jpName": "★Cet804",
+    "zhName": "★Cet804",
+    "enName": "★Cet804",
+    "id": 1470
+  },
+  "1": {
+    "jpName": "マスターボール",
+    "zhName": "大师球",
+    "enName": "Master Ball",
+    "id": 1
+  },
+  "1469": {
+    "jpName": "★Cet539",
+    "zhName": "★Cet539",
+    "enName": "★Cet539",
+    "id": 1469
+  },
+  "2": {
+    "jpName": "ハイパーボール",
+    "zhName": "高级球",
+    "enName": "Ultra Ball",
+    "id": 2
+  },
+  "1468": {
+    "jpName": "★Cet188",
+    "zhName": "★Cet188",
+    "enName": "★Cet188",
+    "id": 1468
+  },
+  "3": {
+    "jpName": "スーパーボール",
+    "zhName": "超级球",
+    "enName": "Great Ball",
+    "id": 3
+  },
+  "1467": {
+    "jpName": "★Cet681",
+    "zhName": "★Cet681",
+    "enName": "★Cet681",
+    "id": 1467
+  },
+  "4": {
+    "jpName": "モンスターボール",
+    "zhName": "精灵球",
+    "enName": "Poké Ball",
+    "id": 4
+  },
+  "1466": {
+    "jpName": "★Cet911",
+    "zhName": "★Cet911",
+    "enName": "★Cet911",
+    "id": 1466
+  },
+  "5": {
+    "jpName": "サファリボール",
+    "zhName": "狩猎球",
+    "enName": "Safari Ball",
+    "id": 5
+  },
+  "1465": {
+    "jpName": "★Pav7790",
+    "zhName": "★Pav7790",
+    "enName": "★Pav7790",
+    "id": 1465
+  },
+  "6": {
+    "jpName": "ネットボール",
+    "zhName": "捕网球",
+    "enName": "Net Ball",
+    "id": 6
+  },
+  "1464": {
+    "jpName": "★Aur1612",
+    "zhName": "★Aur1612",
+    "enName": "★Aur1612",
+    "id": 1464
+  },
+  "7": {
+    "jpName": "ダイブボール",
+    "zhName": "潜水球",
+    "enName": "Dive Ball",
+    "id": 7
+  },
+  "1463": {
+    "jpName": "★Aur1641",
+    "zhName": "★Aur1641",
+    "enName": "★Aur1641",
+    "id": 1463
+  },
+  "8": {
+    "jpName": "ネストボール",
+    "zhName": "巢穴球",
+    "enName": "Nest Ball",
+    "id": 8
+  },
+  "9": {
+    "jpName": "リピートボール",
+    "zhName": "重复球",
+    "enName": "Repeat Ball",
+    "id": 9
+  },
+  "1000": {
+    "jpName": "みっけポン",
+    "zhName": "相遇碰碰",
+    "enName": "Roto Encounter",
+    "id": 1000
+  },
+  "1484": {
+    "jpName": "★UMi424",
+    "zhName": "★UMi424",
+    "enName": "★UMi424",
+    "id": 1484
+  },
+  "1483": {
+    "jpName": "★Vul7405",
+    "zhName": "★Vul7405",
+    "enName": "★Vul7405",
+    "id": 1483
+  },
+  "1482": {
+    "jpName": "★Equ8131",
+    "zhName": "★Equ8131",
+    "enName": "★Equ8131",
+    "id": 1482
+  },
+  "1481": {
+    "jpName": "★CMi2845",
+    "zhName": "★CMi2845",
+    "enName": "★CMi2845",
+    "id": 1481
+  },
+  "1480": {
+    "jpName": "★CMi2943",
+    "zhName": "★CMi2943",
+    "enName": "★CMi2943",
+    "id": 1480
+  },
+  "1479": {
+    "jpName": "★Cen5460",
+    "zhName": "★Cen5460",
+    "enName": "★Cen5460",
+    "id": 1479
+  },
+  "1478": {
+    "jpName": "★Cen5459",
+    "zhName": "★Cen5459",
+    "enName": "★Cen5459",
+    "id": 1478
+  },
+  "1477": {
+    "jpName": "★Cen551",
+    "zhName": "★Cen551",
+    "enName": "★Cen551",
+    "id": 1477
+  },
+  "1476": {
+    "jpName": "★Cen5288",
+    "zhName": "★Cen5288",
+    "enName": "★Cen5288",
+    "id": 1476
+  },
+  "1475": {
+    "jpName": "★Cen5267",
+    "zhName": "★Cen5267",
+    "enName": "★Cen5267",
+    "id": 1475
+  },
+  "1474": {
+    "jpName": "★Cep8417",
+    "zhName": "★Cep8417",
+    "enName": "★Cep8417",
+    "id": 1474
+  },
+  "1011": {
+    "jpName": "おきがえトランク",
+    "zhName": "换装箱",
+    "enName": "Clothing Trunk",
+    "id": 1011
+  },
+  "1495": {
+    "jpName": "★Sco6527",
+    "zhName": "★Sco6527",
+    "enName": "★Sco6527",
+    "id": 1495
+  },
+  "1010": {
+    "jpName": "きょうかポケット",
+    "zhName": "强化口袋",
+    "enName": "Power-Up Pocket",
+    "id": 1010
+  },
+  "1494": {
+    "jpName": "★Sco6134",
+    "zhName": "★Sco6134",
+    "enName": "★Sco6134",
+    "id": 1494
+  },
+  "1493": {
+    "jpName": "★Ara6585",
+    "zhName": "★Ara6585",
+    "enName": "★Ara6585",
+    "id": 1493
+  },
+  "1492": {
+    "jpName": "★Lyr7298",
+    "zhName": "★Lyr7298",
+    "enName": "★Lyr7298",
+    "id": 1492
+  },
+  "1491": {
+    "jpName": "★Lyr7106",
+    "zhName": "★Lyr7106",
+    "enName": "★Lyr7106",
+    "id": 1491
+  },
+  "1490": {
+    "jpName": "★Lyr7178",
+    "zhName": "★Lyr7178",
+    "enName": "★Lyr7178",
+    "id": 1490
+  },
+  "1008": {
+    "jpName": "かいふくポケット",
+    "zhName": "回复口袋",
+    "enName": "Medicine Pocket",
+    "id": 1008
+  },
+  "1007": {
+    "jpName": "ポケモンボックス",
+    "zhName": "宝可梦盒",
+    "enName": "Pokémon Box Link",
+    "id": 1007
+  },
+  "1006": {
+    "jpName": "マチスのサイン",
+    "zhName": "马志士的签名",
+    "enName": "Autograph",
+    "id": 1006
+  },
+  "1005": {
+    "jpName": "つかまえポン",
+    "zhName": "捕捉碰碰",
+    "enName": "Roto Catch",
+    "id": 1005
+  },
+  "1489": {
+    "jpName": "★Lyr7001",
+    "zhName": "★Lyr7001",
+    "enName": "★Lyr7001",
+    "id": 1489
+  },
+  "1004": {
+    "jpName": "おうえんポン",
+    "zhName": "加油碰碰",
+    "enName": "Roto Boost",
+    "id": 1004
+  },
+  "1488": {
+    "jpName": "★Crt4287",
+    "zhName": "★Crt4287",
+    "enName": "★Crt4287",
+    "id": 1488
+  },
+  "1003": {
+    "jpName": "ＰＰかいふくポン",
+    "zhName": "ＰＰ回复碰碰",
+    "enName": "Roto PP Restore",
+    "id": 1003
+  },
+  "1487": {
+    "jpName": "★UMi6789",
+    "zhName": "★UMi6789",
+    "enName": "★UMi6789",
+    "id": 1487
+  },
+  "1002": {
+    "jpName": "ＨＰかいふくポン",
+    "zhName": "ＨＰ回复碰碰",
+    "enName": "Roto HP Restore",
+    "id": 1002
+  },
+  "1486": {
+    "jpName": "★UMi5735",
+    "zhName": "★UMi5735",
+    "enName": "★UMi5735",
+    "id": 1486
+  },
+  "1001": {
+    "jpName": "かくれポン",
+    "zhName": "隐身碰碰",
+    "enName": "Roto Stealth",
+    "id": 1001
+  },
+  "1485": {
+    "jpName": "★UMi5563",
+    "zhName": "★UMi5563",
+    "enName": "★UMi5563",
+    "id": 1485
+  },
+  "1009": {
+    "jpName": "アメボトル",
+    "zhName": "糖果罐",
+    "enName": "Candy Jar",
+    "id": 1009
+  },
+  "1022": {
+    "jpName": "おとどけもの",
+    "zhName": "包裹",
+    "enName": "Parcel",
+    "id": 1022
+  },
+  "1021": {
+    "jpName": "ふねのチケット",
+    "zhName": "船票",
+    "enName": "S.S. Ticket",
+    "id": 1021
+  },
+  "1020": {
+    "jpName": "ひみつのカギ",
+    "zhName": "秘密钥匙",
+    "enName": "Secret Key",
+    "id": 1020
+  },
+  "1019": {
+    "jpName": "きんのパイルのみ",
+    "zhName": "金色凰梨果",
+    "enName": "Golden Pinap Berry",
+    "id": 1019
+  },
+  "1018": {
+    "jpName": "ぎんのパイルのみ",
+    "zhName": "银色凰梨果",
+    "enName": "Silver Pinap Berry",
+    "id": 1018
+  },
+  "1017": {
+    "jpName": "きんのナナのみ",
+    "zhName": "金色蕉香果",
+    "enName": "Golden Nanab Berry",
+    "id": 1017
+  },
+  "1016": {
+    "jpName": "ぎんのナナのみ",
+    "zhName": "银色蕉香果",
+    "enName": "Silver Nanab Berry",
+    "id": 1016
+  },
+  "1015": {
+    "jpName": "きんのズリのみ",
+    "zhName": "金色蔓莓果",
+    "enName": "Golden Razz Berry",
+    "id": 1015
+  },
+  "1499": {
+    "jpName": "★Sco6508",
+    "zhName": "★Sco6508",
+    "enName": "★Sco6508",
+    "id": 1499
+  },
+  "1014": {
+    "jpName": "ぎんのズリのみ",
+    "zhName": "银色蔓莓果",
+    "enName": "Silver Razz Berry",
+    "id": 1014
+  },
+  "1498": {
+    "jpName": "★Sco5984",
+    "zhName": "★Sco5984",
+    "enName": "★Sco5984",
+    "id": 1498
+  },
+  "1013": {
+    "jpName": "バトルポケット",
+    "zhName": "对战口袋",
+    "enName": "Battle Pocket",
+    "id": 1013
+  },
+  "1497": {
+    "jpName": "★Sco5953",
+    "zhName": "★Sco5953",
+    "enName": "★Sco5953",
+    "id": 1497
+  },
+  "1012": {
+    "jpName": "ほかくポケット",
+    "zhName": "捕捉口袋",
+    "enName": "Catching Pocket",
+    "id": 1012
+  },
+  "1496": {
+    "jpName": "★Sco6553",
+    "zhName": "★Sco6553",
+    "enName": "★Sco6553",
+    "id": 1496
+  },
+  "1033": {
+    "jpName": "このはのおてがみ",
+    "zhName": "树叶信",
+    "enName": "Leaf Letter",
+    "id": 1033
+  },
+  "1032": {
+    "jpName": "なんごくかいがら",
+    "zhName": "南国贝壳",
+    "enName": "Tropical Shell",
+    "id": 1032
+  },
+  "1031": {
+    "jpName": "ピカピカだんご",
+    "zhName": "光滑泥球",
+    "enName": "Polished Mud Ball",
+    "id": 1031
+  },
+  "1030": {
+    "jpName": "ぎんのはっぱ",
+    "zhName": "银色叶子",
+    "enName": "Silver Leaf",
+    "id": 1030
+  },
+  "1029": {
+    "jpName": "きんのはっぱ",
+    "zhName": "金色叶子",
+    "enName": "Gold Leaf",
+    "id": 1029
+  },
+  "1028": {
+    "jpName": "うみべのガラス",
+    "zhName": "海边的玻璃",
+    "enName": "Beach Glass",
+    "id": 1028
+  },
+  "1027": {
+    "jpName": "かたっぽピアス",
+    "zhName": "一边的耳环",
+    "enName": "Lone Earring",
+    "id": 1027
+  },
+  "1026": {
+    "jpName": "ビーだま",
+    "zhName": "弹珠",
+    "enName": "Marble",
+    "id": 1026
+  },
+  "1025": {
+    "jpName": "チョークいし",
+    "zhName": "粉笔石",
+    "enName": "Chalky Stone",
+    "id": 1025
+  },
+  "600": {
+    "jpName": "エスパージュエル",
+    "zhName": "超能力宝石",
+    "enName": "Psychic Gem",
+    "id": 600
+  },
+  "1024": {
+    "jpName": "のびたバネ",
+    "zhName": "松掉的弹簧",
+    "enName": "Stretchy Spring",
+    "id": 1024
+  },
+  "601": {
+    "jpName": "むしのジュエル",
+    "zhName": "虫之宝石",
+    "enName": "Bug Gem",
+    "id": 601
+  },
+  "1023": {
+    "jpName": "カードキー",
+    "zhName": "钥匙卡",
+    "enName": "Card Key",
+    "id": 1023
+  },
+  "602": {
+    "jpName": "いわのジュエル",
+    "zhName": "岩石宝石",
+    "enName": "Rock Gem",
+    "id": 602
+  },
+  "603": {
+    "jpName": "ゴーストジュエル",
+    "zhName": "幽灵宝石",
+    "enName": "Ghost Gem",
+    "id": 603
+  },
+  "604": {
+    "jpName": "あくのジュエル",
+    "zhName": "恶之宝石",
+    "enName": "Dark Gem",
+    "id": 604
+  },
+  "605": {
+    "jpName": "はがねのジュエル",
+    "zhName": "钢之宝石",
+    "enName": "Steel Gem",
+    "id": 605
+  },
+  "606": {
+    "jpName": "たいりょくのハネ",
+    "zhName": "体力之羽",
+    "enName": "Health Feather",
+    "id": 606
+  },
+  "607": {
+    "jpName": "きんりょくのハネ",
+    "zhName": "肌力之羽",
+    "enName": "Muscle Feather",
+    "id": 607
+  },
+  "608": {
+    "jpName": "ていこうのハネ",
+    "zhName": "抵抗之羽",
+    "enName": "Resist Feather",
+    "id": 608
+  },
+  "609": {
+    "jpName": "ちりょくのハネ",
+    "zhName": "智力之羽",
+    "enName": "Genius Feather",
+    "id": 609
+  },
+  "1044": {
+    "jpName": "こころのアメ",
+    "zhName": "心灵糖果",
+    "enName": "Courage Candy",
+    "id": 1044
+  },
+  "1043": {
+    "jpName": "ちしきのアメ",
+    "zhName": "知识糖果",
+    "enName": "Smart Candy",
+    "id": 1043
+  },
+  "1042": {
+    "jpName": "まもりのアメ",
+    "zhName": "守护糖果",
+    "enName": "Tough Candy",
+    "id": 1042
+  },
+  "1041": {
+    "jpName": "ちからのアメ",
+    "zhName": "力量糖果",
+    "enName": "Mighty Candy",
+    "id": 1041
+  },
+  "1040": {
+    "jpName": "げんきのアメ",
+    "zhName": "元气糖果",
+    "enName": "Health Candy",
+    "id": 1040
+  },
+  "1039": {
+    "jpName": "ニビあられ",
+    "zhName": "深灰米果",
+    "enName": "Pewter Crunchies",
+    "id": 1039
+  },
+  "1038": {
+    "jpName": "ゴールドコロン",
+    "zhName": "黄金香水",
+    "enName": "Max Lure",
+    "id": 1038
+  },
+  "1037": {
+    "jpName": "シルバーコロン",
+    "zhName": "白银香水",
+    "enName": "Super Lure",
+    "id": 1037
+  },
+  "610": {
+    "jpName": "せいしんのハネ",
+    "zhName": "精神之羽",
+    "enName": "Clever Feather",
+    "id": 610
+  },
+  "1036": {
+    "jpName": "むしよせコロン",
+    "zhName": "引虫香水",
+    "enName": "Lure",
+    "id": 1036
+  },
+  "611": {
+    "jpName": "しゅんぱつのハネ",
+    "zhName": "瞬发之羽",
+    "enName": "Swift Feather",
+    "id": 611
+  },
+  "1035": {
+    "jpName": "ちいさなはなたば",
+    "zhName": "小小花束",
+    "enName": "Small Bouquet",
+    "id": 1035
+  },
+  "612": {
+    "jpName": "きれいなハネ",
+    "zhName": "美丽之羽",
+    "enName": "Pretty Feather",
+    "id": 612
+  },
+  "1034": {
+    "jpName": "このはのおてがみ",
+    "zhName": "树叶信",
+    "enName": "Leaf Letter",
+    "id": 1034
+  },
+  "613": {
+    "jpName": "ふたのカセキ",
+    "zhName": "背盖化石",
+    "enName": "Cover Fossil",
+    "id": 613
+  },
+  "614": {
+    "jpName": "はねのカセキ",
+    "zhName": "羽毛化石",
+    "enName": "Plume Fossil",
+    "id": 614
+  },
+  "615": {
+    "jpName": "リバティチケット",
+    "zhName": "自由船票",
+    "enName": "Liberty Pass",
+    "id": 615
+  },
+  "616": {
+    "jpName": "デルダマ",
+    "zhName": "释出之玉",
+    "enName": "Pass Orb",
+    "id": 616
+  },
+  "617": {
+    "jpName": "ドリームボール",
+    "zhName": "梦境球",
+    "enName": "Dream Ball",
+    "id": 617
+  },
+  "618": {
+    "jpName": "ポケじゃらし",
+    "zhName": "宝可尾草",
+    "enName": "Poké Toy",
+    "id": 618
+  },
+  "619": {
+    "jpName": "グッズケース",
+    "zhName": "物品箱",
+    "enName": "Prop Case",
+    "id": 619
+  },
+  "1055": {
+    "jpName": "ちしきのアメＸＬ",
+    "zhName": "知识糖果ＸＬ",
+    "enName": "Smart Candy XL",
+    "id": 1055
+  },
+  "1054": {
+    "jpName": "まもりのアメＸＬ",
+    "zhName": "守护糖果ＸＬ",
+    "enName": "Tough Candy XL",
+    "id": 1054
+  },
+  "1053": {
+    "jpName": "ちからのアメＸＬ",
+    "zhName": "力量糖果ＸＬ",
+    "enName": "Mighty Candy XL",
+    "id": 1053
+  },
+  "1052": {
+    "jpName": "げんきのアメＸＬ",
+    "zhName": "元气糖果ＸＬ",
+    "enName": "Health Candy XL",
+    "id": 1052
+  },
+  "1051": {
+    "jpName": "はやさのアメＬ",
+    "zhName": "敏捷糖果Ｌ",
+    "enName": "Quick Candy L",
+    "id": 1051
+  },
+  "1050": {
+    "jpName": "こころのアメＬ",
+    "zhName": "心灵糖果Ｌ",
+    "enName": "Courage Candy L",
+    "id": 1050
+  },
+  "1049": {
+    "jpName": "ちしきのアメＬ",
+    "zhName": "知识糖果Ｌ",
+    "enName": "Smart Candy L",
+    "id": 1049
+  },
+  "620": {
+    "jpName": "ドラゴンのホネ",
+    "zhName": "龙之骨",
+    "enName": "Dragon Skull",
+    "id": 620
+  },
+  "1048": {
+    "jpName": "まもりのアメＬ",
+    "zhName": "守护糖果Ｌ",
+    "enName": "Tough Candy L",
+    "id": 1048
+  },
+  "621": {
+    "jpName": "かおるキノコ",
+    "zhName": "芳香蘑菇",
+    "enName": "Balm Mushroom",
+    "id": 621
+  },
+  "1047": {
+    "jpName": "ちからのアメＬ",
+    "zhName": "力量糖果Ｌ",
+    "enName": "Mighty Candy L",
+    "id": 1047
+  },
+  "622": {
+    "jpName": "でかいきんのたま",
+    "zhName": "巨大金珠",
+    "enName": "Big Nugget",
+    "id": 622
+  },
+  "1046": {
+    "jpName": "げんきのアメＬ",
+    "zhName": "元气糖果Ｌ",
+    "enName": "Health Candy L",
+    "id": 1046
+  },
+  "623": {
+    "jpName": "おだんごしんじゅ",
+    "zhName": "丸子珍珠",
+    "enName": "Pearl String",
+    "id": 623
+  },
+  "1045": {
+    "jpName": "はやさのアメ",
+    "zhName": "敏捷糖果",
+    "enName": "Quick Candy",
+    "id": 1045
+  },
+  "624": {
+    "jpName": "すいせいのかけら",
+    "zhName": "彗星碎片",
+    "enName": "Comet Shard",
+    "id": 624
+  },
+  "625": {
+    "jpName": "こだいのどうか",
+    "zhName": "古代铜币",
+    "enName": "Relic Copper",
+    "id": 625
+  },
+  "626": {
+    "jpName": "こだいのぎんか",
+    "zhName": "古代银币",
+    "enName": "Relic Silver",
+    "id": 626
+  },
+  "627": {
+    "jpName": "こだいのきんか",
+    "zhName": "古代金币",
+    "enName": "Relic Gold",
+    "id": 627
+  },
+  "628": {
+    "jpName": "こだいのツボ",
+    "zhName": "古代之壶",
+    "enName": "Relic Vase",
+    "id": 628
+  },
+  "629": {
+    "jpName": "こだいのうでわ",
+    "zhName": "古代手镯",
+    "enName": "Relic Band",
+    "id": 629
+  },
+  "1066": {
+    "jpName": "アーボのアメ",
+    "zhName": "阿柏蛇的糖果",
+    "enName": "Ekans Candy",
+    "id": 1066
+  },
+  "1065": {
+    "jpName": "オニスズメのアメ",
+    "zhName": "烈雀的糖果",
+    "enName": "Spearow Candy",
+    "id": 1065
+  },
+  "1064": {
+    "jpName": "コラッタのアメ",
+    "zhName": "小拉达的糖果",
+    "enName": "Rattata Candy",
+    "id": 1064
+  },
+  "1063": {
+    "jpName": "ポッポのアメ",
+    "zhName": "波波的糖果",
+    "enName": "Pidgey Candy",
+    "id": 1063
+  },
+  "1062": {
+    "jpName": "ビードルのアメ",
+    "zhName": "独角虫的糖果",
+    "enName": "Weedle Candy",
+    "id": 1062
+  },
+  "1061": {
+    "jpName": "キャタピーのアメ",
+    "zhName": "绿毛虫的糖果",
+    "enName": "Caterpie Candy",
+    "id": 1061
+  },
+  "1060": {
+    "jpName": "ゼニガメのアメ",
+    "zhName": "杰尼龟的糖果",
+    "enName": "Squirtle Candy",
+    "id": 1060
+  },
+  "630": {
+    "jpName": "こだいのせきぞう",
+    "zhName": "古代石像",
+    "enName": "Relic Statue",
+    "id": 630
+  },
+  "631": {
+    "jpName": "こだいのおうかん",
+    "zhName": "古代王冠",
+    "enName": "Relic Crown",
+    "id": 631
+  },
+  "1059": {
+    "jpName": "ヒトカゲのアメ",
+    "zhName": "小火龙的糖果",
+    "enName": "Charmander Candy",
+    "id": 1059
+  },
+  "632": {
+    "jpName": "ヒウンアイス",
+    "zhName": "飞云冰淇淋",
+    "enName": "Casteliacone",
+    "id": 632
+  },
+  "1058": {
+    "jpName": "フシギダネのアメ",
+    "zhName": "妙蛙种子的糖果",
+    "enName": "Bulbasaur Candy",
+    "id": 1058
+  },
+  "633": {
+    "jpName": "クリティカット２",
+    "zhName": "要害攻击２",
+    "enName": "Dire Hit 2",
+    "id": 633
+  },
+  "1057": {
+    "jpName": "はやさのアメＸＬ",
+    "zhName": "敏捷糖果ＸＬ",
+    "enName": "Quick Candy XL",
+    "id": 1057
+  },
+  "634": {
+    "jpName": "スピーダー２",
+    "zhName": "速度强化２",
+    "enName": "X Speed 2",
+    "id": 634
+  },
+  "1056": {
+    "jpName": "こころのアメＸＬ",
+    "zhName": "心灵糖果ＸＬ",
+    "enName": "Courage Candy XL",
+    "id": 1056
+  },
+  "635": {
+    "jpName": "ＳＰアップ２",
+    "zhName": "特攻强化２",
+    "enName": "X Sp. Atk 2",
+    "id": 635
+  },
+  "636": {
+    "jpName": "ＳＰガード２",
+    "zhName": "特防强化２",
+    "enName": "X Sp. Def 2",
+    "id": 636
+  },
+  "637": {
+    "jpName": "ディフェンダー２",
+    "zhName": "防御强化２",
+    "enName": "X Defense 2",
+    "id": 637
+  },
+  "638": {
+    "jpName": "プラスパワー２",
+    "zhName": "力量强化２",
+    "enName": "X Attack 2",
+    "id": 638
+  },
+  "639": {
+    "jpName": "ヨクアタール２",
+    "zhName": "命中强化２",
+    "enName": "X Accuracy 2",
+    "id": 639
+  },
+  "1077": {
+    "jpName": "コンパンのアメ",
+    "zhName": "毛球的糖果",
+    "enName": "Venonat Candy",
+    "id": 1077
+  },
+  "1076": {
+    "jpName": "パラスのアメ",
+    "zhName": "派拉斯的糖果",
+    "enName": "Paras Candy",
+    "id": 1076
+  },
+  "1075": {
+    "jpName": "ナゾノクサのアメ",
+    "zhName": "走路草的糖果",
+    "enName": "Oddish Candy",
+    "id": 1075
+  },
+  "1074": {
+    "jpName": "ズバットのアメ",
+    "zhName": "超音蝠的糖果",
+    "enName": "Zubat Candy",
+    "id": 1074
+  },
+  "1073": {
+    "jpName": "プリンのアメ",
+    "zhName": "胖丁的糖果",
+    "enName": "Jigglypuff Candy",
+    "id": 1073
+  },
+  "1072": {
+    "jpName": "ロコンのアメ",
+    "zhName": "六尾的糖果",
+    "enName": "Vulpix Candy",
+    "id": 1072
+  },
+  "1071": {
+    "jpName": "ピッピのアメ",
+    "zhName": "皮皮的糖果",
+    "enName": "Clefairy Candy",
+    "id": 1071
+  },
+  "1070": {
+    "jpName": "ニドラン♂のアメ",
+    "zhName": "尼多朗的糖果",
+    "enName": "Nidoran♂ Candy",
+    "id": 1070
+  },
+  "640": {
+    "jpName": "スピーダー３",
+    "zhName": "速度强化３",
+    "enName": "X Speed 3",
+    "id": 640
+  },
+  "641": {
+    "jpName": "ＳＰアップ３",
+    "zhName": "特攻强化３",
+    "enName": "X Sp. Atk 3",
+    "id": 641
+  },
+  "642": {
+    "jpName": "ＳＰガード３",
+    "zhName": "特防强化３",
+    "enName": "X Sp. Def 3",
+    "id": 642
+  },
+  "643": {
+    "jpName": "ディフェンダー３",
+    "zhName": "防御强化３",
+    "enName": "X Defense 3",
+    "id": 643
+  },
+  "1069": {
+    "jpName": "ニドラン♀のアメ",
+    "zhName": "尼多兰的糖果",
+    "enName": "Nidoran♀ Candy",
+    "id": 1069
+  },
+  "644": {
+    "jpName": "プラスパワー３",
+    "zhName": "力量强化３",
+    "enName": "X Attack 3",
+    "id": 644
+  },
+  "1068": {
+    "jpName": "サンドのアメ",
+    "zhName": "穿山鼠的糖果",
+    "enName": "Sandshrew Candy",
+    "id": 1068
+  },
+  "645": {
+    "jpName": "ヨクアタール３",
+    "zhName": "命中强化３",
+    "enName": "X Accuracy 3",
+    "id": 645
+  },
+  "1067": {
+    "jpName": "ピカチュウのアメ",
+    "zhName": "皮卡丘的糖果",
+    "enName": "Pikachu Candy",
+    "id": 1067
+  },
+  "646": {
+    "jpName": "スピーダー６",
+    "zhName": "速度强化６",
+    "enName": "X Speed 6",
+    "id": 646
+  },
+  "647": {
+    "jpName": "ＳＰアップ６",
+    "zhName": "特攻强化６",
+    "enName": "X Sp. Atk 6",
+    "id": 647
+  },
+  "648": {
+    "jpName": "ＳＰガード６",
+    "zhName": "特防强化６",
+    "enName": "X Sp. Def 6",
+    "id": 648
+  },
+  "649": {
+    "jpName": "ディフェンダー６",
+    "zhName": "防御强化６",
+    "enName": "X Defense 6",
+    "id": 649
+  },
+  "1080": {
+    "jpName": "コダックのアメ",
+    "zhName": "可达鸭的糖果",
+    "enName": "Psyduck Candy",
+    "id": 1080
+  },
+  "1088": {
+    "jpName": "イシツブテのアメ",
+    "zhName": "小拳石的糖果",
+    "enName": "Geodude Candy",
+    "id": 1088
+  },
+  "1087": {
+    "jpName": "メノクラゲのアメ",
+    "zhName": "玛瑙水母的糖果",
+    "enName": "Tentacool Candy",
+    "id": 1087
+  },
+  "1086": {
+    "jpName": "マダツボミのアメ",
+    "zhName": "喇叭芽的糖果",
+    "enName": "Bellsprout Candy",
+    "id": 1086
+  },
+  "1085": {
+    "jpName": "ワンリキーのアメ",
+    "zhName": "腕力的糖果",
+    "enName": "Machop Candy",
+    "id": 1085
+  },
+  "1084": {
+    "jpName": "ケーシィのアメ",
+    "zhName": "凯西的糖果",
+    "enName": "Abra Candy",
+    "id": 1084
+  },
+  "1083": {
+    "jpName": "ニョロモのアメ",
+    "zhName": "蚊香蝌蚪的糖果",
+    "enName": "Poliwag Candy",
+    "id": 1083
+  },
+  "1082": {
+    "jpName": "ガーディのアメ",
+    "zhName": "卡蒂狗的糖果",
+    "enName": "Growlithe Candy",
+    "id": 1082
+  },
+  "1081": {
+    "jpName": "マンキーのアメ",
+    "zhName": "猴怪的糖果",
+    "enName": "Mankey Candy",
+    "id": 1081
+  },
+  "650": {
+    "jpName": "プラスパワー６",
+    "zhName": "力量强化６",
+    "enName": "X Attack 6",
+    "id": 650
+  },
+  "651": {
+    "jpName": "ヨクアタール６",
+    "zhName": "命中强化６",
+    "enName": "X Accuracy 6",
+    "id": 651
+  },
+  "652": {
+    "jpName": "スキルコール",
+    "zhName": "？？？",
+    "enName": "Ability Urge",
+    "id": 652
+  },
+  "653": {
+    "jpName": "アイテムドロップ",
+    "zhName": "？？？",
+    "enName": "Item Drop",
+    "id": 653
+  },
+  "654": {
+    "jpName": "アイテムコール",
+    "zhName": "？？？",
+    "enName": "Item Urge",
+    "id": 654
+  },
+  "655": {
+    "jpName": "フラットコール",
+    "zhName": "？？？",
+    "enName": "Reset Urge",
+    "id": 655
+  },
+  "1079": {
+    "jpName": "ニャースのアメ",
+    "zhName": "喵喵的糖果",
+    "enName": "Meowth Candy",
+    "id": 1079
+  },
+  "656": {
+    "jpName": "クリティカット３",
+    "zhName": "要害攻击３",
+    "enName": "Dire Hit 3",
+    "id": 656
+  },
+  "1078": {
+    "jpName": "ディグダのアメ",
+    "zhName": "地鼠的糖果",
+    "enName": "Diglett Candy",
+    "id": 1078
+  },
+  "657": {
+    "jpName": "ライトストーン",
+    "zhName": "光明石",
+    "enName": "Light Stone",
+    "id": 657
+  },
+  "658": {
+    "jpName": "ダークストーン",
+    "zhName": "黑暗石",
+    "enName": "Dark Stone",
+    "id": 658
+  },
+  "659": {
+    "jpName": "わざマシン９３",
+    "zhName": "招式学习器９３",
+    "enName": "TM93",
+    "id": 659
+  },
+  "1091": {
+    "jpName": "コイルのアメ",
+    "zhName": "小磁怪的糖果",
+    "enName": "Magnemite Candy",
+    "id": 1091
+  },
+  "1090": {
+    "jpName": "ヤドンのアメ",
+    "zhName": "呆呆兽的糖果",
+    "enName": "Slowpoke Candy",
+    "id": 1090
+  },
+  "1099": {
+    "jpName": "スリープのアメ",
+    "zhName": "催眠貘的糖果",
+    "enName": "Drowzee Candy",
+    "id": 1099
+  },
+  "1098": {
+    "jpName": "イワークのアメ",
+    "zhName": "大岩蛇的糖果",
+    "enName": "Onix Candy",
+    "id": 1098
+  },
+  "1097": {
+    "jpName": "ゴースのアメ",
+    "zhName": "鬼斯的糖果",
+    "enName": "Gastly Candy",
+    "id": 1097
+  },
+  "1096": {
+    "jpName": "シェルダーのアメ",
+    "zhName": "大舌贝的糖果",
+    "enName": "Shellder Candy",
+    "id": 1096
+  },
+  "1095": {
+    "jpName": "ベトベターのアメ",
+    "zhName": "臭泥的糖果",
+    "enName": "Grimer Candy",
+    "id": 1095
+  },
+  "1094": {
+    "jpName": "パウワウのアメ",
+    "zhName": "小海狮的糖果",
+    "enName": "Seel Candy",
+    "id": 1094
+  },
+  "1093": {
+    "jpName": "ドードーのアメ",
+    "zhName": "嘟嘟的糖果",
+    "enName": "Doduo Candy",
+    "id": 1093
+  },
+  "1092": {
+    "jpName": "カモネギのアメ",
+    "zhName": "大葱鸭的糖果",
+    "enName": "Farfetch’d Candy",
+    "id": 1092
+  },
+  "660": {
+    "jpName": "わざマシン９４",
+    "zhName": "招式学习器９４",
+    "enName": "TM94",
+    "id": 660
+  },
+  "661": {
+    "jpName": "わざマシン９５",
+    "zhName": "招式学习器９５",
+    "enName": "TM95",
+    "id": 661
+  },
+  "662": {
+    "jpName": "ライブキャスター",
+    "zhName": "即时通讯器",
+    "enName": "Xtransceiver",
+    "id": 662
+  },
+  "663": {
+    "jpName": "",
+    "zhName": "神石",
+    "enName": "god stone",
+    "id": 663
+  },
+  "664": {
+    "jpName": "はいたつぶつ１",
+    "zhName": "配送物品１",
+    "enName": "Gram 1",
+    "id": 664
+  },
+  "665": {
+    "jpName": "はいたつぶつ２",
+    "zhName": "配送物品２",
+    "enName": "Gram 2",
+    "id": 665
+  },
+  "666": {
+    "jpName": "はいたつぶつ３",
+    "zhName": "配送物品３",
+    "enName": "Gram 3",
+    "id": 666
+  },
+  "1089": {
+    "jpName": "ポニータのアメ",
+    "zhName": "小火马的糖果",
+    "enName": "Ponyta Candy",
+    "id": 1089
+  },
+  "668": {
+    "jpName": "ドラゴンジュエル",
+    "zhName": "龙之宝石",
+    "enName": "Dragon Gem",
+    "id": 668
+  },
+  "669": {
+    "jpName": "ノーマルジュエル",
+    "zhName": "一般宝石",
+    "enName": "Normal Gem",
+    "id": 669
+  },
+  "670": {
+    "jpName": "メダルボックス",
+    "zhName": "奖牌盒",
+    "enName": "Medal Box",
+    "id": 670
+  },
+  "671": {
+    "jpName": "いでんしのくさび",
+    "zhName": "基因之楔",
+    "enName": "DNA Splicers",
+    "id": 671
+  },
+  "673": {
+    "jpName": "きょかしょう",
+    "zhName": "许可证",
+    "enName": "Permit",
+    "id": 673
+  },
+  "674": {
+    "jpName": "まるいおまもり",
+    "zhName": "圆形护符",
+    "enName": "Oval Charm",
+    "id": 674
+  },
+  "675": {
+    "jpName": "ひかるおまもり",
+    "zhName": "闪耀护符",
+    "enName": "Shiny Charm",
+    "id": 675
+  },
+  "676": {
+    "jpName": "プラズマカード",
+    "zhName": "等离子卡",
+    "enName": "Plasma Card",
+    "id": 676
+  },
+  "677": {
+    "jpName": "よごれたハンカチ",
+    "zhName": "脏手帕",
+    "enName": "Grubby Hanky",
+    "id": 677
+  },
+  "678": {
+    "jpName": "アクロママシーン",
+    "zhName": "阿克罗玛机器",
+    "enName": "Colress Machine",
+    "id": 678
+  },
+  "679": {
+    "jpName": "わすれもの",
+    "zhName": "遗忘物",
+    "enName": "Dropped Item",
+    "id": 679
+  },
+  "681": {
+    "jpName": "うつしかがみ",
+    "zhName": "现形镜",
+    "enName": "Reveal Glass",
+    "id": 681
+  },
+  "682": {
+    "jpName": "じゃくてんほけん",
+    "zhName": "弱点保险",
+    "enName": "Weakness Policy",
+    "id": 682
+  },
+  "683": {
+    "jpName": "とつげきチョッキ",
+    "zhName": "突击背心",
+    "enName": "Assault Vest",
+    "id": 683
+  },
+  "200": {
+    "jpName": "おまもりこばん",
+    "zhName": "护符金币",
+    "enName": "Amulet Coin",
+    "id": 200
+  },
+  "684": {
+    "jpName": "せいれいプレート",
+    "zhName": "妖精石板",
+    "enName": "Pixie Plate",
+    "id": 684
+  },
+  "201": {
+    "jpName": "きよめのおふだ",
+    "zhName": "洁净之符",
+    "enName": "Cleanse Tag",
+    "id": 201
+  },
+  "685": {
+    "jpName": "とくせいカプセル",
+    "zhName": "特性胶囊",
+    "enName": "Ability Capsule",
+    "id": 685
+  },
+  "202": {
+    "jpName": "こころのしずく",
+    "zhName": "心之水滴",
+    "enName": "Soul Dew",
+    "id": 202
+  },
+  "686": {
+    "jpName": "ホイップポップ",
+    "zhName": "泡沫奶油",
+    "enName": "Whipped Dream",
+    "id": 686
+  },
+  "203": {
+    "jpName": "しんかいのキバ",
+    "zhName": "深海之牙",
+    "enName": "Deep Sea Tooth",
+    "id": 203
+  },
+  "687": {
+    "jpName": "においぶくろ",
+    "zhName": "香袋",
+    "enName": "Sachet",
+    "id": 687
+  },
+  "204": {
+    "jpName": "しんかいのウロコ",
+    "zhName": "深海鳞片",
+    "enName": "Deep Sea Scale",
+    "id": 204
+  },
+  "688": {
+    "jpName": "ひかりごけ",
+    "zhName": "光苔",
+    "enName": "Luminous Moss",
+    "id": 688
+  },
+  "205": {
+    "jpName": "けむりだま",
+    "zhName": "烟雾球",
+    "enName": "Smoke Ball",
+    "id": 205
+  },
+  "689": {
+    "jpName": "ゆきだま",
+    "zhName": "雪球",
+    "enName": "Snowball",
+    "id": 689
+  },
+  "206": {
+    "jpName": "かわらずのいし",
+    "zhName": "不变之石",
+    "enName": "Everstone",
+    "id": 206
+  },
+  "207": {
+    "jpName": "きあいのハチマキ",
+    "zhName": "气势头带",
+    "enName": "Focus Band",
+    "id": 207
+  },
+  "208": {
+    "jpName": "しあわせタマゴ",
+    "zhName": "幸运蛋",
+    "enName": "Lucky Egg",
+    "id": 208
+  },
+  "209": {
+    "jpName": "ピントレンズ",
+    "zhName": "焦点镜",
+    "enName": "Scope Lens",
+    "id": 209
+  },
+  "690": {
+    "jpName": "ぼうじんゴーグル",
+    "zhName": "防尘护目镜",
+    "enName": "Safety Goggles",
+    "id": 690
+  },
+  "691": {
+    "jpName": "たわわこやし",
+    "zhName": "硕果肥",
+    "enName": "Rich Mulch",
+    "id": 691
+  },
+  "692": {
+    "jpName": "びっくりこやし",
+    "zhName": "吃惊肥",
+    "enName": "Surprise Mulch",
+    "id": 692
+  },
+  "693": {
+    "jpName": "ぐんぐんこやし",
+    "zhName": "劲劲肥",
+    "enName": "Boost Mulch",
+    "id": 693
+  },
+  "210": {
+    "jpName": "メタルコート",
+    "zhName": "金属膜",
+    "enName": "Metal Coat",
+    "id": 210
+  },
+  "694": {
+    "jpName": "とんでもこやし",
+    "zhName": "超效肥",
+    "enName": "Amaze Mulch",
+    "id": 694
+  },
+  "211": {
+    "jpName": "たべのこし",
+    "zhName": "吃剩的东西",
+    "enName": "Leftovers",
+    "id": 211
+  },
+  "695": {
+    "jpName": "ゲンガナイト",
+    "zhName": "耿鬼进化石",
+    "enName": "Gengarite",
+    "id": 695
+  },
+  "212": {
+    "jpName": "りゅうのウロコ",
+    "zhName": "龙之鳞片",
+    "enName": "Dragon Scale",
+    "id": 212
+  },
+  "696": {
+    "jpName": "サーナイトナイト",
+    "zhName": "沙奈朵进化石",
+    "enName": "Gardevoirite",
+    "id": 696
+  },
+  "213": {
+    "jpName": "でんきだま",
+    "zhName": "电气球",
+    "enName": "Light Ball",
+    "id": 213
+  },
+  "697": {
+    "jpName": "デンリュウナイト",
+    "zhName": "电龙进化石",
+    "enName": "Ampharosite",
+    "id": 697
+  },
+  "214": {
+    "jpName": "やわらかいすな",
+    "zhName": "柔软沙子",
+    "enName": "Soft Sand",
+    "id": 214
+  },
+  "698": {
+    "jpName": "フシギバナイト",
+    "zhName": "妙蛙花进化石",
+    "enName": "Venusaurite",
+    "id": 698
+  },
+  "215": {
+    "jpName": "かたいいし",
+    "zhName": "硬石头",
+    "enName": "Hard Stone",
+    "id": 215
+  },
+  "699": {
+    "jpName": "リザードナイトＸ",
+    "zhName": "喷火龙进化石Ｘ",
+    "enName": "Charizardite X",
+    "id": 699
+  },
+  "216": {
+    "jpName": "きせきのタネ",
+    "zhName": "奇迹种子",
+    "enName": "Miracle Seed",
+    "id": 216
+  },
+  "217": {
+    "jpName": "くろいメガネ",
+    "zhName": "黑色眼镜",
+    "enName": "Black Glasses",
+    "id": 217
+  },
+  "218": {
+    "jpName": "くろおび",
+    "zhName": "黑带",
+    "enName": "Black Belt",
+    "id": 218
+  },
+  "219": {
+    "jpName": "じしゃく",
+    "zhName": "磁铁",
+    "enName": "Magnet",
+    "id": 219
+  },
+  "220": {
+    "jpName": "しんぴのしずく",
+    "zhName": "神秘水滴",
+    "enName": "Mystic Water",
+    "id": 220
+  },
+  "221": {
+    "jpName": "するどいくちばし",
+    "zhName": "锐利鸟嘴",
+    "enName": "Sharp Beak",
+    "id": 221
+  },
+  "222": {
+    "jpName": "どくバリ",
+    "zhName": "毒针",
+    "enName": "Poison Barb",
+    "id": 222
+  },
+  "223": {
+    "jpName": "とけないこおり",
+    "zhName": "不融冰",
+    "enName": "Never-Melt Ice",
+    "id": 223
+  },
+  "224": {
+    "jpName": "のろいのおふだ",
+    "zhName": "诅咒之符",
+    "enName": "Spell Tag",
+    "id": 224
+  },
+  "225": {
+    "jpName": "まがったスプーン",
+    "zhName": "弯曲的汤匙",
+    "enName": "Twisted Spoon",
+    "id": 225
+  },
+  "226": {
+    "jpName": "もくたん",
+    "zhName": "木炭",
+    "enName": "Charcoal",
+    "id": 226
+  },
+  "227": {
+    "jpName": "りゅうのキバ",
+    "zhName": "龙之牙",
+    "enName": "Dragon Fang",
+    "id": 227
+  },
+  "228": {
+    "jpName": "シルクのスカーフ",
+    "zhName": "丝绸围巾",
+    "enName": "Silk Scarf",
+    "id": 228
+  },
+  "229": {
+    "jpName": "アップグレード",
+    "zhName": "升级数据",
+    "enName": "Upgrade",
+    "id": 229
+  },
+  "230": {
+    "jpName": "かいがらのすず",
+    "zhName": "贝壳之铃",
+    "enName": "Shell Bell",
+    "id": 230
+  },
+  "231": {
+    "jpName": "うしおのおこう",
+    "zhName": "海潮薰香",
+    "enName": "Sea Incense",
+    "id": 231
+  },
+  "232": {
+    "jpName": "のんきのおこう",
+    "zhName": "悠闲薰香",
+    "enName": "Lax Incense",
+    "id": 232
+  },
+  "233": {
+    "jpName": "ラッキーパンチ",
+    "zhName": "吉利拳",
+    "enName": "Lucky Punch",
+    "id": 233
+  },
+  "234": {
+    "jpName": "メタルパウダー",
+    "zhName": "金属粉",
+    "enName": "Metal Powder",
+    "id": 234
+  },
+  "235": {
+    "jpName": "ふといホネ",
+    "zhName": "粗骨头",
+    "enName": "Thick Club",
+    "id": 235
+  },
+  "236": {
+    "jpName": "ながねぎ",
+    "zhName": "大葱",
+    "enName": "Leek",
+    "id": 236
+  },
+  "237": {
+    "jpName": "あかいバンダナ",
+    "zhName": "红色头巾",
+    "enName": "Red Scarf",
+    "id": 237
+  },
+  "238": {
+    "jpName": "あおいバンダナ",
+    "zhName": "蓝色头巾",
+    "enName": "Blue Scarf",
+    "id": 238
+  },
+  "239": {
+    "jpName": "ピンクのバンダナ",
+    "zhName": "粉红头巾",
+    "enName": "Pink Scarf",
+    "id": 239
+  },
+  "240": {
+    "jpName": "みどりのバンダナ",
+    "zhName": "绿色头巾",
+    "enName": "Green Scarf",
+    "id": 240
+  },
+  "241": {
+    "jpName": "きいろのバンダナ",
+    "zhName": "黄色头巾",
+    "enName": "Yellow Scarf",
+    "id": 241
+  },
+  "242": {
+    "jpName": "こうかくレンズ",
+    "zhName": "广角镜",
+    "enName": "Wide Lens",
+    "id": 242
+  },
+  "243": {
+    "jpName": "ちからのハチマキ",
+    "zhName": "力量头带",
+    "enName": "Muscle Band",
+    "id": 243
+  },
+  "244": {
+    "jpName": "ものしりメガネ",
+    "zhName": "博识眼镜",
+    "enName": "Wise Glasses",
+    "id": 244
+  },
+  "245": {
+    "jpName": "たつじんのおび",
+    "zhName": "达人带",
+    "enName": "Expert Belt",
+    "id": 245
+  },
+  "246": {
+    "jpName": "ひかりのねんど",
+    "zhName": "光之黏土",
+    "enName": "Light Clay",
+    "id": 246
+  },
+  "247": {
+    "jpName": "いのちのたま",
+    "zhName": "生命宝珠",
+    "enName": "Life Orb",
+    "id": 247
+  },
+  "248": {
+    "jpName": "パワフルハーブ",
+    "zhName": "强力香草",
+    "enName": "Power Herb",
+    "id": 248
+  },
+  "249": {
+    "jpName": "どくどくだま",
+    "zhName": "剧毒宝珠",
+    "enName": "Toxic Orb",
+    "id": 249
+  },
+  "250": {
+    "jpName": "かえんだま",
+    "zhName": "火焰宝珠",
+    "enName": "Flame Orb",
+    "id": 250
+  },
+  "251": {
+    "jpName": "スピードパウダー",
+    "zhName": "速度粉",
+    "enName": "Quick Powder",
+    "id": 251
+  },
+  "252": {
+    "jpName": "きあいのタスキ",
+    "zhName": "气势披带",
+    "enName": "Focus Sash",
+    "id": 252
+  },
+  "253": {
+    "jpName": "フォーカスレンズ",
+    "zhName": "对焦镜",
+    "enName": "Zoom Lens",
+    "id": 253
+  },
+  "254": {
+    "jpName": "メトロノーム",
+    "zhName": "节拍器",
+    "enName": "Metronome",
+    "id": 254
+  },
+  "255": {
+    "jpName": "くろいてっきゅう",
+    "zhName": "黑色铁球",
+    "enName": "Iron Ball",
+    "id": 255
+  },
+  "256": {
+    "jpName": "こうこうのしっぽ",
+    "zhName": "后攻之尾",
+    "enName": "Lagging Tail",
+    "id": 256
+  },
+  "257": {
+    "jpName": "あかいいと",
+    "zhName": "红线",
+    "enName": "Destiny Knot",
+    "id": 257
+  },
+  "258": {
+    "jpName": "くろいヘドロ",
+    "zhName": "黑色污泥",
+    "enName": "Black Sludge",
+    "id": 258
+  },
+  "259": {
+    "jpName": "つめたいいわ",
+    "zhName": "冰冷岩石",
+    "enName": "Icy Rock",
+    "id": 259
+  },
+  "260": {
+    "jpName": "さらさらいわ",
+    "zhName": "沙沙岩石",
+    "enName": "Smooth Rock",
+    "id": 260
+  },
+  "261": {
+    "jpName": "あついいわ",
+    "zhName": "炽热岩石",
+    "enName": "Heat Rock",
+    "id": 261
+  },
+  "262": {
+    "jpName": "しめったいわ",
+    "zhName": "潮湿岩石",
+    "enName": "Damp Rock",
+    "id": 262
+  },
+  "263": {
+    "jpName": "ねばりのかぎづめ",
+    "zhName": "紧缠钩爪",
+    "enName": "Grip Claw",
+    "id": 263
+  },
+  "264": {
+    "jpName": "こだわりスカーフ",
+    "zhName": "讲究围巾",
+    "enName": "Choice Scarf",
+    "id": 264
+  },
+  "265": {
+    "jpName": "くっつきバリ",
+    "zhName": "附着针",
+    "enName": "Sticky Barb",
+    "id": 265
+  },
+  "266": {
+    "jpName": "パワーリスト",
+    "zhName": "力量护腕",
+    "enName": "Power Bracer",
+    "id": 266
+  },
+  "267": {
+    "jpName": "パワーベルト",
+    "zhName": "力量腰带",
+    "enName": "Power Belt",
+    "id": 267
+  },
+  "268": {
+    "jpName": "パワーレンズ",
+    "zhName": "力量镜",
+    "enName": "Power Lens",
+    "id": 268
+  },
+  "269": {
+    "jpName": "パワーバンド",
+    "zhName": "力量束带",
+    "enName": "Power Band",
+    "id": 269
+  },
+  "270": {
+    "jpName": "パワーアンクル",
+    "zhName": "力量护踝",
+    "enName": "Power Anklet",
+    "id": 270
+  },
+  "271": {
+    "jpName": "パワーウエイト",
+    "zhName": "力量负重",
+    "enName": "Power Weight",
+    "id": 271
+  },
+  "272": {
+    "jpName": "きれいなぬけがら",
+    "zhName": "美丽空壳",
+    "enName": "Shed Shell",
+    "id": 272
+  },
+  "273": {
+    "jpName": "おおきなねっこ",
+    "zhName": "大根茎",
+    "enName": "Big Root",
+    "id": 273
+  },
+  "274": {
+    "jpName": "こだわりメガネ",
+    "zhName": "讲究眼镜",
+    "enName": "Choice Specs",
+    "id": 274
+  },
+  "275": {
+    "jpName": "ひのたまプレート",
+    "zhName": "火球石板",
+    "enName": "Flame Plate",
+    "id": 275
+  },
+  "276": {
+    "jpName": "しずくプレート",
+    "zhName": "水滴石板",
+    "enName": "Splash Plate",
+    "id": 276
+  },
+  "277": {
+    "jpName": "いかずちプレート",
+    "zhName": "雷电石板",
+    "enName": "Zap Plate",
+    "id": 277
+  },
+  "278": {
+    "jpName": "みどりのプレート",
+    "zhName": "碧绿石板",
+    "enName": "Meadow Plate",
+    "id": 278
+  },
+  "279": {
+    "jpName": "つららのプレート",
+    "zhName": "冰柱石板",
+    "enName": "Icicle Plate",
+    "id": 279
+  },
+  "280": {
+    "jpName": "こぶしのプレート",
+    "zhName": "拳头石板",
+    "enName": "Fist Plate",
+    "id": 280
+  },
+  "281": {
+    "jpName": "もうどくプレート",
+    "zhName": "剧毒石板",
+    "enName": "Toxic Plate",
+    "id": 281
+  },
+  "282": {
+    "jpName": "だいちのプレート",
+    "zhName": "大地石板",
+    "enName": "Earth Plate",
+    "id": 282
+  },
+  "283": {
+    "jpName": "あおぞらプレート",
+    "zhName": "蓝天石板",
+    "enName": "Sky Plate",
+    "id": 283
+  },
+  "284": {
+    "jpName": "ふしぎのプレート",
+    "zhName": "神奇石板",
+    "enName": "Mind Plate",
+    "id": 284
+  },
+  "285": {
+    "jpName": "たまむしプレート",
+    "zhName": "玉虫石板",
+    "enName": "Insect Plate",
+    "id": 285
+  },
+  "286": {
+    "jpName": "がんせきプレート",
+    "zhName": "岩石石板",
+    "enName": "Stone Plate",
+    "id": 286
+  },
+  "287": {
+    "jpName": "もののけプレート",
+    "zhName": "妖怪石板",
+    "enName": "Spooky Plate",
+    "id": 287
+  },
+  "288": {
+    "jpName": "りゅうのプレート",
+    "zhName": "龙之石板",
+    "enName": "Draco Plate",
+    "id": 288
+  },
+  "289": {
+    "jpName": "こわもてプレート",
+    "zhName": "恶颜石板",
+    "enName": "Dread Plate",
+    "id": 289
+  },
+  "290": {
+    "jpName": "こうてつプレート",
+    "zhName": "钢铁石板",
+    "enName": "Iron Plate",
+    "id": 290
+  },
+  "291": {
+    "jpName": "あやしいおこう",
+    "zhName": "奇异薰香",
+    "enName": "Odd Incense",
+    "id": 291
+  },
+  "292": {
+    "jpName": "がんせきおこう",
+    "zhName": "岩石薰香",
+    "enName": "Rock Incense",
+    "id": 292
+  },
+  "293": {
+    "jpName": "まんぷくおこう",
+    "zhName": "饱腹薰香",
+    "enName": "Full Incense",
+    "id": 293
+  },
+  "294": {
+    "jpName": "さざなみのおこう",
+    "zhName": "涟漪薰香",
+    "enName": "Wave Incense",
+    "id": 294
+  },
+  "295": {
+    "jpName": "おはなのおこう",
+    "zhName": "花朵薰香",
+    "enName": "Rose Incense",
+    "id": 295
+  },
+  "296": {
+    "jpName": "こううんのおこう",
+    "zhName": "幸运薰香",
+    "enName": "Luck Incense",
+    "id": 296
+  },
+  "297": {
+    "jpName": "きよめのおこう",
+    "zhName": "洁净薰香",
+    "enName": "Pure Incense",
+    "id": 297
+  },
+  "298": {
+    "jpName": "プロテクター",
+    "zhName": "护具",
+    "enName": "Protector",
+    "id": 298
+  },
+  "299": {
+    "jpName": "エレキブースター",
+    "zhName": "电力增幅器",
+    "enName": "Electirizer",
+    "id": 299
+  },
+  "1503": {
+    "jpName": "★Sco6027",
+    "zhName": "★Sco6027",
+    "enName": "★Sco6027",
+    "id": 1503
+  },
+  "1502": {
+    "jpName": "★Sco6630",
+    "zhName": "★Sco6630",
+    "enName": "★Sco6630",
+    "id": 1502
+  },
+  "1501": {
+    "jpName": "★Sco5944",
+    "zhName": "★Sco5944",
+    "enName": "★Sco5944",
+    "id": 1501
+  },
+  "1500": {
+    "jpName": "★Sco6084",
+    "zhName": "★Sco6084",
+    "enName": "★Sco6084",
+    "id": 1500
+  },
+  "1509": {
+    "jpName": "★Tri544",
+    "zhName": "★Tri544",
+    "enName": "★Tri544",
+    "id": 1509
+  },
+  "1508": {
+    "jpName": "★Sco6165",
+    "zhName": "★Sco6165",
+    "enName": "★Sco6165",
+    "id": 1508
+  },
+  "1507": {
+    "jpName": "★Sco6241",
+    "zhName": "★Sco6241",
+    "enName": "★Sco6241",
+    "id": 1507
+  },
+  "1506": {
+    "jpName": "★Sco5928",
+    "zhName": "★Sco5928",
+    "enName": "★Sco5928",
+    "id": 1506
+  },
+  "1505": {
+    "jpName": "★Sco6252",
+    "zhName": "★Sco6252",
+    "enName": "★Sco6252",
+    "id": 1505
+  },
+  "1504": {
+    "jpName": "★Sco6247",
+    "zhName": "★Sco6247",
+    "enName": "★Sco6247",
+    "id": 1504
+  },
+  "1514": {
+    "jpName": "★Leo4359",
+    "zhName": "★Leo4359",
+    "enName": "★Leo4359",
+    "id": 1514
+  },
+  "1513": {
+    "jpName": "★Leo4057",
+    "zhName": "★Leo4057",
+    "enName": "★Leo4057",
+    "id": 1513
+  },
+  "1512": {
+    "jpName": "★Leo4357",
+    "zhName": "★Leo4357",
+    "enName": "★Leo4357",
+    "id": 1512
+  },
+  "1511": {
+    "jpName": "★Leo4534",
+    "zhName": "★Leo4534",
+    "enName": "★Leo4534",
+    "id": 1511
+  },
+  "1510": {
+    "jpName": "★Leo3982",
+    "zhName": "★Leo3982",
+    "enName": "★Leo3982",
+    "id": 1510
+  },
+  "1519": {
+    "jpName": "★Gru8425",
+    "zhName": "★Gru8425",
+    "enName": "★Gru8425",
+    "id": 1519
+  },
+  "1518": {
+    "jpName": "★Leo3773",
+    "zhName": "★Leo3773",
+    "enName": "★Leo3773",
+    "id": 1518
+  },
+  "1517": {
+    "jpName": "★Leo3905",
+    "zhName": "★Leo3905",
+    "enName": "★Leo3905",
+    "id": 1517
+  },
+  "1516": {
+    "jpName": "★Leo3852",
+    "zhName": "★Leo3852",
+    "enName": "★Leo3852",
+    "id": 1516
+  },
+  "1515": {
+    "jpName": "★Leo4031",
+    "zhName": "★Leo4031",
+    "enName": "★Leo4031",
+    "id": 1515
+  },
+  "1525": {
+    "jpName": "★Lib5603",
+    "zhName": "★Lib5603",
+    "enName": "★Lib5603",
+    "id": 1525
+  },
+  "1524": {
+    "jpName": "★Lib5787",
+    "zhName": "★Lib5787",
+    "enName": "★Lib5787",
+    "id": 1524
+  },
+  "1523": {
+    "jpName": "★Lib5531",
+    "zhName": "★Lib5531",
+    "enName": "★Lib5531",
+    "id": 1523
+  },
+  "1522": {
+    "jpName": "★Lib5685",
+    "zhName": "★Lib5685",
+    "enName": "★Lib5685",
+    "id": 1522
+  },
+  "1521": {
+    "jpName": "★Gru8353",
+    "zhName": "★Gru8353",
+    "enName": "★Gru8353",
+    "id": 1521
+  },
+  "1520": {
+    "jpName": "★Gru8636",
+    "zhName": "★Gru8636",
+    "enName": "★Gru8636",
+    "id": 1520
+  },
+  "1529": {
+    "jpName": "★Cyg7924",
+    "zhName": "★Cyg7924",
+    "enName": "★Cyg7924",
+    "id": 1529
+  },
+  "1528": {
+    "jpName": "★Pup3045",
+    "zhName": "★Pup3045",
+    "enName": "★Pup3045",
+    "id": 1528
+  },
+  "1527": {
+    "jpName": "★Pup3185",
+    "zhName": "★Pup3185",
+    "enName": "★Pup3185",
+    "id": 1527
+  },
+  "1526": {
+    "jpName": "★Pup3165",
+    "zhName": "★Pup3165",
+    "enName": "★Pup3165",
+    "id": 1526
+  },
+  "1536": {
+    "jpName": "★Col1956",
+    "zhName": "★Col1956",
+    "enName": "★Col1956",
+    "id": 1536
+  },
+  "1535": {
+    "jpName": "★Oct7228",
+    "zhName": "★Oct7228",
+    "enName": "★Oct7228",
+    "id": 1535
+  },
+  "1534": {
+    "jpName": "★Cyg7528",
+    "zhName": "★Cyg7528",
+    "enName": "★Cyg7528",
+    "id": 1534
+  },
+  "1533": {
+    "jpName": "★Cyg7949",
+    "zhName": "★Cyg7949",
+    "enName": "★Cyg7949",
+    "id": 1533
+  },
+  "1532": {
+    "jpName": "★Cyg8301",
+    "zhName": "★Cyg8301",
+    "enName": "★Cyg8301",
+    "id": 1532
+  },
+  "1531": {
+    "jpName": "★Cyg7796",
+    "zhName": "★Cyg7796",
+    "enName": "★Cyg7796",
+    "id": 1531
+  },
+  "1530": {
+    "jpName": "★Cyg7417",
+    "zhName": "★Cyg7417",
+    "enName": "★Cyg7417",
+    "id": 1530
+  },
+  "1539": {
+    "jpName": "★Gem2990",
+    "zhName": "★Gem2990",
+    "enName": "★Gem2990",
+    "id": 1539
+  },
+  "1538": {
+    "jpName": "★Col2177",
+    "zhName": "★Col2177",
+    "enName": "★Col2177",
+    "id": 1538
+  },
+  "1537": {
+    "jpName": "★Col2040",
+    "zhName": "★Col2040",
+    "enName": "★Col2040",
+    "id": 1537
+  },
+  "1550": {
+    "jpName": "★Peg8781",
+    "zhName": "★Peg8781",
+    "enName": "★Peg8781",
+    "id": 1550
+  },
+  "1547": {
+    "jpName": "★Gem2484",
+    "zhName": "★Gem2484",
+    "enName": "★Gem2484",
+    "id": 1547
+  },
+  "1546": {
+    "jpName": "★Gem2286",
+    "zhName": "★Gem2286",
+    "enName": "★Gem2286",
+    "id": 1546
+  },
+  "1545": {
+    "jpName": "★Gem2650",
+    "zhName": "★Gem2650",
+    "enName": "★Gem2650",
+    "id": 1545
+  },
+  "1544": {
+    "jpName": "★Gem2777",
+    "zhName": "★Gem2777",
+    "enName": "★Gem2777",
+    "id": 1544
+  },
+  "1543": {
+    "jpName": "★Gem2216",
+    "zhName": "★Gem2216",
+    "enName": "★Gem2216",
+    "id": 1543
+  },
+  "1542": {
+    "jpName": "★Gem2473",
+    "zhName": "★Gem2473",
+    "enName": "★Gem2473",
+    "id": 1542
+  },
+  "1541": {
+    "jpName": "★Gem2421",
+    "zhName": "★Gem2421",
+    "enName": "★Gem2421",
+    "id": 1541
+  },
+  "1540": {
+    "jpName": "★Gem2891",
+    "zhName": "★Gem2891",
+    "enName": "★Gem2891",
+    "id": 1540
+  },
+  "1549": {
+    "jpName": "★Peg8775",
+    "zhName": "★Peg8775",
+    "enName": "★Peg8775",
+    "id": 1549
+  },
+  "1548": {
+    "jpName": "★Gem2930",
+    "zhName": "★Gem2930",
+    "enName": "★Gem2930",
+    "id": 1548
+  },
+  "1561": {
+    "jpName": "★Oph6603",
+    "zhName": "★Oph6603",
+    "enName": "★Oph6603",
+    "id": 1561
+  },
+  "1560": {
+    "jpName": "★Oph6378",
+    "zhName": "★Oph6378",
+    "enName": "★Oph6378",
+    "id": 1560
+  },
+  "1558": {
+    "jpName": "★Peg8905",
+    "zhName": "★Peg8905",
+    "enName": "★Peg8905",
+    "id": 1558
+  },
+  "1557": {
+    "jpName": "★Peg8880",
+    "zhName": "★Peg8880",
+    "enName": "★Peg8880",
+    "id": 1557
+  },
+  "1556": {
+    "jpName": "★Peg8450",
+    "zhName": "★Peg8450",
+    "enName": "★Peg8450",
+    "id": 1556
+  },
+  "1555": {
+    "jpName": "★Peg8684",
+    "zhName": "★Peg8684",
+    "enName": "★Peg8684",
+    "id": 1555
+  },
+  "1554": {
+    "jpName": "★Peg8634",
+    "zhName": "★Peg8634",
+    "enName": "★Peg8634",
+    "id": 1554
+  },
+  "1553": {
+    "jpName": "★Peg8650",
+    "zhName": "★Peg8650",
+    "enName": "★Peg8650",
+    "id": 1553
+  },
+  "1552": {
+    "jpName": "★Peg8308",
+    "zhName": "★Peg8308",
+    "enName": "★Peg8308",
+    "id": 1552
+  },
+  "1551": {
+    "jpName": "★Peg39",
+    "zhName": "★Peg39",
+    "enName": "★Peg39",
+    "id": 1551
+  },
+  "1559": {
+    "jpName": "★Oph6556",
+    "zhName": "★Oph6556",
+    "enName": "★Oph6556",
+    "id": 1559
+  },
+  "1572": {
+    "jpName": "★Her6117",
+    "zhName": "★Her6117",
+    "enName": "★Her6117",
+    "id": 1572
+  },
+  "1571": {
+    "jpName": "★Her6526",
+    "zhName": "★Her6526",
+    "enName": "★Her6526",
+    "id": 1571
+  },
+  "1570": {
+    "jpName": "★Her6410",
+    "zhName": "★Her6410",
+    "enName": "★Her6410",
+    "id": 1570
+  },
+  "1569": {
+    "jpName": "★Her6148",
+    "zhName": "★Her6148",
+    "enName": "★Her6148",
+    "id": 1569
+  },
+  "1568": {
+    "jpName": "★Her6406",
+    "zhName": "★Her6406",
+    "enName": "★Her6406",
+    "id": 1568
+  },
+  "1567": {
+    "jpName": "★Ser5879",
+    "zhName": "★Ser5879",
+    "enName": "★Ser5879",
+    "id": 1567
+  },
+  "1566": {
+    "jpName": "★Ser7141",
+    "zhName": "★Ser7141",
+    "enName": "★Ser7141",
+    "id": 1566
+  },
+  "1565": {
+    "jpName": "★Ser5854",
+    "zhName": "★Ser5854",
+    "enName": "★Ser5854",
+    "id": 1565
+  },
+  "1564": {
+    "jpName": "★Oph6075",
+    "zhName": "★Oph6075",
+    "enName": "★Oph6075",
+    "id": 1564
+  },
+  "1563": {
+    "jpName": "★Oph6056",
+    "zhName": "★Oph6056",
+    "enName": "★Oph6056",
+    "id": 1563
+  },
+  "1562": {
+    "jpName": "★Oph6149",
+    "zhName": "★Oph6149",
+    "enName": "★Oph6149",
+    "id": 1562
+  },
+  "1583": {
+    "jpName": "★Vel3485",
+    "zhName": "★Vel3485",
+    "enName": "★Vel3485",
+    "id": 1583
+  },
+  "1582": {
+    "jpName": "★Vel3634",
+    "zhName": "★Vel3634",
+    "enName": "★Vel3634",
+    "id": 1582
+  },
+  "1581": {
+    "jpName": "★Phe338",
+    "zhName": "★Phe338",
+    "enName": "★Phe338",
+    "id": 1581
+  },
+  "1580": {
+    "jpName": "★Phe99",
+    "zhName": "★Phe99",
+    "enName": "★Phe99",
+    "id": 1580
+  },
+  "1579": {
+    "jpName": "★Per941",
+    "zhName": "★Per941",
+    "enName": "★Per941",
+    "id": 1579
+  },
+  "1578": {
+    "jpName": "★Per834",
+    "zhName": "★Per834",
+    "enName": "★Per834",
+    "id": 1578
+  },
+  "1577": {
+    "jpName": "★Per1228",
+    "zhName": "★Per1228",
+    "enName": "★Per1228",
+    "id": 1577
+  },
+  "1576": {
+    "jpName": "★Per1131",
+    "zhName": "★Per1131",
+    "enName": "★Per1131",
+    "id": 1576
+  },
+  "1575": {
+    "jpName": "★Per1017",
+    "zhName": "★Per1017",
+    "enName": "★Per1017",
+    "id": 1575
+  },
+  "1574": {
+    "jpName": "★Per936",
+    "zhName": "★Per936",
+    "enName": "★Per936",
+    "id": 1574
+  },
+  "1573": {
+    "jpName": "★Her6008",
+    "zhName": "★Her6008",
+    "enName": "★Her6008",
+    "id": 1573
+  },
+  "1110": {
+    "jpName": "モンジャラのアメ",
+    "zhName": "蔓藤怪的糖果",
+    "enName": "Tangela Candy",
+    "id": 1110
+  },
+  "1594": {
+    "jpName": "★Cru4730",
+    "zhName": "★Cru4730",
+    "enName": "★Cru4730",
+    "id": 1594
+  },
+  "1593": {
+    "jpName": "★Cru4853",
+    "zhName": "★Cru4853",
+    "enName": "★Cru4853",
+    "id": 1593
+  },
+  "1592": {
+    "jpName": "★Aqr8264",
+    "zhName": "★Aqr8264",
+    "enName": "★Aqr8264",
+    "id": 1592
+  },
+  "1591": {
+    "jpName": "★Aqr8610",
+    "zhName": "★Aqr8610",
+    "enName": "★Aqr8610",
+    "id": 1591
+  },
+  "1590": {
+    "jpName": "★Aqr8499",
+    "zhName": "★Aqr8499",
+    "enName": "★Aqr8499",
+    "id": 1590
+  },
+  "1107": {
+    "jpName": "ドガースのアメ",
+    "zhName": "瓦斯弹的糖果",
+    "enName": "Koffing Candy",
+    "id": 1107
+  },
+  "1106": {
+    "jpName": "ベロリンガのアメ",
+    "zhName": "大舌头的糖果",
+    "enName": "Lickitung Candy",
+    "id": 1106
+  },
+  "1105": {
+    "jpName": "エビワラーのアメ",
+    "zhName": "快拳郎的糖果",
+    "enName": "Hitmonchan Candy",
+    "id": 1105
+  },
+  "1589": {
+    "jpName": "★Aqr7950",
+    "zhName": "★Aqr7950",
+    "enName": "★Aqr7950",
+    "id": 1589
+  },
+  "1104": {
+    "jpName": "サワムラーのアメ",
+    "zhName": "飞腿郎的糖果",
+    "enName": "Hitmonlee Candy",
+    "id": 1104
+  },
+  "1588": {
+    "jpName": "★Aqr8518",
+    "zhName": "★Aqr8518",
+    "enName": "★Aqr8518",
+    "id": 1588
+  },
+  "1103": {
+    "jpName": "カラカラのアメ",
+    "zhName": "卡拉卡拉的糖果",
+    "enName": "Cubone Candy",
+    "id": 1103
+  },
+  "1587": {
+    "jpName": "★Aqr8709",
+    "zhName": "★Aqr8709",
+    "enName": "★Aqr8709",
+    "id": 1587
+  },
+  "1102": {
+    "jpName": "タマタマのアメ",
+    "zhName": "蛋蛋的糖果",
+    "enName": "Exeggcute Candy",
+    "id": 1102
+  },
+  "1586": {
+    "jpName": "★Aqr8414",
+    "zhName": "★Aqr8414",
+    "enName": "★Aqr8414",
+    "id": 1586
+  },
+  "1101": {
+    "jpName": "ビリリダマのアメ",
+    "zhName": "霹雳电球的糖果",
+    "enName": "Voltorb Candy",
+    "id": 1101
+  },
+  "1585": {
+    "jpName": "★Aqr8232",
+    "zhName": "★Aqr8232",
+    "enName": "★Aqr8232",
+    "id": 1585
+  },
+  "1100": {
+    "jpName": "クラブのアメ",
+    "zhName": "大钳蟹的糖果",
+    "enName": "Krabby Candy",
+    "id": 1100
+  },
+  "1584": {
+    "jpName": "★Vel3734",
+    "zhName": "★Vel3734",
+    "enName": "★Vel3734",
+    "id": 1584
+  },
+  "1109": {
+    "jpName": "ラッキーのアメ",
+    "zhName": "吉利蛋的糖果",
+    "enName": "Chansey Candy",
+    "id": 1109
+  },
+  "1108": {
+    "jpName": "サイホーンのアメ",
+    "zhName": "独角犀牛的糖果",
+    "enName": "Rhyhorn Candy",
+    "id": 1108
+  },
+  "1121": {
+    "jpName": "コイキングのアメ",
+    "zhName": "鲤鱼王的糖果",
+    "enName": "Magikarp Candy",
+    "id": 1121
+  },
+  "1120": {
+    "jpName": "ケンタロスのアメ",
+    "zhName": "肯泰罗的糖果",
+    "enName": "Tauros Candy",
+    "id": 1120
+  },
+  "1118": {
+    "jpName": "エレブーのアメ",
+    "zhName": "电击兽的糖果",
+    "enName": "Electabuzz Candy",
+    "id": 1118
+  },
+  "1117": {
+    "jpName": "ルージュラのアメ",
+    "zhName": "迷唇姐的糖果",
+    "enName": "Jynx Candy",
+    "id": 1117
+  },
+  "1116": {
+    "jpName": "ストライクのアメ",
+    "zhName": "飞天螳螂的糖果",
+    "enName": "Scyther Candy",
+    "id": 1116
+  },
+  "1115": {
+    "jpName": "バリヤードのアメ",
+    "zhName": "魔墙人偶的糖果",
+    "enName": "Mr. Mime Candy",
+    "id": 1115
+  },
+  "1599": {
+    "jpName": "★TrA6217",
+    "zhName": "★TrA6217",
+    "enName": "★TrA6217",
+    "id": 1599
+  },
+  "1114": {
+    "jpName": "ヒトデマンのアメ",
+    "zhName": "海星星的糖果",
+    "enName": "Staryu Candy",
+    "id": 1114
+  },
+  "1598": {
+    "jpName": "★PsA8728",
+    "zhName": "★PsA8728",
+    "enName": "★PsA8728",
+    "id": 1598
+  },
+  "1113": {
+    "jpName": "トサキントのアメ",
+    "zhName": "角金鱼的糖果",
+    "enName": "Goldeen Candy",
+    "id": 1113
+  },
+  "1597": {
+    "jpName": "★Cru4656",
+    "zhName": "★Cru4656",
+    "enName": "★Cru4656",
+    "id": 1597
+  },
+  "1112": {
+    "jpName": "タッツーのアメ",
+    "zhName": "墨海马的糖果",
+    "enName": "Horsea Candy",
+    "id": 1112
+  },
+  "1596": {
+    "jpName": "★Cru4700",
+    "zhName": "★Cru4700",
+    "enName": "★Cru4700",
+    "id": 1596
+  },
+  "1111": {
+    "jpName": "ガルーラのアメ",
+    "zhName": "袋兽的糖果",
+    "enName": "Kangaskhan Candy",
+    "id": 1111
+  },
+  "1595": {
+    "jpName": "★Cru4763",
+    "zhName": "★Cru4763",
+    "enName": "★Cru4763",
+    "id": 1595
+  },
+  "1119": {
+    "jpName": "カイロスのアメ",
+    "zhName": "凯罗斯的糖果",
+    "enName": "Pinsir Candy",
+    "id": 1119
+  },
+  "1132": {
+    "jpName": "ファイヤーのアメ",
+    "zhName": "火焰鸟的糖果",
+    "enName": "Moltres Candy",
+    "id": 1132
+  },
+  "1131": {
+    "jpName": "サンダーのアメ",
+    "zhName": "闪电鸟的糖果",
+    "enName": "Zapdos Candy",
+    "id": 1131
+  },
+  "1130": {
+    "jpName": "フリーザーのアメ",
+    "zhName": "急冻鸟的糖果",
+    "enName": "Articuno Candy",
+    "id": 1130
+  },
+  "1129": {
+    "jpName": "カビゴンのアメ",
+    "zhName": "卡比兽的糖果",
+    "enName": "Snorlax Candy",
+    "id": 1129
+  },
+  "1128": {
+    "jpName": "プテラのアメ",
+    "zhName": "化石翼龙的糖果",
+    "enName": "Aerodactyl Candy",
+    "id": 1128
+  },
+  "1127": {
+    "jpName": "カブトのアメ",
+    "zhName": "化石盔的糖果",
+    "enName": "Kabuto Candy",
+    "id": 1127
+  },
+  "1126": {
+    "jpName": "オムナイトのアメ",
+    "zhName": "菊石兽的糖果",
+    "enName": "Omanyte Candy",
+    "id": 1126
+  },
+  "1125": {
+    "jpName": "ポリゴンのアメ",
+    "zhName": "多边兽的糖果",
+    "enName": "Porygon Candy",
+    "id": 1125
+  },
+  "1124": {
+    "jpName": "イーブイのアメ",
+    "zhName": "伊布的糖果",
+    "enName": "Eevee Candy",
+    "id": 1124
+  },
+  "1123": {
+    "jpName": "メタモンのアメ",
+    "zhName": "百变怪的糖果",
+    "enName": "Ditto Candy",
+    "id": 1123
+  },
+  "700": {
+    "jpName": "カメックスナイト",
+    "zhName": "水箭龟进化石",
+    "enName": "Blastoisinite",
+    "id": 700
+  },
+  "1122": {
+    "jpName": "ラプラスのアメ",
+    "zhName": "拉普拉斯的糖果",
+    "enName": "Lapras Candy",
+    "id": 1122
+  },
+  "701": {
+    "jpName": "ミュウツナイトＸ",
+    "zhName": "超梦进化石Ｘ",
+    "enName": "Mewtwonite X",
+    "id": 701
+  },
+  "702": {
+    "jpName": "ミュウツナイトＹ",
+    "zhName": "超梦进化石Ｙ",
+    "enName": "Mewtwonite Y",
+    "id": 702
+  },
+  "703": {
+    "jpName": "バシャーモナイト",
+    "zhName": "火焰鸡进化石",
+    "enName": "Blazikenite",
+    "id": 703
+  },
+  "704": {
+    "jpName": "チャーレムナイト",
+    "zhName": "恰雷姆进化石",
+    "enName": "Medichamite",
+    "id": 704
+  },
+  "705": {
+    "jpName": "ヘルガナイト",
+    "zhName": "黑鲁加进化石",
+    "enName": "Houndoominite",
+    "id": 705
+  },
+  "706": {
+    "jpName": "ボスゴドラナイト",
+    "zhName": "波士可多拉进化石",
+    "enName": "Aggronite",
+    "id": 706
+  },
+  "707": {
+    "jpName": "ジュペッタナイト",
+    "zhName": "诅咒娃娃进化石",
+    "enName": "Banettite",
+    "id": 707
+  },
+  "708": {
+    "jpName": "バンギラスナイト",
+    "zhName": "班基拉斯进化石",
+    "enName": "Tyranitarite",
+    "id": 708
+  },
+  "709": {
+    "jpName": "ハッサムナイト",
+    "zhName": "巨钳螳螂进化石",
+    "enName": "Scizorite",
+    "id": 709
+  },
+  "1143": {
+    "jpName": "ロトムじてんしゃ",
+    "zhName": "洛托姆自行车",
+    "enName": "Rotom Bike",
+    "id": 1143
+  },
+  "1142": {
+    "jpName": "つりざお",
+    "zhName": "钓竿",
+    "enName": "Fishing Rod",
+    "id": 1142
+  },
+  "1141": {
+    "jpName": "ダイマックスＢ",
+    "zhName": "极巨腕带",
+    "enName": "Dynamax Band",
+    "id": 1141
+  },
+  "1140": {
+    "jpName": "ねがいぼし",
+    "zhName": "许愿星",
+    "enName": "Wishing Star",
+    "id": 1140
+  },
+  "1139": {
+    "jpName": "ポケモンボックス",
+    "zhName": "宝可梦盒",
+    "enName": "Pokémon Box Link",
+    "id": 1139
+  },
+  "1138": {
+    "jpName": "すいせんじょう",
+    "zhName": "推荐函",
+    "enName": "Endorsement",
+    "id": 1138
+  },
+  "1137": {
+    "jpName": "ブーバーのアメ",
+    "zhName": "鸭嘴火兽的糖果",
+    "enName": "Magmar Candy",
+    "id": 1137
+  },
+  "1136": {
+    "jpName": "メルタンのアメ",
+    "zhName": "美录坦的糖果",
+    "enName": "Meltan Candy",
+    "id": 1136
+  },
+  "1135": {
+    "jpName": "ミュウのアメ",
+    "zhName": "梦幻的糖果",
+    "enName": "Mew Candy",
+    "id": 1135
+  },
+  "710": {
+    "jpName": "カイロスナイト",
+    "zhName": "凯罗斯进化石",
+    "enName": "Pinsirite",
+    "id": 710
+  },
+  "1134": {
+    "jpName": "ミュウツーのアメ",
+    "zhName": "超梦的糖果",
+    "enName": "Mewtwo Candy",
+    "id": 1134
+  },
+  "711": {
+    "jpName": "プテラナイト",
+    "zhName": "化石翼龙进化石",
+    "enName": "Aerodactylite",
+    "id": 711
+  },
+  "1133": {
+    "jpName": "ミニリュウのアメ",
+    "zhName": "迷你龙的糖果",
+    "enName": "Dratini Candy",
+    "id": 1133
+  },
+  "712": {
+    "jpName": "ルカリオナイト",
+    "zhName": "路卡利欧进化石",
+    "enName": "Lucarionite",
+    "id": 712
+  },
+  "713": {
+    "jpName": "ユキノオナイト",
+    "zhName": "暴雪王进化石",
+    "enName": "Abomasite",
+    "id": 713
+  },
+  "714": {
+    "jpName": "ガルーラナイト",
+    "zhName": "袋兽进化石",
+    "enName": "Kangaskhanite",
+    "id": 714
+  },
+  "715": {
+    "jpName": "ギャラドスナイト",
+    "zhName": "暴鲤龙进化石",
+    "enName": "Gyaradosite",
+    "id": 715
+  },
+  "716": {
+    "jpName": "アブソルナイト",
+    "zhName": "阿勃梭鲁进化石",
+    "enName": "Absolite",
+    "id": 716
+  },
+  "717": {
+    "jpName": "リザードナイトＹ",
+    "zhName": "喷火龙进化石Ｙ",
+    "enName": "Charizardite Y",
+    "id": 717
+  },
+  "718": {
+    "jpName": "フーディナイト",
+    "zhName": "胡地进化石",
+    "enName": "Alakazite",
+    "id": 718
+  },
+  "719": {
+    "jpName": "ヘラクロスナイト",
+    "zhName": "赫拉克罗斯进化石",
+    "enName": "Heracronite",
+    "id": 719
+  },
+  "1154": {
+    "jpName": "かぼそいホネ",
+    "zhName": "细骨",
+    "enName": "Brittle Bones",
+    "id": 1154
+  },
+  "1153": {
+    "jpName": "とくせんリンゴ",
+    "zhName": "特选苹果",
+    "enName": "Fancy Apple",
+    "id": 1153
+  },
+  "1152": {
+    "jpName": "ふといながねぎ",
+    "zhName": "粗枝大葱",
+    "enName": "Large Leek",
+    "id": 1152
+  },
+  "1151": {
+    "jpName": "しっぽのくんせい",
+    "zhName": "烟熏尾巴",
+    "enName": "Smoke-Poke Tail",
+    "id": 1151
+  },
+  "1150": {
+    "jpName": "キノコパック",
+    "zhName": "袋装蕈菇",
+    "enName": "Mixed Mushrooms",
+    "id": 1150
+  },
+  "1149": {
+    "jpName": "パスタ",
+    "zhName": "通心粉",
+    "enName": "Pasta",
+    "id": 1149
+  },
+  "1148": {
+    "jpName": "しょくパン",
+    "zhName": "吐司面包",
+    "enName": "Bread",
+    "id": 1148
+  },
+  "1147": {
+    "jpName": "マメかん",
+    "zhName": "豆子罐头",
+    "enName": "Tin of Beans",
+    "id": 1147
+  },
+  "720": {
+    "jpName": "クチートナイト",
+    "zhName": "大嘴娃进化石",
+    "enName": "Mawilite",
+    "id": 720
+  },
+  "1146": {
+    "jpName": "バックのかんづめ",
+    "zhName": "巴哈罐头",
+    "enName": "Bach’s Food Tin",
+    "id": 1146
+  },
+  "721": {
+    "jpName": "ライボルトナイト",
+    "zhName": "雷电兽进化石",
+    "enName": "Manectite",
+    "id": 721
+  },
+  "1145": {
+    "jpName": "ボブのかんづめ",
+    "zhName": "饱伯罐头",
+    "enName": "Bob’s Food Tin",
+    "id": 1145
+  },
+  "722": {
+    "jpName": "ガブリアスナイト",
+    "zhName": "烈咬陆鲨进化石",
+    "enName": "Garchompite",
+    "id": 722
+  },
+  "1144": {
+    "jpName": "あらびきヴルスト",
+    "zhName": "粗绞肉香肠",
+    "enName": "Sausages",
+    "id": 1144
+  },
+  "723": {
+    "jpName": "ロゼルのみ",
+    "zhName": "洛玫果",
+    "enName": "Roseli Berry",
+    "id": 723
+  },
+  "724": {
+    "jpName": "アッキのみ",
+    "zhName": "亚开果",
+    "enName": "Kee Berry",
+    "id": 724
+  },
+  "725": {
+    "jpName": "タラプのみ",
+    "zhName": "香罗果",
+    "enName": "Maranga Berry",
+    "id": 725
+  },
+  "726": {
+    "jpName": "バーゲンチケット",
+    "zhName": "折价券",
+    "enName": "Discount Coupon",
+    "id": 726
+  },
+  "727": {
+    "jpName": "ふしぎなおきもの",
+    "zhName": "神秘摆设",
+    "enName": "Strange Souvenir",
+    "id": 727
+  },
+  "728": {
+    "jpName": "ミアレガレット",
+    "zhName": "密阿雷格雷派饼",
+    "enName": "Lumiose Galette",
+    "id": 728
+  },
+  "729": {
+    "jpName": "アゴのカセキ",
+    "zhName": "颚之化石",
+    "enName": "Jaw Fossil",
+    "id": 729
+  },
+  "1165": {
+    "jpName": "カセキのリュウ",
+    "zhName": "化石龙",
+    "enName": "Fossilized Drake",
+    "id": 1165
+  },
+  "1164": {
+    "jpName": "カセキのサカナ",
+    "zhName": "化石鱼",
+    "enName": "Fossilized Fish",
+    "id": 1164
+  },
+  "1163": {
+    "jpName": "カセキのトリ",
+    "zhName": "化石鸟",
+    "enName": "Fossilized Bird",
+    "id": 1163
+  },
+  "1162": {
+    "jpName": "くちたたて",
+    "zhName": "腐朽的盾",
+    "enName": "Rusted Shield",
+    "id": 1162
+  },
+  "1161": {
+    "jpName": "くちたけん",
+    "zhName": "腐朽的剑",
+    "enName": "Rusted Sword",
+    "id": 1161
+  },
+  "1160": {
+    "jpName": "キャンプセット",
+    "zhName": "露营组合",
+    "enName": "Camping Gear",
+    "id": 1160
+  },
+  "1159": {
+    "jpName": "ゆでタマゴ",
+    "zhName": "水煮蛋",
+    "enName": "Boiled Egg",
+    "id": 1159
+  },
+  "730": {
+    "jpName": "ヒレのカセキ",
+    "zhName": "鳍之化石",
+    "enName": "Sail Fossil",
+    "id": 730
+  },
+  "1158": {
+    "jpName": "フライもりあわせ",
+    "zhName": "炸物拼盘",
+    "enName": "Fried Food",
+    "id": 1158
+  },
+  "731": {
+    "jpName": "ようせいジュエル",
+    "zhName": "妖精宝石",
+    "enName": "Fairy Gem",
+    "id": 731
+  },
+  "1157": {
+    "jpName": "やさいパック",
+    "zhName": "袋装蔬菜",
+    "enName": "Salad Mix",
+    "id": 1157
+  },
+  "732": {
+    "jpName": "たんけんこころえ",
+    "zhName": "探险心得",
+    "enName": "Adventure Guide",
+    "id": 732
+  },
+  "1156": {
+    "jpName": "みずべのハーブ",
+    "zhName": "水边香草",
+    "enName": "Pungent Root",
+    "id": 1156
+  },
+  "733": {
+    "jpName": "エレベータのキー",
+    "zhName": "电梯钥匙",
+    "enName": "Elevator Key",
+    "id": 733
+  },
+  "1155": {
+    "jpName": "ポテトパック",
+    "zhName": "袋装土豆",
+    "enName": "Pack of Potatoes",
+    "id": 1155
+  },
+  "734": {
+    "jpName": "ホロキャスター",
+    "zhName": "全息影像通讯器",
+    "enName": "Holo Caster",
+    "id": 734
+  },
+  "735": {
+    "jpName": "カロスエンブレム",
+    "zhName": "卡洛斯勋章",
+    "enName": "Honor of Kalos",
+    "id": 735
+  },
+  "736": {
+    "jpName": "すごそうないし",
+    "zhName": "似珍石",
+    "enName": "Intriguing Stone",
+    "id": 736
+  },
+  "737": {
+    "jpName": "レンズケース",
+    "zhName": "隐形眼镜盒",
+    "enName": "Lens Case",
+    "id": 737
+  },
+  "738": {
+    "jpName": "ハンサムチケット",
+    "zhName": "帅哥券",
+    "enName": "Looker Ticket",
+    "id": 738
+  },
+  "739": {
+    "jpName": "メガリング",
+    "zhName": "超级环",
+    "enName": "Mega Ring",
+    "id": 739
+  },
+  "1176": {
+    "jpName": "のどスプレー",
+    "zhName": "爽喉喷雾",
+    "enName": "Throat Spray",
+    "id": 1176
+  },
+  "1175": {
+    "jpName": "すっぱいりんご",
+    "zhName": "酸酸苹果",
+    "enName": "Tart Apple",
+    "id": 1175
+  },
+  "1174": {
+    "jpName": "あまーいりんご",
+    "zhName": "甜甜苹果",
+    "enName": "Sweet Apple",
+    "id": 1174
+  },
+  "1173": {
+    "jpName": "リボンアメざいく",
+    "zhName": "蝴蝶结糖饰",
+    "enName": "Ribbon Sweet",
+    "id": 1173
+  },
+  "1172": {
+    "jpName": "スターアメざいく",
+    "zhName": "星星糖饰",
+    "enName": "Star Sweet",
+    "id": 1172
+  },
+  "1171": {
+    "jpName": "おはなアメざいく",
+    "zhName": "花朵糖饰",
+    "enName": "Flower Sweet",
+    "id": 1171
+  },
+  "1170": {
+    "jpName": "よつばアメざいく",
+    "zhName": "幸运草糖饰",
+    "enName": "Clover Sweet",
+    "id": 1170
+  },
+  "740": {
+    "jpName": "はつでんしょパス",
+    "zhName": "发电厂通行证",
+    "enName": "Power Plant Pass",
+    "id": 740
+  },
+  "741": {
+    "jpName": "はかせのてがみ",
+    "zhName": "博士的信",
+    "enName": "Prof’s Letter",
+    "id": 741
+  },
+  "1169": {
+    "jpName": "ベリーアメざいく",
+    "zhName": "野莓糖饰",
+    "enName": "Berry Sweet",
+    "id": 1169
+  },
+  "742": {
+    "jpName": "ローラースケート",
+    "zhName": "轮滑鞋",
+    "enName": "Roller Skates",
+    "id": 742
+  },
+  "1168": {
+    "jpName": "ハートアメざいく",
+    "zhName": "爱心糖饰",
+    "enName": "Love Sweet",
+    "id": 1168
+  },
+  "743": {
+    "jpName": "ハスボーじょうろ",
+    "zhName": "莲叶童子喷壶",
+    "enName": "Sprinklotad",
+    "id": 743
+  },
+  "1167": {
+    "jpName": "いちごアメざいく",
+    "zhName": "草莓糖饰",
+    "enName": "Strawberry Sweet",
+    "id": 1167
+  },
+  "744": {
+    "jpName": "ＴＭＶパス",
+    "zhName": "ＴＭＶ自由票",
+    "enName": "TMV Pass",
+    "id": 744
+  },
+  "1166": {
+    "jpName": "カセキのクビナガ",
+    "zhName": "化石海兽",
+    "enName": "Fossilized Dino",
+    "id": 1166
+  },
+  "745": {
+    "jpName": "わざマシン９６",
+    "zhName": "招式学习器９６",
+    "enName": "TM96",
+    "id": 745
+  },
+  "746": {
+    "jpName": "わざマシン９７",
+    "zhName": "招式学习器９７",
+    "enName": "TM97",
+    "id": 746
+  },
+  "747": {
+    "jpName": "わざマシン９８",
+    "zhName": "招式学习器９８",
+    "enName": "TM98",
+    "id": 747
+  },
+  "748": {
+    "jpName": "わざマシン９９",
+    "zhName": "招式学习器９９",
+    "enName": "TM99",
+    "id": 748
+  },
+  "749": {
+    "jpName": "わざマシン１００",
+    "zhName": "招式学习器１００",
+    "enName": "TM100",
+    "id": 749
+  },
+  "1187": {
+    "jpName": "ダイマックスアメ",
+    "zhName": "极巨糖果",
+    "enName": "Dynamax Candy",
+    "id": 1187
+  },
+  "1186": {
+    "jpName": "けいけんアメＸＬ",
+    "zhName": "经验糖果ＸＬ",
+    "enName": "Exp. Candy XL",
+    "id": 1186
+  },
+  "1185": {
+    "jpName": "けいけんアメＬ",
+    "zhName": "经验糖果Ｌ",
+    "enName": "Exp. Candy L",
+    "id": 1185
+  },
+  "1184": {
+    "jpName": "けいけんアメＭ",
+    "zhName": "经验糖果Ｍ",
+    "enName": "Exp. Candy M",
+    "id": 1184
+  },
+  "1183": {
+    "jpName": "けいけんアメＳ",
+    "zhName": "经验糖果Ｓ",
+    "enName": "Exp. Candy S",
+    "id": 1183
+  },
+  "1182": {
+    "jpName": "けいけんアメＸＳ",
+    "zhName": "经验糖果ＸＳ",
+    "enName": "Exp. Candy XS",
+    "id": 1182
+  },
+  "1181": {
+    "jpName": "ばんのうがさ",
+    "zhName": "万能伞",
+    "enName": "Utility Umbrella",
+    "id": 1181
+  },
+  "1180": {
+    "jpName": "ルームサービス",
+    "zhName": "客房服务",
+    "enName": "Room Service",
+    "id": 1180
+  },
+  "1179": {
+    "jpName": "からぶりほけん",
+    "zhName": "打空保险",
+    "enName": "Blunder Policy",
+    "id": 1179
+  },
+  "1178": {
+    "jpName": "あつぞこブーツ",
+    "zhName": "厚底靴",
+    "enName": "Heavy-Duty Boots",
+    "id": 1178
+  },
+  "1177": {
+    "jpName": "だっしゅつパック",
+    "zhName": "避难背包",
+    "enName": "Eject Pack",
+    "id": 1177
+  },
+  "1190": {
+    "jpName": "わざレコード０２",
+    "zhName": "招式记录０２",
+    "enName": "TR02",
+    "id": 1190
+  },
+  "1198": {
+    "jpName": "わざレコード１０",
+    "zhName": "招式记录１０",
+    "enName": "TR10",
+    "id": 1198
+  },
+  "1197": {
+    "jpName": "わざレコード０９",
+    "zhName": "招式记录０９",
+    "enName": "TR09",
+    "id": 1197
+  },
+  "1196": {
+    "jpName": "わざレコード０８",
+    "zhName": "招式记录０８",
+    "enName": "TR08",
+    "id": 1196
+  },
+  "1195": {
+    "jpName": "わざレコード０７",
+    "zhName": "招式记录０７",
+    "enName": "TR07",
+    "id": 1195
+  },
+  "1194": {
+    "jpName": "わざレコード０６",
+    "zhName": "招式记录０６",
+    "enName": "TR06",
+    "id": 1194
+  },
+  "1193": {
+    "jpName": "わざレコード０５",
+    "zhName": "招式记录０５",
+    "enName": "TR05",
+    "id": 1193
+  },
+  "1192": {
+    "jpName": "わざレコード０４",
+    "zhName": "招式记录０４",
+    "enName": "TR04",
+    "id": 1192
+  },
+  "1191": {
+    "jpName": "わざレコード０３",
+    "zhName": "招式记录０３",
+    "enName": "TR03",
+    "id": 1191
+  },
+  "760": {
+    "jpName": "ラティアスナイト",
+    "zhName": "拉帝亚斯进化石",
+    "enName": "Latiasite",
+    "id": 760
+  },
+  "761": {
+    "jpName": "ラティオスナイト",
+    "zhName": "拉帝欧斯进化石",
+    "enName": "Latiosite",
+    "id": 761
+  },
+  "762": {
+    "jpName": "ありふれたいし",
+    "zhName": "常见石",
+    "enName": "Common Stone",
+    "id": 762
+  },
+  "763": {
+    "jpName": "コスメポーチ",
+    "zhName": "化妆包",
+    "enName": "Makeup Bag",
+    "id": 763
+  },
+  "764": {
+    "jpName": "いしょうトランク",
+    "zhName": "衣物箱",
+    "enName": "Travel Trunk",
+    "id": 764
+  },
+  "765": {
+    "jpName": "シャラサブレ",
+    "zhName": "娑罗沙布蕾",
+    "enName": "Shalour Sable",
+    "id": 765
+  },
+  "1189": {
+    "jpName": "わざレコード０１",
+    "zhName": "招式记录０１",
+    "enName": "TR01",
+    "id": 1189
+  },
+  "1188": {
+    "jpName": "わざレコード００",
+    "zhName": "招式记录００",
+    "enName": "TR00",
+    "id": 1188
+  },
+  "768": {
+    "jpName": "メガチャーム",
+    "zhName": "超级坠饰",
+    "enName": "Mega Charm",
+    "id": 768
+  },
+  "769": {
+    "jpName": "メガグローブ",
+    "zhName": "超级手套",
+    "enName": "Mega Glove",
+    "id": 769
+  },
+  "770": {
+    "jpName": "デボンのにもつ",
+    "zhName": "得文的物品",
+    "enName": "Devon Parts",
+    "id": 770
+  },
+  "772": {
+    "jpName": "ポロックキット",
+    "zhName": "宝可方块套装",
+    "enName": "Pokéblock Kit",
+    "id": 772
+  },
+  "773": {
+    "jpName": "１ごうしつのカギ",
+    "zhName": "１号客房的钥匙",
+    "enName": "Key to Room 1",
+    "id": 773
+  },
+  "774": {
+    "jpName": "２ごうしつのカギ",
+    "zhName": "２号客房的钥匙",
+    "enName": "Key to Room 2",
+    "id": 774
+  },
+  "775": {
+    "jpName": "４ごうしつのカギ",
+    "zhName": "４号客房的钥匙",
+    "enName": "Key to Room 4",
+    "id": 775
+  },
+  "776": {
+    "jpName": "６ごうしつのカギ",
+    "zhName": "６号客房的钥匙",
+    "enName": "Key to Room 6",
+    "id": 776
+  },
+  "1199": {
+    "jpName": "わざレコード１１",
+    "zhName": "招式记录１１",
+    "enName": "TR11",
+    "id": 1199
+  },
+  "779": {
+    "jpName": "デボンボンベ",
+    "zhName": "得文潜水装备",
+    "enName": "Devon Scuba Gear",
+    "id": 779
+  },
+  "780": {
+    "jpName": "ライブスーツ",
+    "zhName": "演出礼服",
+    "enName": "Contest Costume",
+    "id": 780
+  },
+  "782": {
+    "jpName": "マグマスーツ",
+    "zhName": "熔岩装",
+    "enName": "Magma Suit",
+    "id": 782
+  },
+  "783": {
+    "jpName": "アクアスーツ",
+    "zhName": "海洋装",
+    "enName": "Aqua Suit",
+    "id": 783
+  },
+  "300": {
+    "jpName": "マグマブースター",
+    "zhName": "熔岩增幅器",
+    "enName": "Magmarizer",
+    "id": 300
+  },
+  "784": {
+    "jpName": "ペアチケット",
+    "zhName": "双人票",
+    "enName": "Pair of Tickets",
+    "id": 784
+  },
+  "301": {
+    "jpName": "あやしいパッチ",
+    "zhName": "可疑补丁",
+    "enName": "Dubious Disc",
+    "id": 301
+  },
+  "785": {
+    "jpName": "メガバングル",
+    "zhName": "超级手镯",
+    "enName": "Mega Bracelet",
+    "id": 785
+  },
+  "302": {
+    "jpName": "れいかいのぬの",
+    "zhName": "灵界之布",
+    "enName": "Reaper Cloth",
+    "id": 302
+  },
+  "786": {
+    "jpName": "メガペンダント",
+    "zhName": "超级吊坠",
+    "enName": "Mega Pendant",
+    "id": 786
+  },
+  "303": {
+    "jpName": "するどいツメ",
+    "zhName": "锐利之爪",
+    "enName": "Razor Claw",
+    "id": 303
+  },
+  "787": {
+    "jpName": "メガメガネ",
+    "zhName": "超级眼镜",
+    "enName": "Mega Glasses",
+    "id": 787
+  },
+  "304": {
+    "jpName": "するどいキバ",
+    "zhName": "锐利之牙",
+    "enName": "Razor Fang",
+    "id": 304
+  },
+  "788": {
+    "jpName": "メガイカリ",
+    "zhName": "超级船锚",
+    "enName": "Mega Anchor",
+    "id": 788
+  },
+  "305": {
+    "jpName": "わざマシン０１",
+    "zhName": "招式学习器０１",
+    "enName": "TM01",
+    "id": 305
+  },
+  "789": {
+    "jpName": "メガラペルピン",
+    "zhName": "超级领针",
+    "enName": "Mega Stickpin",
+    "id": 789
+  },
+  "306": {
+    "jpName": "わざマシン０２",
+    "zhName": "招式学习器０２",
+    "enName": "TM02",
+    "id": 306
+  },
+  "307": {
+    "jpName": "わざマシン０３",
+    "zhName": "招式学习器０３",
+    "enName": "TM03",
+    "id": 307
+  },
+  "308": {
+    "jpName": "わざマシン０４",
+    "zhName": "招式学习器０４",
+    "enName": "TM04",
+    "id": 308
+  },
+  "309": {
+    "jpName": "わざマシン０５",
+    "zhName": "招式学习器０５",
+    "enName": "TM05",
+    "id": 309
+  },
+  "790": {
+    "jpName": "メガティアラ",
+    "zhName": "超级头冠",
+    "enName": "Mega Tiara",
+    "id": 790
+  },
+  "791": {
+    "jpName": "メガアンクレット",
+    "zhName": "超级脚镯",
+    "enName": "Mega Anklet",
+    "id": 791
+  },
+  "793": {
+    "jpName": "ラグラージナイト",
+    "zhName": "巨沼怪进化石",
+    "enName": "Swampertite",
+    "id": 793
+  },
+  "310": {
+    "jpName": "わざマシン０６",
+    "zhName": "招式学习器０６",
+    "enName": "TM06",
+    "id": 310
+  },
+  "794": {
+    "jpName": "ジュカインナイト",
+    "zhName": "蜥蜴王进化石",
+    "enName": "Sceptilite",
+    "id": 794
+  },
+  "311": {
+    "jpName": "わざマシン０７",
+    "zhName": "招式学习器０７",
+    "enName": "TM07",
+    "id": 311
+  },
+  "795": {
+    "jpName": "ヤミラミナイト",
+    "zhName": "勾魂眼进化石",
+    "enName": "Sablenite",
+    "id": 795
+  },
+  "312": {
+    "jpName": "わざマシン０８",
+    "zhName": "招式学习器０８",
+    "enName": "TM08",
+    "id": 312
+  },
+  "796": {
+    "jpName": "チルタリスナイト",
+    "zhName": "七夕青鸟进化石",
+    "enName": "Altarianite",
+    "id": 796
+  },
+  "313": {
+    "jpName": "わざマシン０９",
+    "zhName": "招式学习器０９",
+    "enName": "TM09",
+    "id": 313
+  },
+  "797": {
+    "jpName": "エルレイドナイト",
+    "zhName": "艾路雷朵进化石",
+    "enName": "Galladite",
+    "id": 797
+  },
+  "314": {
+    "jpName": "わざマシン１０",
+    "zhName": "招式学习器１０",
+    "enName": "TM10",
+    "id": 314
+  },
+  "798": {
+    "jpName": "タブンネナイト",
+    "zhName": "差不多娃娃进化石",
+    "enName": "Audinite",
+    "id": 798
+  },
+  "315": {
+    "jpName": "わざマシン１１",
+    "zhName": "招式学习器１１",
+    "enName": "TM11",
+    "id": 315
+  },
+  "799": {
+    "jpName": "メタグロスナイト",
+    "zhName": "巨金怪进化石",
+    "enName": "Metagrossite",
+    "id": 799
+  },
+  "316": {
+    "jpName": "わざマシン１２",
+    "zhName": "招式学习器１２",
+    "enName": "TM12",
+    "id": 316
+  },
+  "317": {
+    "jpName": "わざマシン１３",
+    "zhName": "招式学习器１３",
+    "enName": "TM13",
+    "id": 317
+  },
+  "318": {
+    "jpName": "わざマシン１４",
+    "zhName": "招式学习器１４",
+    "enName": "TM14",
+    "id": 318
+  },
+  "319": {
+    "jpName": "わざマシン１５",
+    "zhName": "招式学习器１５",
+    "enName": "TM15",
+    "id": 319
+  },
+  "320": {
+    "jpName": "わざマシン１６",
+    "zhName": "招式学习器１６",
+    "enName": "TM16",
+    "id": 320
+  },
+  "321": {
+    "jpName": "わざマシン１７",
+    "zhName": "招式学习器１７",
+    "enName": "TM17",
+    "id": 321
+  },
+  "322": {
+    "jpName": "わざマシン１８",
+    "zhName": "招式学习器１８",
+    "enName": "TM18",
+    "id": 322
+  },
+  "323": {
+    "jpName": "わざマシン１９",
+    "zhName": "招式学习器１９",
+    "enName": "TM19",
+    "id": 323
+  },
+  "324": {
+    "jpName": "わざマシン２０",
+    "zhName": "招式学习器２０",
+    "enName": "TM20",
+    "id": 324
+  },
+  "325": {
+    "jpName": "わざマシン２１",
+    "zhName": "招式学习器２１",
+    "enName": "TM21",
+    "id": 325
+  },
+  "326": {
+    "jpName": "わざマシン２２",
+    "zhName": "招式学习器２２",
+    "enName": "TM22",
+    "id": 326
+  },
+  "327": {
+    "jpName": "わざマシン２３",
+    "zhName": "招式学习器２３",
+    "enName": "TM23",
+    "id": 327
+  },
+  "328": {
+    "jpName": "わざマシン２４",
+    "zhName": "招式学习器２４",
+    "enName": "TM24",
+    "id": 328
+  },
+  "329": {
+    "jpName": "わざマシン２５",
+    "zhName": "招式学习器２５",
+    "enName": "TM25",
+    "id": 329
+  },
+  "330": {
+    "jpName": "わざマシン２６",
+    "zhName": "招式学习器２６",
+    "enName": "TM26",
+    "id": 330
+  },
+  "331": {
+    "jpName": "わざマシン２７",
+    "zhName": "招式学习器２７",
+    "enName": "TM27",
+    "id": 331
+  },
+  "332": {
+    "jpName": "わざマシン２８",
+    "zhName": "招式学习器２８",
+    "enName": "TM28",
+    "id": 332
+  },
+  "333": {
+    "jpName": "わざマシン２９",
+    "zhName": "招式学习器２９",
+    "enName": "TM29",
+    "id": 333
+  },
+  "334": {
+    "jpName": "わざマシン３０",
+    "zhName": "招式学习器３０",
+    "enName": "TM30",
+    "id": 334
+  },
+  "335": {
+    "jpName": "わざマシン３１",
+    "zhName": "招式学习器３１",
+    "enName": "TM31",
+    "id": 335
+  },
+  "336": {
+    "jpName": "わざマシン３２",
+    "zhName": "招式学习器３２",
+    "enName": "TM32",
+    "id": 336
+  },
+  "337": {
+    "jpName": "わざマシン３３",
+    "zhName": "招式学习器３３",
+    "enName": "TM33",
+    "id": 337
+  },
+  "338": {
+    "jpName": "わざマシン３４",
+    "zhName": "招式学习器３４",
+    "enName": "TM34",
+    "id": 338
+  },
+  "339": {
+    "jpName": "わざマシン３５",
+    "zhName": "招式学习器３５",
+    "enName": "TM35",
+    "id": 339
+  },
+  "340": {
+    "jpName": "わざマシン３６",
+    "zhName": "招式学习器３６",
+    "enName": "TM36",
+    "id": 340
+  },
+  "341": {
+    "jpName": "わざマシン３７",
+    "zhName": "招式学习器３７",
+    "enName": "TM37",
+    "id": 341
+  },
+  "342": {
+    "jpName": "わざマシン３８",
+    "zhName": "招式学习器３８",
+    "enName": "TM38",
+    "id": 342
+  },
+  "343": {
+    "jpName": "わざマシン３９",
+    "zhName": "招式学习器３９",
+    "enName": "TM39",
+    "id": 343
+  },
+  "344": {
+    "jpName": "わざマシン４０",
+    "zhName": "招式学习器４０",
+    "enName": "TM40",
+    "id": 344
+  },
+  "345": {
+    "jpName": "わざマシン４１",
+    "zhName": "招式学习器４１",
+    "enName": "TM41",
+    "id": 345
+  },
+  "346": {
+    "jpName": "わざマシン４２",
+    "zhName": "招式学习器４２",
+    "enName": "TM42",
+    "id": 346
+  },
+  "347": {
+    "jpName": "わざマシン４３",
+    "zhName": "招式学习器４３",
+    "enName": "TM43",
+    "id": 347
+  },
+  "348": {
+    "jpName": "わざマシン４４",
+    "zhName": "招式学习器４４",
+    "enName": "TM44",
+    "id": 348
+  },
+  "349": {
+    "jpName": "わざマシン４５",
+    "zhName": "招式学习器４５",
+    "enName": "TM45",
+    "id": 349
+  },
+  "350": {
+    "jpName": "わざマシン４６",
+    "zhName": "招式学习器４６",
+    "enName": "TM46",
+    "id": 350
+  },
+  "351": {
+    "jpName": "わざマシン４７",
+    "zhName": "招式学习器４７",
+    "enName": "TM47",
+    "id": 351
+  },
+  "352": {
+    "jpName": "わざマシン４８",
+    "zhName": "招式学习器４８",
+    "enName": "TM48",
+    "id": 352
+  },
+  "353": {
+    "jpName": "わざマシン４９",
+    "zhName": "招式学习器４９",
+    "enName": "TM49",
+    "id": 353
+  },
+  "354": {
+    "jpName": "わざマシン５０",
+    "zhName": "招式学习器５０",
+    "enName": "TM50",
+    "id": 354
+  },
+  "355": {
+    "jpName": "わざマシン５１",
+    "zhName": "招式学习器５１",
+    "enName": "TM51",
+    "id": 355
+  },
+  "356": {
+    "jpName": "わざマシン５２",
+    "zhName": "招式学习器５２",
+    "enName": "TM52",
+    "id": 356
+  },
+  "357": {
+    "jpName": "わざマシン５３",
+    "zhName": "招式学习器５３",
+    "enName": "TM53",
+    "id": 357
+  },
+  "358": {
+    "jpName": "わざマシン５４",
+    "zhName": "招式学习器５４",
+    "enName": "TM54",
+    "id": 358
+  },
+  "359": {
+    "jpName": "わざマシン５５",
+    "zhName": "招式学习器５５",
+    "enName": "TM55",
+    "id": 359
+  },
+  "10": {
+    "jpName": "タイマーボール",
+    "zhName": "计时球",
+    "enName": "Timer Ball",
+    "id": 10
+  },
+  "11": {
+    "jpName": "ゴージャスボール",
+    "zhName": "豪华球",
+    "enName": "Luxury Ball",
+    "id": 11
+  },
+  "12": {
+    "jpName": "プレミアボール",
+    "zhName": "纪念球",
+    "enName": "Premier Ball",
+    "id": 12
+  },
+  "13": {
+    "jpName": "ダークボール",
+    "zhName": "黑暗球",
+    "enName": "Dusk Ball",
+    "id": 13
+  },
+  "14": {
+    "jpName": "ヒールボール",
+    "zhName": "治愈球",
+    "enName": "Heal Ball",
+    "id": 14
+  },
+  "15": {
+    "jpName": "クイックボール",
+    "zhName": "先机球",
+    "enName": "Quick Ball",
+    "id": 15
+  },
+  "16": {
+    "jpName": "プレシャスボール",
+    "zhName": "贵重球",
+    "enName": "Cherish Ball",
+    "id": 16
+  },
+  "17": {
+    "jpName": "キズぐすり",
+    "zhName": "伤药",
+    "enName": "Potion",
+    "id": 17
+  },
+  "18": {
+    "jpName": "どくけし",
+    "zhName": "解毒药",
+    "enName": "Antidote",
+    "id": 18
+  },
+  "19": {
+    "jpName": "やけどなおし",
+    "zhName": "灼伤药",
+    "enName": "Burn Heal",
+    "id": 19
+  },
+  "360": {
+    "jpName": "わざマシン５６",
+    "zhName": "招式学习器５６",
+    "enName": "TM56",
+    "id": 360
+  },
+  "361": {
+    "jpName": "わざマシン５７",
+    "zhName": "招式学习器５７",
+    "enName": "TM57",
+    "id": 361
+  },
+  "362": {
+    "jpName": "わざマシン５８",
+    "zhName": "招式学习器５８",
+    "enName": "TM58",
+    "id": 362
+  },
+  "363": {
+    "jpName": "わざマシン５９",
+    "zhName": "招式学习器５９",
+    "enName": "TM59",
+    "id": 363
+  },
+  "364": {
+    "jpName": "わざマシン６０",
+    "zhName": "招式学习器６０",
+    "enName": "TM60",
+    "id": 364
+  },
+  "365": {
+    "jpName": "わざマシン６１",
+    "zhName": "招式学习器６１",
+    "enName": "TM61",
+    "id": 365
+  },
+  "366": {
+    "jpName": "わざマシン６２",
+    "zhName": "招式学习器６２",
+    "enName": "TM62",
+    "id": 366
+  },
+  "367": {
+    "jpName": "わざマシン６３",
+    "zhName": "招式学习器６３",
+    "enName": "TM63",
+    "id": 367
+  },
+  "368": {
+    "jpName": "わざマシン６４",
+    "zhName": "招式学习器６４",
+    "enName": "TM64",
+    "id": 368
+  },
+  "369": {
+    "jpName": "わざマシン６５",
+    "zhName": "招式学习器６５",
+    "enName": "TM65",
+    "id": 369
+  },
+  "20": {
+    "jpName": "こおりなおし",
+    "zhName": "解冻药",
+    "enName": "Ice Heal",
+    "id": 20
+  },
+  "21": {
+    "jpName": "ねむけざまし",
+    "zhName": "解眠药",
+    "enName": "Awakening",
+    "id": 21
+  },
+  "22": {
+    "jpName": "まひなおし",
+    "zhName": "解麻药",
+    "enName": "Paralyze Heal",
+    "id": 22
+  },
+  "23": {
+    "jpName": "かいふくのくすり",
+    "zhName": "全复药",
+    "enName": "Full Restore",
+    "id": 23
+  },
+  "24": {
+    "jpName": "まんたんのくすり",
+    "zhName": "全满药",
+    "enName": "Max Potion",
+    "id": 24
+  },
+  "25": {
+    "jpName": "すごいキズぐすり",
+    "zhName": "厉害伤药",
+    "enName": "Hyper Potion",
+    "id": 25
+  },
+  "26": {
+    "jpName": "いいキズぐすり",
+    "zhName": "好伤药",
+    "enName": "Super Potion",
+    "id": 26
+  },
+  "27": {
+    "jpName": "なんでもなおし",
+    "zhName": "万灵药",
+    "enName": "Full Heal",
+    "id": 27
+  },
+  "28": {
+    "jpName": "げんきのかけら",
+    "zhName": "活力碎片",
+    "enName": "Revive",
+    "id": 28
+  },
+  "29": {
+    "jpName": "げんきのかたまり",
+    "zhName": "活力块",
+    "enName": "Max Revive",
+    "id": 29
+  },
+  "370": {
+    "jpName": "わざマシン６６",
+    "zhName": "招式学习器６６",
+    "enName": "TM66",
+    "id": 370
+  },
+  "371": {
+    "jpName": "わざマシン６７",
+    "zhName": "招式学习器６７",
+    "enName": "TM67",
+    "id": 371
+  },
+  "372": {
+    "jpName": "わざマシン６８",
+    "zhName": "招式学习器６８",
+    "enName": "TM68",
+    "id": 372
+  },
+  "373": {
+    "jpName": "わざマシン６９",
+    "zhName": "招式学习器６９",
+    "enName": "TM69",
+    "id": 373
+  },
+  "374": {
+    "jpName": "わざマシン７０",
+    "zhName": "招式学习器７０",
+    "enName": "TM70",
+    "id": 374
+  },
+  "375": {
+    "jpName": "わざマシン７１",
+    "zhName": "招式学习器７１",
+    "enName": "TM71",
+    "id": 375
+  },
+  "376": {
+    "jpName": "わざマシン７２",
+    "zhName": "招式学习器７２",
+    "enName": "TM72",
+    "id": 376
+  },
+  "377": {
+    "jpName": "わざマシン７３",
+    "zhName": "招式学习器７３",
+    "enName": "TM73",
+    "id": 377
+  },
+  "378": {
+    "jpName": "わざマシン７４",
+    "zhName": "招式学习器７４",
+    "enName": "TM74",
+    "id": 378
+  },
+  "379": {
+    "jpName": "わざマシン７５",
+    "zhName": "招式学习器７５",
+    "enName": "TM75",
+    "id": 379
+  },
+  "30": {
+    "jpName": "おいしいみず",
+    "zhName": "美味之水",
+    "enName": "Fresh Water",
+    "id": 30
+  },
+  "31": {
+    "jpName": "サイコソーダ",
+    "zhName": "劲爽汽水",
+    "enName": "Soda Pop",
+    "id": 31
+  },
+  "32": {
+    "jpName": "ミックスオレ",
+    "zhName": "果汁牛奶",
+    "enName": "Lemonade",
+    "id": 32
+  },
+  "33": {
+    "jpName": "モーモーミルク",
+    "zhName": "哞哞鲜奶",
+    "enName": "Moomoo Milk",
+    "id": 33
+  },
+  "34": {
+    "jpName": "ちからのこな",
+    "zhName": "元气粉",
+    "enName": "Energy Powder",
+    "id": 34
+  },
+  "35": {
+    "jpName": "ちからのねっこ",
+    "zhName": "元气根",
+    "enName": "Energy Root",
+    "id": 35
+  },
+  "36": {
+    "jpName": "ばんのうごな",
+    "zhName": "万能粉",
+    "enName": "Heal Powder",
+    "id": 36
+  },
+  "37": {
+    "jpName": "ふっかつそう",
+    "zhName": "复活草",
+    "enName": "Revival Herb",
+    "id": 37
+  },
+  "38": {
+    "jpName": "ピーピーエイド",
+    "zhName": "ＰＰ单项小补剂",
+    "enName": "Ether",
+    "id": 38
+  },
+  "39": {
+    "jpName": "ピーピーリカバー",
+    "zhName": "ＰＰ单项全补剂",
+    "enName": "Max Ether",
+    "id": 39
+  },
+  "380": {
+    "jpName": "わざマシン７６",
+    "zhName": "招式学习器７６",
+    "enName": "TM76",
+    "id": 380
+  },
+  "381": {
+    "jpName": "わざマシン７７",
+    "zhName": "招式学习器７７",
+    "enName": "TM77",
+    "id": 381
+  },
+  "382": {
+    "jpName": "わざマシン７８",
+    "zhName": "招式学习器７８",
+    "enName": "TM78",
+    "id": 382
+  },
+  "383": {
+    "jpName": "わざマシン７９",
+    "zhName": "招式学习器７９",
+    "enName": "TM79",
+    "id": 383
+  },
+  "384": {
+    "jpName": "わざマシン８０",
+    "zhName": "招式学习器８０",
+    "enName": "TM80",
+    "id": 384
+  },
+  "385": {
+    "jpName": "わざマシン８１",
+    "zhName": "招式学习器８１",
+    "enName": "TM81",
+    "id": 385
+  },
+  "386": {
+    "jpName": "わざマシン８２",
+    "zhName": "招式学习器８２",
+    "enName": "TM82",
+    "id": 386
+  },
+  "387": {
+    "jpName": "わざマシン８３",
+    "zhName": "招式学习器８３",
+    "enName": "TM83",
+    "id": 387
+  },
+  "388": {
+    "jpName": "わざマシン８４",
+    "zhName": "招式学习器８４",
+    "enName": "TM84",
+    "id": 388
+  },
+  "389": {
+    "jpName": "わざマシン８５",
+    "zhName": "招式学习器８５",
+    "enName": "TM85",
+    "id": 389
+  },
+  "40": {
+    "jpName": "ピーピーエイダー",
+    "zhName": "ＰＰ多项小补剂",
+    "enName": "Elixir",
+    "id": 40
+  },
+  "41": {
+    "jpName": "ピーピーマックス",
+    "zhName": "ＰＰ多项全补剂",
+    "enName": "Max Elixir",
+    "id": 41
+  },
+  "42": {
+    "jpName": "フエンせんべい",
+    "zhName": "釜炎仙贝",
+    "enName": "Lava Cookie",
+    "id": 42
+  },
+  "43": {
+    "jpName": "きのみジュース",
+    "zhName": "树果汁",
+    "enName": "Berry Juice",
+    "id": 43
+  },
+  "44": {
+    "jpName": "せいなるはい",
+    "zhName": "圣灰",
+    "enName": "Sacred Ash",
+    "id": 44
+  },
+  "45": {
+    "jpName": "マックスアップ",
+    "zhName": "ＨＰ增强剂",
+    "enName": "HP Up",
+    "id": 45
+  },
+  "46": {
+    "jpName": "タウリン",
+    "zhName": "攻击增强剂",
+    "enName": "Protein",
+    "id": 46
+  },
+  "47": {
+    "jpName": "ブロムヘキシン",
+    "zhName": "防御增强剂",
+    "enName": "Iron",
+    "id": 47
+  },
+  "48": {
+    "jpName": "インドメタシン",
+    "zhName": "速度增强剂",
+    "enName": "Carbos",
+    "id": 48
+  },
+  "49": {
+    "jpName": "リゾチウム",
+    "zhName": "特攻增强剂",
+    "enName": "Calcium",
+    "id": 49
+  },
+  "390": {
+    "jpName": "わざマシン８６",
+    "zhName": "招式学习器８６",
+    "enName": "TM86",
+    "id": 390
+  },
+  "391": {
+    "jpName": "わざマシン８７",
+    "zhName": "招式学习器８７",
+    "enName": "TM87",
+    "id": 391
+  },
+  "392": {
+    "jpName": "わざマシン８８",
+    "zhName": "招式学习器８８",
+    "enName": "TM88",
+    "id": 392
+  },
+  "393": {
+    "jpName": "わざマシン８９",
+    "zhName": "招式学习器８９",
+    "enName": "TM89",
+    "id": 393
+  },
+  "394": {
+    "jpName": "わざマシン９０",
+    "zhName": "招式学习器９０",
+    "enName": "TM90",
+    "id": 394
+  },
+  "395": {
+    "jpName": "わざマシン９１",
+    "zhName": "招式学习器９１",
+    "enName": "TM91",
+    "id": 395
+  },
+  "396": {
+    "jpName": "わざマシン９２",
+    "zhName": "招式学习器９２",
+    "enName": "TM92",
+    "id": 396
+  },
+  "397": {
+    "jpName": "ひでんマシン０１",
+    "zhName": "秘传学习器０１",
+    "enName": "HM01",
+    "id": 397
+  },
+  "398": {
+    "jpName": "ひでんマシン０２",
+    "zhName": "秘传学习器０２",
+    "enName": "HM02",
+    "id": 398
+  },
+  "399": {
+    "jpName": "ひでんマシン０３",
+    "zhName": "秘传学习器０３",
+    "enName": "HM03",
+    "id": 399
+  },
+  "50": {
+    "jpName": "ふしぎなアメ",
+    "zhName": "神奇糖果",
+    "enName": "Rare Candy",
+    "id": 50
+  },
+  "51": {
+    "jpName": "ポイントアップ",
+    "zhName": "ＰＰ提升剂",
+    "enName": "PP Up",
+    "id": 51
+  },
+  "52": {
+    "jpName": "キトサン",
+    "zhName": "特防增强剂",
+    "enName": "Zinc",
+    "id": 52
+  },
+  "53": {
+    "jpName": "ポイントマックス",
+    "zhName": "ＰＰ极限提升剂",
+    "enName": "PP Max",
+    "id": 53
+  },
+  "54": {
+    "jpName": "もりのヨウカン",
+    "zhName": "森之羊羹",
+    "enName": "Old Gateau",
+    "id": 54
+  },
+  "55": {
+    "jpName": "エフェクトガード",
+    "zhName": "能力防守",
+    "enName": "Guard Spec.",
+    "id": 55
+  },
+  "56": {
+    "jpName": "クリティカット",
+    "zhName": "要害攻击",
+    "enName": "Dire Hit",
+    "id": 56
+  },
+  "57": {
+    "jpName": "プラスパワー",
+    "zhName": "力量强化",
+    "enName": "X Attack",
+    "id": 57
+  },
+  "58": {
+    "jpName": "ディフェンダー",
+    "zhName": "防御强化",
+    "enName": "X Defense",
+    "id": 58
+  },
+  "59": {
+    "jpName": "スピーダー",
+    "zhName": "速度强化",
+    "enName": "X Speed",
+    "id": 59
+  },
+  "60": {
+    "jpName": "ヨクアタール",
+    "zhName": "命中强化",
+    "enName": "X Accuracy",
+    "id": 60
+  },
+  "61": {
+    "jpName": "スペシャルアップ",
+    "zhName": "特攻强化",
+    "enName": "X Sp. Atk",
+    "id": 61
+  },
+  "62": {
+    "jpName": "スペシャルガード",
+    "zhName": "特防强化",
+    "enName": "X Sp. Def",
+    "id": 62
+  },
+  "63": {
+    "jpName": "ピッピにんぎょう",
+    "zhName": "皮皮玩偶",
+    "enName": "Poké Doll",
+    "id": 63
+  },
+  "64": {
+    "jpName": "エネコのシッポ",
+    "zhName": "向尾喵的尾巴",
+    "enName": "Fluffy Tail",
+    "id": 64
+  },
+  "65": {
+    "jpName": "あおいビードロ",
+    "zhName": "蓝色玻璃哨",
+    "enName": "Blue Flute",
+    "id": 65
+  },
+  "66": {
+    "jpName": "きいろビードロ",
+    "zhName": "黄色玻璃哨",
+    "enName": "Yellow Flute",
+    "id": 66
+  },
+  "67": {
+    "jpName": "あかいビードロ",
+    "zhName": "红色玻璃哨",
+    "enName": "Red Flute",
+    "id": 67
+  },
+  "68": {
+    "jpName": "くろいビードロ",
+    "zhName": "黑色玻璃哨",
+    "enName": "Black Flute",
+    "id": 68
+  },
+  "69": {
+    "jpName": "しろいビードロ",
+    "zhName": "白色玻璃哨",
+    "enName": "White Flute",
+    "id": 69
+  },
+  "70": {
+    "jpName": "あさせのしお",
+    "zhName": "浅滩海盐",
+    "enName": "Shoal Salt",
+    "id": 70
+  },
+  "71": {
+    "jpName": "あさせのかいがら",
+    "zhName": "浅滩贝壳",
+    "enName": "Shoal Shell",
+    "id": 71
+  },
+  "72": {
+    "jpName": "あかいかけら",
+    "zhName": "红色碎片",
+    "enName": "Red Shard",
+    "id": 72
+  },
+  "73": {
+    "jpName": "あおいかけら",
+    "zhName": "蓝色碎片",
+    "enName": "Blue Shard",
+    "id": 73
+  },
+  "74": {
+    "jpName": "きいろいかけら",
+    "zhName": "黄色碎片",
+    "enName": "Yellow Shard",
+    "id": 74
+  },
+  "75": {
+    "jpName": "みどりのかけら",
+    "zhName": "绿色碎片",
+    "enName": "Green Shard",
+    "id": 75
+  },
+  "76": {
+    "jpName": "シルバースプレー",
+    "zhName": "白银喷雾",
+    "enName": "Super Repel",
+    "id": 76
+  },
+  "77": {
+    "jpName": "ゴールドスプレー",
+    "zhName": "黄金喷雾",
+    "enName": "Max Repel",
+    "id": 77
+  },
+  "78": {
+    "jpName": "あなぬけのヒモ",
+    "zhName": "离洞绳",
+    "enName": "Escape Rope",
+    "id": 78
+  },
+  "79": {
+    "jpName": "むしよけスプレー",
+    "zhName": "除虫喷雾",
+    "enName": "Repel",
+    "id": 79
+  },
+  "1602": {
+    "jpName": "★Cap8278",
+    "zhName": "★Cap8278",
+    "enName": "★Cap8278",
+    "id": 1602
+  },
+  "1601": {
+    "jpName": "★Cap7754",
+    "zhName": "★Cap7754",
+    "enName": "★Cap7754",
+    "id": 1601
+  },
+  "1600": {
+    "jpName": "★Cap7776",
+    "zhName": "★Cap7776",
+    "enName": "★Cap7776",
+    "id": 1600
+  },
+  "80": {
+    "jpName": "たいようのいし",
+    "zhName": "日之石",
+    "enName": "Sun Stone",
+    "id": 80
+  },
+  "81": {
+    "jpName": "つきのいし",
+    "zhName": "月之石",
+    "enName": "Moon Stone",
+    "id": 81
+  },
+  "1609": {
+    "jpName": "★Car3699",
+    "zhName": "★Car3699",
+    "enName": "★Car3699",
+    "id": 1609
+  },
+  "82": {
+    "jpName": "ほのおのいし",
+    "zhName": "火之石",
+    "enName": "Fire Stone",
+    "id": 82
+  },
+  "1608": {
+    "jpName": "★Car3307",
+    "zhName": "★Car3307",
+    "enName": "★Car3307",
+    "id": 1608
+  },
+  "83": {
+    "jpName": "かみなりのいし",
+    "zhName": "雷之石",
+    "enName": "Thunder Stone",
+    "id": 83
+  },
+  "1607": {
+    "jpName": "★Car3685",
+    "zhName": "★Car3685",
+    "enName": "★Car3685",
+    "id": 1607
+  },
+  "84": {
+    "jpName": "みずのいし",
+    "zhName": "水之石",
+    "enName": "Water Stone",
+    "id": 84
+  },
+  "1606": {
+    "jpName": "★Car2326",
+    "zhName": "★Car2326",
+    "enName": "★Car2326",
+    "id": 1606
+  },
+  "85": {
+    "jpName": "リーフのいし",
+    "zhName": "叶之石",
+    "enName": "Leaf Stone",
+    "id": 85
+  },
+  "1605": {
+    "jpName": "★Sge7479",
+    "zhName": "★Sge7479",
+    "enName": "★Sge7479",
+    "id": 1605
+  },
+  "86": {
+    "jpName": "ちいさなキノコ",
+    "zhName": "小蘑菇",
+    "enName": "Tiny Mushroom",
+    "id": 86
+  },
+  "1604": {
+    "jpName": "★Cap7773",
+    "zhName": "★Cap7773",
+    "enName": "★Cap7773",
+    "id": 1604
+  },
+  "87": {
+    "jpName": "おおきなキノコ",
+    "zhName": "大蘑菇",
+    "enName": "Big Mushroom",
+    "id": 87
+  },
+  "1603": {
+    "jpName": "★Cap8322",
+    "zhName": "★Cap8322",
+    "enName": "★Cap8322",
+    "id": 1603
+  },
+  "88": {
+    "jpName": "しんじゅ",
+    "zhName": "珍珠",
+    "enName": "Pearl",
+    "id": 88
+  },
+  "89": {
+    "jpName": "おおきなしんじゅ",
+    "zhName": "大珍珠",
+    "enName": "Big Pearl",
+    "id": 89
+  },
+  "1613": {
+    "jpName": "★Dra6536",
+    "zhName": "★Dra6536",
+    "enName": "★Dra6536",
+    "id": 1613
+  },
+  "1612": {
+    "jpName": "★Dra6705",
+    "zhName": "★Dra6705",
+    "enName": "★Dra6705",
+    "id": 1612
+  },
+  "1611": {
+    "jpName": "★Dra5291",
+    "zhName": "★Dra5291",
+    "enName": "★Dra5291",
+    "id": 1611
+  },
+  "1610": {
+    "jpName": "★Dra5744",
+    "zhName": "★Dra5744",
+    "enName": "★Dra5744",
+    "id": 1610
+  },
+  "90": {
+    "jpName": "ほしのすな",
+    "zhName": "星星沙子",
+    "enName": "Stardust",
+    "id": 90
+  },
+  "91": {
+    "jpName": "ほしのかけら",
+    "zhName": "星星碎片",
+    "enName": "Star Piece",
+    "id": 91
+  },
+  "92": {
+    "jpName": "きんのたま",
+    "zhName": "金珠",
+    "enName": "Nugget",
+    "id": 92
+  },
+  "93": {
+    "jpName": "ハートのウロコ",
+    "zhName": "心之鳞片",
+    "enName": "Heart Scale",
+    "id": 93
+  },
+  "1619": {
+    "jpName": "★Dra6396",
+    "zhName": "★Dra6396",
+    "enName": "★Dra6396",
+    "id": 1619
+  },
+  "94": {
+    "jpName": "あまいミツ",
+    "zhName": "甜甜蜜",
+    "enName": "Honey",
+    "id": 94
+  },
+  "1618": {
+    "jpName": "★Dra7462",
+    "zhName": "★Dra7462",
+    "enName": "★Dra7462",
+    "id": 1618
+  },
+  "95": {
+    "jpName": "すくすくこやし",
+    "zhName": "速速肥",
+    "enName": "Growth Mulch",
+    "id": 95
+  },
+  "1617": {
+    "jpName": "★Dra6370",
+    "zhName": "★Dra6370",
+    "enName": "★Dra6370",
+    "id": 1617
+  },
+  "96": {
+    "jpName": "じめじめこやし",
+    "zhName": "湿湿肥",
+    "enName": "Damp Mulch",
+    "id": 96
+  },
+  "1616": {
+    "jpName": "★Dra4434",
+    "zhName": "★Dra4434",
+    "enName": "★Dra4434",
+    "id": 1616
+  },
+  "97": {
+    "jpName": "ながながこやし",
+    "zhName": "久久肥",
+    "enName": "Stable Mulch",
+    "id": 97
+  },
+  "1615": {
+    "jpName": "★Dra6688",
+    "zhName": "★Dra6688",
+    "enName": "★Dra6688",
+    "id": 1615
+  },
+  "98": {
+    "jpName": "ねばねばこやし",
+    "zhName": "粘粘肥",
+    "enName": "Gooey Mulch",
+    "id": 98
+  },
+  "1614": {
+    "jpName": "★Dra7310",
+    "zhName": "★Dra7310",
+    "enName": "★Dra7310",
+    "id": 1614
+  },
+  "99": {
+    "jpName": "ねっこのカセキ",
+    "zhName": "根状化石",
+    "enName": "Root Fossil",
+    "id": 99
+  },
+  "1624": {
+    "jpName": "★CVn4846",
+    "zhName": "★CVn4846",
+    "enName": "★CVn4846",
+    "id": 1624
+  },
+  "1623": {
+    "jpName": "★CVn4785",
+    "zhName": "★CVn4785",
+    "enName": "★CVn4785",
+    "id": 1623
+  },
+  "1622": {
+    "jpName": "★CVn4915",
+    "zhName": "★CVn4915",
+    "enName": "★CVn4915",
+    "id": 1622
+  },
+  "1621": {
+    "jpName": "★Dra6636",
+    "zhName": "★Dra6636",
+    "enName": "★Dra6636",
+    "id": 1621
+  },
+  "1620": {
+    "jpName": "★Dra6132",
+    "zhName": "★Dra6132",
+    "enName": "★Dra6132",
+    "id": 1620
+  },
+  "1629": {
+    "jpName": "★Aql7235",
+    "zhName": "★Aql7235",
+    "enName": "★Aql7235",
+    "id": 1629
+  },
+  "1628": {
+    "jpName": "★Aql7602",
+    "zhName": "★Aql7602",
+    "enName": "★Aql7602",
+    "id": 1628
+  },
+  "1627": {
+    "jpName": "★Aql7525",
+    "zhName": "★Aql7525",
+    "enName": "★Aql7525",
+    "id": 1627
+  },
+  "1626": {
+    "jpName": "★Aql7557",
+    "zhName": "★Aql7557",
+    "enName": "★Aql7557",
+    "id": 1626
+  },
+  "1625": {
+    "jpName": "★Aql7595",
+    "zhName": "★Aql7595",
+    "enName": "★Aql7595",
+    "id": 1625
+  },
+  "1635": {
+    "jpName": "ヨロイパス",
+    "zhName": "铠甲车票",
+    "enName": "Armor Pass",
+    "id": 1635
+  },
+  "1634": {
+    "jpName": "おしゃれカード",
+    "zhName": "时尚名人卡",
+    "enName": "Style Card",
+    "id": 1634
+  },
+  "1633": {
+    "jpName": "ガラナツブレス",
+    "zhName": "伽勒豆蔻手环",
+    "enName": "Galarica Cuff",
+    "id": 1633
+  },
+  "1632": {
+    "jpName": "ガラナツのえだ",
+    "zhName": "伽勒豆蔻枝",
+    "enName": "Galarica Twig",
+    "id": 1632
+  },
+  "1631": {
+    "jpName": "ダイキノコ",
+    "zhName": "极巨菇菇",
+    "enName": "Max Mushrooms",
+    "id": 1631
+  },
+  "1630": {
+    "jpName": "ダイミツ",
+    "zhName": "极巨甜蜜",
+    "enName": "Max Honey",
+    "id": 1630
+  },
+  "1639": {
+    "jpName": "ヨロイこうせき",
+    "zhName": "铠甲矿石",
+    "enName": "Armorite Ore",
+    "id": 1639
+  },
+  "1638": {
+    "jpName": "けいけんおまもり",
+    "zhName": "经验护符",
+    "enName": "Exp. Charm",
+    "id": 1638
+  },
+  "1637": {
+    "jpName": "ロトムじてんしゃ",
+    "zhName": "洛托姆自行车",
+    "enName": "Rotom Bike",
+    "id": 1637
+  },
+  "1636": {
+    "jpName": "ロトムじてんしゃ",
+    "zhName": "洛托姆自行车",
+    "enName": "Rotom Bike",
+    "id": 1636
+  },
+  "1646": {
+    "jpName": "でんせつのメモ３",
+    "zhName": "传说笔记３",
+    "enName": "Legendary Clue 3",
+    "id": 1646
+  },
+  "1645": {
+    "jpName": "でんせつのメモ２",
+    "zhName": "传说笔记２",
+    "enName": "Legendary Clue 2",
+    "id": 1645
+  },
+  "1644": {
+    "jpName": "でんせつのメモ１",
+    "zhName": "传说笔记１",
+    "enName": "Legendary Clue 1",
+    "id": 1644
+  },
+  "1643": {
+    "jpName": "ガラナツリース",
+    "zhName": "伽勒豆蔻花圈",
+    "enName": "Galarica Wreath",
+    "id": 1643
+  },
+  "1642": {
+    "jpName": "キズナのタヅナ",
+    "zhName": "牵绊缰绳",
+    "enName": "Reins of Unity",
+    "id": 1642
+  },
+  "1641": {
+    "jpName": "キズナのタヅナ",
+    "zhName": "牵绊缰绳",
+    "enName": "Reins of Unity",
+    "id": 1641
+  },
+  "1640": {
+    "jpName": "あかしのおまもり",
+    "zhName": "证章护符",
+    "enName": "Mark Charm",
+    "id": 1640
+  },
+  "1649": {
+    "jpName": "きぼりのかんむり",
+    "zhName": "木雕王冠",
+    "enName": "Wooden Crown",
+    "id": 1649
+  },
+  "1648": {
+    "jpName": "カンムリパス",
+    "zhName": "王冠车票",
+    "enName": "Crown Pass",
+    "id": 1648
+  },
+  "1647": {
+    "jpName": "でんせつのメモ？",
+    "zhName": "传说笔记？",
+    "enName": "Legendary Clue?",
+    "id": 1647
+  },
+  "1657": {
+    "jpName": "とくせいパッチ",
+    "zhName": "特性膏药",
+    "enName": "Ability Patch",
+    "id": 1657
+  },
+  "1656": {
+    "jpName": "にんじんのタネ",
+    "zhName": "萝卜种子",
+    "enName": "Carrot Seeds",
+    "id": 1656
+  },
+  "1655": {
+    "jpName": "マックスこうせき",
+    "zhName": "极矿石",
+    "enName": "Dynite Ore",
+    "id": 1655
+  },
+  "1654": {
+    "jpName": "くろいにんじん",
+    "zhName": "黑萝卜",
+    "enName": "Shaderoot Carrot",
+    "id": 1654
+  },
+  "1653": {
+    "jpName": "つめたいにんじん",
+    "zhName": "冰萝卜",
+    "enName": "Iceroot Carrot",
+    "id": 1653
+  },
+  "1652": {
+    "jpName": "くろいたてがみ",
+    "zhName": "黑色鬃毛",
+    "enName": "Black Mane Hair",
+    "id": 1652
+  },
+  "1651": {
+    "jpName": "しろいたてがみ",
+    "zhName": "白色鬃毛",
+    "enName": "White Mane Hair",
+    "id": 1651
+  },
+  "1650": {
+    "jpName": "かがやくはなびら",
+    "zhName": "光辉花瓣",
+    "enName": "Radiant Petal",
+    "id": 1650
+  },
+  "1658": {
+    "jpName": "キズナのタヅナ",
+    "zhName": "牵绊缰绳",
+    "enName": "Reins of Unity",
+    "id": 1658
+  },
+  "1206": {
+    "jpName": "わざレコード１８",
+    "zhName": "招式记录１８",
+    "enName": "TR18",
+    "id": 1206
+  },
+  "1205": {
+    "jpName": "わざレコード１７",
+    "zhName": "招式记录１７",
+    "enName": "TR17",
+    "id": 1205
+  },
+  "1204": {
+    "jpName": "わざレコード１６",
+    "zhName": "招式记录１６",
+    "enName": "TR16",
+    "id": 1204
+  },
+  "1203": {
+    "jpName": "わざレコード１５",
+    "zhName": "招式记录１５",
+    "enName": "TR15",
+    "id": 1203
+  },
+  "1202": {
+    "jpName": "わざレコード１４",
+    "zhName": "招式记录１４",
+    "enName": "TR14",
+    "id": 1202
+  },
+  "1201": {
+    "jpName": "わざレコード１３",
+    "zhName": "招式记录１３",
+    "enName": "TR13",
+    "id": 1201
+  },
+  "1200": {
+    "jpName": "わざレコード１２",
+    "zhName": "招式记录１２",
+    "enName": "TR12",
+    "id": 1200
+  },
+  "1209": {
+    "jpName": "わざレコード２１",
+    "zhName": "招式记录２１",
+    "enName": "TR21",
+    "id": 1209
+  },
+  "1208": {
+    "jpName": "わざレコード２０",
+    "zhName": "招式记录２０",
+    "enName": "TR20",
+    "id": 1208
+  },
+  "1207": {
+    "jpName": "わざレコード１９",
+    "zhName": "招式记录１９",
+    "enName": "TR19",
+    "id": 1207
+  },
+  "1220": {
+    "jpName": "わざレコード３２",
+    "zhName": "招式记录３２",
+    "enName": "TR32",
+    "id": 1220
+  },
+  "1217": {
+    "jpName": "わざレコード２９",
+    "zhName": "招式记录２９",
+    "enName": "TR29",
+    "id": 1217
+  },
+  "1216": {
+    "jpName": "わざレコード２８",
+    "zhName": "招式记录２８",
+    "enName": "TR28",
+    "id": 1216
+  },
+  "1215": {
+    "jpName": "わざレコード２７",
+    "zhName": "招式记录２７",
+    "enName": "TR27",
+    "id": 1215
+  },
+  "1214": {
+    "jpName": "わざレコード２６",
+    "zhName": "招式记录２６",
+    "enName": "TR26",
+    "id": 1214
+  },
+  "1213": {
+    "jpName": "わざレコード２５",
+    "zhName": "招式记录２５",
+    "enName": "TR25",
+    "id": 1213
+  },
+  "1212": {
+    "jpName": "わざレコード２４",
+    "zhName": "招式记录２４",
+    "enName": "TR24",
+    "id": 1212
+  },
+  "1211": {
+    "jpName": "わざレコード２３",
+    "zhName": "招式记录２３",
+    "enName": "TR23",
+    "id": 1211
+  },
+  "1210": {
+    "jpName": "わざレコード２２",
+    "zhName": "招式记录２２",
+    "enName": "TR22",
+    "id": 1210
+  },
+  "1219": {
+    "jpName": "わざレコード３１",
+    "zhName": "招式记录３１",
+    "enName": "TR31",
+    "id": 1219
+  },
+  "1218": {
+    "jpName": "わざレコード３０",
+    "zhName": "招式记录３０",
+    "enName": "TR30",
+    "id": 1218
+  },
+  "1231": {
+    "jpName": "わざレコード４３",
+    "zhName": "招式记录４３",
+    "enName": "TR43",
+    "id": 1231
+  },
+  "1230": {
+    "jpName": "わざレコード４２",
+    "zhName": "招式记录４２",
+    "enName": "TR42",
+    "id": 1230
+  },
+  "1228": {
+    "jpName": "わざレコード４０",
+    "zhName": "招式记录４０",
+    "enName": "TR40",
+    "id": 1228
+  },
+  "1227": {
+    "jpName": "わざレコード３９",
+    "zhName": "招式记录３９",
+    "enName": "TR39",
+    "id": 1227
+  },
+  "1226": {
+    "jpName": "わざレコード３８",
+    "zhName": "招式记录３８",
+    "enName": "TR38",
+    "id": 1226
+  },
+  "1225": {
+    "jpName": "わざレコード３７",
+    "zhName": "招式记录３７",
+    "enName": "TR37",
+    "id": 1225
+  },
+  "1224": {
+    "jpName": "わざレコード３６",
+    "zhName": "招式记录３６",
+    "enName": "TR36",
+    "id": 1224
+  },
+  "1223": {
+    "jpName": "わざレコード３５",
+    "zhName": "招式记录３５",
+    "enName": "TR35",
+    "id": 1223
+  },
+  "1222": {
+    "jpName": "わざレコード３４",
+    "zhName": "招式记录３４",
+    "enName": "TR34",
+    "id": 1222
+  },
+  "1221": {
+    "jpName": "わざレコード３３",
+    "zhName": "招式记录３３",
+    "enName": "TR33",
+    "id": 1221
+  },
+  "800": {
+    "jpName": "サメハダナイト",
+    "zhName": "巨牙鲨进化石",
+    "enName": "Sharpedonite",
+    "id": 800
+  },
+  "801": {
+    "jpName": "ヤドランナイト",
+    "zhName": "呆壳兽进化石",
+    "enName": "Slowbronite",
+    "id": 801
+  },
+  "802": {
+    "jpName": "ハガネールナイト",
+    "zhName": "大钢蛇进化石",
+    "enName": "Steelixite",
+    "id": 802
+  },
+  "803": {
+    "jpName": "ピジョットナイト",
+    "zhName": "大比鸟进化石",
+    "enName": "Pidgeotite",
+    "id": 803
+  },
+  "804": {
+    "jpName": "オニゴーリナイト",
+    "zhName": "冰鬼护进化石",
+    "enName": "Glalitite",
+    "id": 804
+  },
+  "805": {
+    "jpName": "ディアンシナイト",
+    "zhName": "蒂安希进化石",
+    "enName": "Diancite",
+    "id": 805
+  },
+  "806": {
+    "jpName": "いましめのツボ",
+    "zhName": "惩戒之壶",
+    "enName": "Prison Bottle",
+    "id": 806
+  },
+  "807": {
+    "jpName": "メガブレス",
+    "zhName": "超级护腕",
+    "enName": "Mega Cuff",
+    "id": 807
+  },
+  "1229": {
+    "jpName": "わざレコード４１",
+    "zhName": "招式记录４１",
+    "enName": "TR41",
+    "id": 1229
+  },
+  "808": {
+    "jpName": "バクーダナイト",
+    "zhName": "喷火驼进化石",
+    "enName": "Cameruptite",
+    "id": 808
+  },
+  "809": {
+    "jpName": "ミミロップナイト",
+    "zhName": "长耳兔进化石",
+    "enName": "Lopunnite",
+    "id": 809
+  },
+  "1242": {
+    "jpName": "わざレコード５４",
+    "zhName": "招式记录５４",
+    "enName": "TR54",
+    "id": 1242
+  },
+  "1241": {
+    "jpName": "わざレコード５３",
+    "zhName": "招式记录５３",
+    "enName": "TR53",
+    "id": 1241
+  },
+  "1240": {
+    "jpName": "わざレコード５２",
+    "zhName": "招式记录５２",
+    "enName": "TR52",
+    "id": 1240
+  },
+  "1239": {
+    "jpName": "わざレコード５１",
+    "zhName": "招式记录５１",
+    "enName": "TR51",
+    "id": 1239
+  },
+  "1238": {
+    "jpName": "わざレコード５０",
+    "zhName": "招式记录５０",
+    "enName": "TR50",
+    "id": 1238
+  },
+  "1237": {
+    "jpName": "わざレコード４９",
+    "zhName": "招式记录４９",
+    "enName": "TR49",
+    "id": 1237
+  },
+  "1236": {
+    "jpName": "わざレコード４８",
+    "zhName": "招式记录４８",
+    "enName": "TR48",
+    "id": 1236
+  },
+  "1235": {
+    "jpName": "わざレコード４７",
+    "zhName": "招式记录４７",
+    "enName": "TR47",
+    "id": 1235
+  },
+  "1234": {
+    "jpName": "わざレコード４６",
+    "zhName": "招式记录４６",
+    "enName": "TR46",
+    "id": 1234
+  },
+  "1233": {
+    "jpName": "わざレコード４５",
+    "zhName": "招式记录４５",
+    "enName": "TR45",
+    "id": 1233
+  },
+  "810": {
+    "jpName": "ボーマンダナイト",
+    "zhName": "暴飞龙进化石",
+    "enName": "Salamencite",
+    "id": 810
+  },
+  "1232": {
+    "jpName": "わざレコード４４",
+    "zhName": "招式记录４４",
+    "enName": "TR44",
+    "id": 1232
+  },
+  "811": {
+    "jpName": "スピアナイト",
+    "zhName": "大针蜂进化石",
+    "enName": "Beedrillite",
+    "id": 811
+  },
+  "814": {
+    "jpName": "キーストーン",
+    "zhName": "钥石",
+    "enName": "Key Stone",
+    "id": 814
+  },
+  "815": {
+    "jpName": "いんせきのかけら",
+    "zhName": "陨石碎片",
+    "enName": "Meteorite Shard",
+    "id": 815
+  },
+  "816": {
+    "jpName": "むげんのふえ",
+    "zhName": "无限之笛",
+    "enName": "Eon Flute",
+    "id": 816
+  },
+  "817": {
+    "jpName": "ノーマルＺ",
+    "zhName": "一般Ｚ",
+    "enName": "Normalium Z",
+    "id": 817
+  },
+  "818": {
+    "jpName": "ホノオＺ",
+    "zhName": "火Ｚ",
+    "enName": "Firium Z",
+    "id": 818
+  },
+  "819": {
+    "jpName": "ミズＺ",
+    "zhName": "水Ｚ",
+    "enName": "Waterium Z",
+    "id": 819
+  },
+  "1253": {
+    "jpName": "わざレコード６５",
+    "zhName": "招式记录６５",
+    "enName": "TR65",
+    "id": 1253
+  },
+  "1252": {
+    "jpName": "わざレコード６４",
+    "zhName": "招式记录６４",
+    "enName": "TR64",
+    "id": 1252
+  },
+  "1251": {
+    "jpName": "わざレコード６３",
+    "zhName": "招式记录６３",
+    "enName": "TR63",
+    "id": 1251
+  },
+  "1250": {
+    "jpName": "わざレコード６２",
+    "zhName": "招式记录６２",
+    "enName": "TR62",
+    "id": 1250
+  },
+  "1249": {
+    "jpName": "わざレコード６１",
+    "zhName": "招式记录６１",
+    "enName": "TR61",
+    "id": 1249
+  },
+  "1248": {
+    "jpName": "わざレコード６０",
+    "zhName": "招式记录６０",
+    "enName": "TR60",
+    "id": 1248
+  },
+  "1247": {
+    "jpName": "わざレコード５９",
+    "zhName": "招式记录５９",
+    "enName": "TR59",
+    "id": 1247
+  },
+  "1246": {
+    "jpName": "わざレコード５８",
+    "zhName": "招式记录５８",
+    "enName": "TR58",
+    "id": 1246
+  },
+  "1245": {
+    "jpName": "わざレコード５７",
+    "zhName": "招式记录５７",
+    "enName": "TR57",
+    "id": 1245
+  },
+  "820": {
+    "jpName": "デンキＺ",
+    "zhName": "电Ｚ",
+    "enName": "Electrium Z",
+    "id": 820
+  },
+  "1244": {
+    "jpName": "わざレコード５６",
+    "zhName": "招式记录５６",
+    "enName": "TR56",
+    "id": 1244
+  },
+  "821": {
+    "jpName": "クサＺ",
+    "zhName": "草Ｚ",
+    "enName": "Grassium Z",
+    "id": 821
+  },
+  "1243": {
+    "jpName": "わざレコード５５",
+    "zhName": "招式记录５５",
+    "enName": "TR55",
+    "id": 1243
+  },
+  "822": {
+    "jpName": "コオリＺ",
+    "zhName": "冰Ｚ",
+    "enName": "Icium Z",
+    "id": 822
+  },
+  "823": {
+    "jpName": "カクトウＺ",
+    "zhName": "格斗Ｚ",
+    "enName": "Fightinium Z",
+    "id": 823
+  },
+  "824": {
+    "jpName": "ドクＺ",
+    "zhName": "毒Ｚ",
+    "enName": "Poisonium Z",
+    "id": 824
+  },
+  "825": {
+    "jpName": "ジメンＺ",
+    "zhName": "地面Ｚ",
+    "enName": "Groundium Z",
+    "id": 825
+  },
+  "826": {
+    "jpName": "ヒコウＺ",
+    "zhName": "飞行Ｚ",
+    "enName": "Flyinium Z",
+    "id": 826
+  },
+  "827": {
+    "jpName": "エスパーＺ",
+    "zhName": "超能力Ｚ",
+    "enName": "Psychium Z",
+    "id": 827
+  },
+  "828": {
+    "jpName": "ムシＺ",
+    "zhName": "虫Ｚ",
+    "enName": "Buginium Z",
+    "id": 828
+  },
+  "829": {
+    "jpName": "イワＺ",
+    "zhName": "岩石Ｚ",
+    "enName": "Rockium Z",
+    "id": 829
+  },
+  "1264": {
+    "jpName": "わざレコード７６",
+    "zhName": "招式记录７６",
+    "enName": "TR76",
+    "id": 1264
+  },
+  "1263": {
+    "jpName": "わざレコード７５",
+    "zhName": "招式记录７５",
+    "enName": "TR75",
+    "id": 1263
+  },
+  "1262": {
+    "jpName": "わざレコード７４",
+    "zhName": "招式记录７４",
+    "enName": "TR74",
+    "id": 1262
+  },
+  "1261": {
+    "jpName": "わざレコード７３",
+    "zhName": "招式记录７３",
+    "enName": "TR73",
+    "id": 1261
+  },
+  "1260": {
+    "jpName": "わざレコード７２",
+    "zhName": "招式记录７２",
+    "enName": "TR72",
+    "id": 1260
+  },
+  "1259": {
+    "jpName": "わざレコード７１",
+    "zhName": "招式记录７１",
+    "enName": "TR71",
+    "id": 1259
+  },
+  "1258": {
+    "jpName": "わざレコード７０",
+    "zhName": "招式记录７０",
+    "enName": "TR70",
+    "id": 1258
+  },
+  "1257": {
+    "jpName": "わざレコード６９",
+    "zhName": "招式记录６９",
+    "enName": "TR69",
+    "id": 1257
+  },
+  "830": {
+    "jpName": "ゴーストＺ",
+    "zhName": "幽灵Ｚ",
+    "enName": "Ghostium Z",
+    "id": 830
+  },
+  "1256": {
+    "jpName": "わざレコード６８",
+    "zhName": "招式记录６８",
+    "enName": "TR68",
+    "id": 1256
+  },
+  "831": {
+    "jpName": "ドラゴンＺ",
+    "zhName": "龙Ｚ",
+    "enName": "Dragonium Z",
+    "id": 831
+  },
+  "1255": {
+    "jpName": "わざレコード６７",
+    "zhName": "招式记录６７",
+    "enName": "TR67",
+    "id": 1255
+  },
+  "832": {
+    "jpName": "アクＺ",
+    "zhName": "恶Ｚ",
+    "enName": "Darkinium Z",
+    "id": 832
+  },
+  "1254": {
+    "jpName": "わざレコード６６",
+    "zhName": "招式记录６６",
+    "enName": "TR66",
+    "id": 1254
+  },
+  "833": {
+    "jpName": "ハガネＺ",
+    "zhName": "钢Ｚ",
+    "enName": "Steelium Z",
+    "id": 833
+  },
+  "834": {
+    "jpName": "フェアリーＺ",
+    "zhName": "妖精Ｚ",
+    "enName": "Fairium Z",
+    "id": 834
+  },
+  "835": {
+    "jpName": "ピカチュウＺ",
+    "zhName": "皮卡丘Ｚ",
+    "enName": "Pikanium Z",
+    "id": 835
+  },
+  "836": {
+    "jpName": "ぎんのおうかん",
+    "zhName": "银色王冠",
+    "enName": "Bottle Cap",
+    "id": 836
+  },
+  "837": {
+    "jpName": "きんのおうかん",
+    "zhName": "金色王冠",
+    "enName": "Gold Bottle Cap",
+    "id": 837
+  },
+  "838": {
+    "jpName": "Ｚリング",
+    "zhName": "Ｚ手环",
+    "enName": "Z-Ring",
+    "id": 838
+  },
+  "839": {
+    "jpName": "ジュナイパーＺ",
+    "zhName": "狙射树枭Ｚ",
+    "enName": "Decidium Z",
+    "id": 839
+  },
+  "1275": {
+    "jpName": "わざレコード８７",
+    "zhName": "招式记录８７",
+    "enName": "TR87",
+    "id": 1275
+  },
+  "1274": {
+    "jpName": "わざレコード８６",
+    "zhName": "招式记录８６",
+    "enName": "TR86",
+    "id": 1274
+  },
+  "1273": {
+    "jpName": "わざレコード８５",
+    "zhName": "招式记录８５",
+    "enName": "TR85",
+    "id": 1273
+  },
+  "1272": {
+    "jpName": "わざレコード８４",
+    "zhName": "招式记录８４",
+    "enName": "TR84",
+    "id": 1272
+  },
+  "1271": {
+    "jpName": "わざレコード８３",
+    "zhName": "招式记录８３",
+    "enName": "TR83",
+    "id": 1271
+  },
+  "1270": {
+    "jpName": "わざレコード８２",
+    "zhName": "招式记录８２",
+    "enName": "TR82",
+    "id": 1270
+  },
+  "1269": {
+    "jpName": "わざレコード８１",
+    "zhName": "招式记录８１",
+    "enName": "TR81",
+    "id": 1269
+  },
+  "840": {
+    "jpName": "ガオガエンＺ",
+    "zhName": "炽焰咆哮虎Ｚ",
+    "enName": "Incinium Z",
+    "id": 840
+  },
+  "1268": {
+    "jpName": "わざレコード８０",
+    "zhName": "招式记录８０",
+    "enName": "TR80",
+    "id": 1268
+  },
+  "841": {
+    "jpName": "アシレーヌＺ",
+    "zhName": "西狮海壬Ｚ",
+    "enName": "Primarium Z",
+    "id": 841
+  },
+  "1267": {
+    "jpName": "わざレコード７９",
+    "zhName": "招式记录７９",
+    "enName": "TR79",
+    "id": 1267
+  },
+  "842": {
+    "jpName": "カプＺ",
+    "zhName": "卡璞Ｚ",
+    "enName": "Tapunium Z",
+    "id": 842
+  },
+  "1266": {
+    "jpName": "わざレコード７８",
+    "zhName": "招式记录７８",
+    "enName": "TR78",
+    "id": 1266
+  },
+  "843": {
+    "jpName": "マーシャドーＺ",
+    "zhName": "玛夏多Ｚ",
+    "enName": "Marshadium Z",
+    "id": 843
+  },
+  "1265": {
+    "jpName": "わざレコード７７",
+    "zhName": "招式记录７７",
+    "enName": "TR77",
+    "id": 1265
+  },
+  "844": {
+    "jpName": "アロライＺ",
+    "zhName": "阿罗雷Ｚ",
+    "enName": "Aloraichium Z",
+    "id": 844
+  },
+  "845": {
+    "jpName": "カビゴンＺ",
+    "zhName": "卡比兽Ｚ",
+    "enName": "Snorlium Z",
+    "id": 845
+  },
+  "846": {
+    "jpName": "イーブイＺ",
+    "zhName": "伊布Ｚ",
+    "enName": "Eevium Z",
+    "id": 846
+  },
+  "847": {
+    "jpName": "ミュウＺ",
+    "zhName": "梦幻Ｚ",
+    "enName": "Mewnium Z",
+    "id": 847
+  },
+  "1286": {
+    "jpName": "わざレコード９８",
+    "zhName": "招式记录９８",
+    "enName": "TR98",
+    "id": 1286
+  },
+  "1285": {
+    "jpName": "わざレコード９７",
+    "zhName": "招式记录９７",
+    "enName": "TR97",
+    "id": 1285
+  },
+  "1284": {
+    "jpName": "わざレコード９６",
+    "zhName": "招式记录９６",
+    "enName": "TR96",
+    "id": 1284
+  },
+  "1283": {
+    "jpName": "わざレコード９５",
+    "zhName": "招式记录９５",
+    "enName": "TR95",
+    "id": 1283
+  },
+  "1282": {
+    "jpName": "わざレコード９４",
+    "zhName": "招式记录９４",
+    "enName": "TR94",
+    "id": 1282
+  },
+  "1281": {
+    "jpName": "わざレコード９３",
+    "zhName": "招式记录９３",
+    "enName": "TR93",
+    "id": 1281
+  },
+  "1280": {
+    "jpName": "わざレコード９２",
+    "zhName": "招式记录９２",
+    "enName": "TR92",
+    "id": 1280
+  },
+  "1279": {
+    "jpName": "わざレコード９１",
+    "zhName": "招式记录９１",
+    "enName": "TR91",
+    "id": 1279
+  },
+  "1278": {
+    "jpName": "わざレコード９０",
+    "zhName": "招式记录９０",
+    "enName": "TR90",
+    "id": 1278
+  },
+  "1277": {
+    "jpName": "わざレコード８９",
+    "zhName": "招式记录８９",
+    "enName": "TR89",
+    "id": 1277
+  },
+  "1276": {
+    "jpName": "わざレコード８８",
+    "zhName": "招式记录８８",
+    "enName": "TR88",
+    "id": 1276
+  },
+  "1297": {
+    "jpName": "ひかえめミント",
+    "zhName": "内敛薄荷",
+    "enName": "Modest Mint",
+    "id": 1297
+  },
+  "1296": {
+    "jpName": "のんきミント",
+    "zhName": "悠闲薄荷",
+    "enName": "Relaxed Mint",
+    "id": 1296
+  },
+  "1295": {
+    "jpName": "のうてんきミント",
+    "zhName": "乐天薄荷",
+    "enName": "Lax Mint",
+    "id": 1295
+  },
+  "1294": {
+    "jpName": "わんぱくミント",
+    "zhName": "淘气薄荷",
+    "enName": "Impish Mint",
+    "id": 1294
+  },
+  "1293": {
+    "jpName": "ずぶといミント",
+    "zhName": "大胆薄荷",
+    "enName": "Bold Mint",
+    "id": 1293
+  },
+  "1292": {
+    "jpName": "ゆうかんミント",
+    "zhName": "勇敢薄荷",
+    "enName": "Brave Mint",
+    "id": 1292
+  },
+  "1291": {
+    "jpName": "やんちゃミント",
+    "zhName": "顽皮薄荷",
+    "enName": "Naughty Mint",
+    "id": 1291
+  },
+  "1290": {
+    "jpName": "いじっぱりミント",
+    "zhName": "固执薄荷",
+    "enName": "Adamant Mint",
+    "id": 1290
+  },
+  "1289": {
+    "jpName": "さみしがりミント",
+    "zhName": "怕寂寞薄荷",
+    "enName": "Lonely Mint",
+    "id": 1289
+  },
+  "1288": {
+    "jpName": "わざマシン００",
+    "zhName": "招式学习器００",
+    "enName": "TM00",
+    "id": 1288
+  },
+  "1287": {
+    "jpName": "わざレコード９９",
+    "zhName": "招式记录９９",
+    "enName": "TR99",
+    "id": 1287
+  },
+  "1299": {
+    "jpName": "うっかりやミント",
+    "zhName": "马虎薄荷",
+    "enName": "Rash Mint",
+    "id": 1299
+  },
+  "1298": {
+    "jpName": "おっとりミント",
+    "zhName": "慢吞吞薄荷",
+    "enName": "Mild Mint",
+    "id": 1298
+  },
+  "877": {
+    "jpName": "サトピカＺ",
+    "zhName": "智皮卡Ｚ",
+    "enName": "Pikashunium Z",
+    "id": 877
+  },
+  "878": {
+    "jpName": "ざいりょうぶくろ",
+    "zhName": "材料袋",
+    "enName": "Forage Bag",
+    "id": 878
+  },
+  "879": {
+    "jpName": "つりざお",
+    "zhName": "钓竿",
+    "enName": "Fishing Rod",
+    "id": 879
+  },
+  "880": {
+    "jpName": "はかせのふくめん",
+    "zhName": "博士的面罩",
+    "enName": "Professor’s Mask",
+    "id": 880
+  },
+  "881": {
+    "jpName": "フェスチケット",
+    "zhName": "圆庆票",
+    "enName": "Festival Ticket",
+    "id": 881
+  },
+  "882": {
+    "jpName": "かがやくいし",
+    "zhName": "光辉石",
+    "enName": "Sparkling Stone",
+    "id": 882
+  },
+  "883": {
+    "jpName": "ビビリだま",
+    "zhName": "胆怯球",
+    "enName": "Adrenaline Orb",
+    "id": 883
+  },
+  "400": {
+    "jpName": "ひでんマシン０４",
+    "zhName": "秘传学习器０４",
+    "enName": "HM04",
+    "id": 400
+  },
+  "884": {
+    "jpName": "ジガルデキューブ",
+    "zhName": "基格尔德多面体",
+    "enName": "Zygarde Cube",
+    "id": 884
+  },
+  "401": {
+    "jpName": "ひでんマシン０５",
+    "zhName": "秘传学习器０５",
+    "enName": "HM05",
+    "id": 401
+  },
+  "885": {
+    "jpName": "こおりのいし",
+    "zhName": "冰之石",
+    "enName": "Ice Stone",
+    "id": 885
+  },
+  "402": {
+    "jpName": "ひでんマシン０６",
+    "zhName": "秘传学习器０６",
+    "enName": "HM06",
+    "id": 402
+  },
+  "886": {
+    "jpName": "ライドギア",
+    "zhName": "骑行装置",
+    "enName": "Ride Pager",
+    "id": 886
+  },
+  "403": {
+    "jpName": "ひでんマシン０７",
+    "zhName": "秘传学习器０７",
+    "enName": "HM07",
+    "id": 403
+  },
+  "887": {
+    "jpName": "ウルトラボール",
+    "zhName": "究极球",
+    "enName": "Beast Ball",
+    "id": 887
+  },
+  "404": {
+    "jpName": "",
+    "zhName": "HM08",
+    "enName": "HM08",
+    "id": 404
+  },
+  "888": {
+    "jpName": "おおきいマラサダ",
+    "zhName": "大马拉萨达",
+    "enName": "Big Malasada",
+    "id": 888
+  },
+  "405": {
+    "jpName": "たんけんセット",
+    "zhName": "探险套装",
+    "enName": "Explorer Kit",
+    "id": 405
+  },
+  "889": {
+    "jpName": "くれないのミツ",
+    "zhName": "朱红色花蜜",
+    "enName": "Red Nectar",
+    "id": 889
+  },
+  "406": {
+    "jpName": "たからぶくろ",
+    "zhName": "宝物袋",
+    "enName": "Loot Sack",
+    "id": 406
+  },
+  "407": {
+    "jpName": "ルールブック",
+    "zhName": "规则书",
+    "enName": "Rule Book",
+    "id": 407
+  },
+  "408": {
+    "jpName": "ポケトレ",
+    "zhName": "宝可追踪",
+    "enName": "Poké Radar",
+    "id": 408
+  },
+  "409": {
+    "jpName": "ポイントカード",
+    "zhName": "点数卡",
+    "enName": "Point Card",
+    "id": 409
+  },
+  "890": {
+    "jpName": "やまぶきのミツ",
+    "zhName": "金黄色花蜜",
+    "enName": "Yellow Nectar",
+    "id": 890
+  },
+  "891": {
+    "jpName": "うすもものミツ",
+    "zhName": "桃粉色花蜜",
+    "enName": "Pink Nectar",
+    "id": 891
+  },
+  "892": {
+    "jpName": "むらさきのミツ",
+    "zhName": "兰紫色花蜜",
+    "enName": "Purple Nectar",
+    "id": 892
+  },
+  "893": {
+    "jpName": "たいようのふえ",
+    "zhName": "太阳之笛",
+    "enName": "Sun Flute",
+    "id": 893
+  },
+  "410": {
+    "jpName": "ぼうけんノート",
+    "zhName": "冒险笔记",
+    "enName": "Journal",
+    "id": 410
+  },
+  "894": {
+    "jpName": "つきのふえ",
+    "zhName": "月亮之笛",
+    "enName": "Moon Flute",
+    "id": 894
+  },
+  "411": {
+    "jpName": "シールいれ",
+    "zhName": "贴纸盒",
+    "enName": "Seal Case",
+    "id": 411
+  },
+  "895": {
+    "jpName": "あやしいカード",
+    "zhName": "奇异卡片",
+    "enName": "Enigmatic Card",
+    "id": 895
+  },
+  "412": {
+    "jpName": "アクセサリーいれ",
+    "zhName": "饰品盒",
+    "enName": "Fashion Case",
+    "id": 412
+  },
+  "896": {
+    "jpName": "グランドコート",
+    "zhName": "大地膜",
+    "enName": "Terrain Extender",
+    "id": 896
+  },
+  "413": {
+    "jpName": "シールぶくろ",
+    "zhName": "贴纸袋",
+    "enName": "Seal Bag",
+    "id": 413
+  },
+  "897": {
+    "jpName": "ぼうごパット",
+    "zhName": "部位护具",
+    "enName": "Protective Pads",
+    "id": 897
+  },
+  "414": {
+    "jpName": "ともだちてちょう",
+    "zhName": "朋友手册",
+    "enName": "Pal Pad",
+    "id": 414
+  },
+  "898": {
+    "jpName": "エレキシード",
+    "zhName": "电气种子",
+    "enName": "Electric Seed",
+    "id": 898
+  },
+  "415": {
+    "jpName": "はつでんしょキー",
+    "zhName": "发电厂钥匙",
+    "enName": "Works Key",
+    "id": 415
+  },
+  "899": {
+    "jpName": "サイコシード",
+    "zhName": "精神种子",
+    "enName": "Psychic Seed",
+    "id": 899
+  },
+  "416": {
+    "jpName": "こだいのおまもり",
+    "zhName": "古代护符",
+    "enName": "Old Charm",
+    "id": 416
+  },
+  "417": {
+    "jpName": "ギンガだんのカギ",
+    "zhName": "银河队钥匙",
+    "enName": "Galactic Key",
+    "id": 417
+  },
+  "418": {
+    "jpName": "あかいくさり",
+    "zhName": "红色锁链",
+    "enName": "Red Chain",
+    "id": 418
+  },
+  "419": {
+    "jpName": "タウンマップ",
+    "zhName": "城镇地图",
+    "enName": "Town Map",
+    "id": 419
+  },
+  "420": {
+    "jpName": "バトルサーチャー",
+    "zhName": "对战搜寻器",
+    "enName": "Vs. Seeker",
+    "id": 420
+  },
+  "421": {
+    "jpName": "コインケース",
+    "zhName": "代币盒",
+    "enName": "Coin Case",
+    "id": 421
+  },
+  "422": {
+    "jpName": "ボロのつりざお",
+    "zhName": "破旧钓竿",
+    "enName": "Old Rod",
+    "id": 422
+  },
+  "423": {
+    "jpName": "いいつりざお",
+    "zhName": "好钓竿",
+    "enName": "Good Rod",
+    "id": 423
+  },
+  "424": {
+    "jpName": "すごいつりざお",
+    "zhName": "厉害钓竿",
+    "enName": "Super Rod",
+    "id": 424
+  },
+  "425": {
+    "jpName": "コダックじょうろ",
+    "zhName": "可达鸭喷壶",
+    "enName": "Sprayduck",
+    "id": 425
+  },
+  "426": {
+    "jpName": "ポフィンケース",
+    "zhName": "宝芬盒",
+    "enName": "Poffin Case",
+    "id": 426
+  },
+  "427": {
+    "jpName": "",
+    "zhName": "自行车",
+    "enName": "Bicycle",
+    "id": 427
+  },
+  "428": {
+    "jpName": "ルームキー",
+    "zhName": "房间钥匙",
+    "enName": "Suite Key",
+    "id": 428
+  },
+  "429": {
+    "jpName": "オーキドのてがみ",
+    "zhName": "大木的信",
+    "enName": "Oak’s Letter",
+    "id": 429
+  },
+  "430": {
+    "jpName": "みかづきのはね",
+    "zhName": "新月之羽",
+    "enName": "Lunar Wing",
+    "id": 430
+  },
+  "431": {
+    "jpName": "メンバーズカード",
+    "zhName": "会员卡",
+    "enName": "Member Card",
+    "id": 431
+  },
+  "432": {
+    "jpName": "てんかいのふえ",
+    "zhName": "天界之笛",
+    "enName": "Azure Flute",
+    "id": 432
+  },
+  "433": {
+    "jpName": "ふねのチケット",
+    "zhName": "船票",
+    "enName": "S.S. Ticket",
+    "id": 433
+  },
+  "434": {
+    "jpName": "コンテストパス",
+    "zhName": "华丽大赛参加证",
+    "enName": "Contest Pass",
+    "id": 434
+  },
+  "435": {
+    "jpName": "かざんのおきいし",
+    "zhName": "火山镇石",
+    "enName": "Magma Stone",
+    "id": 435
+  },
+  "436": {
+    "jpName": "おとどけもの",
+    "zhName": "包裹",
+    "enName": "Parcel",
+    "id": 436
+  },
+  "437": {
+    "jpName": "ひきかえけん１",
+    "zhName": "兑换券１",
+    "enName": "Coupon 1",
+    "id": 437
+  },
+  "438": {
+    "jpName": "ひきかえけん２",
+    "zhName": "兑换券２",
+    "enName": "Coupon 2",
+    "id": 438
+  },
+  "439": {
+    "jpName": "ひきかえけん３",
+    "zhName": "兑换券３",
+    "enName": "Coupon 3",
+    "id": 439
+  },
+  "440": {
+    "jpName": "そうこのカギ",
+    "zhName": "仓库钥匙",
+    "enName": "Storage Key",
+    "id": 440
+  },
+  "441": {
+    "jpName": "ひでんのくすり",
+    "zhName": "秘传之药",
+    "enName": "Secret Potion",
+    "id": 441
+  },
+  "442": {
+    "jpName": "はっきんだま",
+    "zhName": "白金宝珠",
+    "enName": "Griseous Orb",
+    "id": 442
+  },
+  "443": {
+    "jpName": "バトルレコーダー",
+    "zhName": "对战记录器",
+    "enName": "Vs. Recorder",
+    "id": 443
+  },
+  "444": {
+    "jpName": "グラシデアのはな",
+    "zhName": "葛拉西蒂亚花",
+    "enName": "Gracidea",
+    "id": 444
+  },
+  "445": {
+    "jpName": "ひみつのカギ",
+    "zhName": "秘密钥匙",
+    "enName": "Secret Key",
+    "id": 445
+  },
+  "446": {
+    "jpName": "ぼんぐりケース",
+    "zhName": "球果盒",
+    "enName": "Apricorn Box",
+    "id": 446
+  },
+  "447": {
+    "jpName": "きのみプランター",
+    "zhName": "树果种植盆",
+    "enName": "Berry Pots",
+    "id": 447
+  },
+  "448": {
+    "jpName": "ゼニガメじょうろ",
+    "zhName": "杰尼龟喷壶",
+    "enName": "Squirt Bottle",
+    "id": 448
+  },
+  "449": {
+    "jpName": "ルアーボール",
+    "zhName": "诱饵球",
+    "enName": "Lure Ball",
+    "id": 449
+  },
+  "450": {
+    "jpName": "レベルボール",
+    "zhName": "等级球",
+    "enName": "Level Ball",
+    "id": 450
+  },
+  "451": {
+    "jpName": "ムーンボール",
+    "zhName": "月亮球",
+    "enName": "Moon Ball",
+    "id": 451
+  },
+  "452": {
+    "jpName": "ヘビーボール",
+    "zhName": "沉重球",
+    "enName": "Heavy Ball",
+    "id": 452
+  },
+  "453": {
+    "jpName": "スピードボール",
+    "zhName": "速度球",
+    "enName": "Fast Ball",
+    "id": 453
+  },
+  "454": {
+    "jpName": "フレンドボール",
+    "zhName": "友友球",
+    "enName": "Friend Ball",
+    "id": 454
+  },
+  "455": {
+    "jpName": "ラブラブボール",
+    "zhName": "甜蜜球",
+    "enName": "Love Ball",
+    "id": 455
+  },
+  "456": {
+    "jpName": "パークボール",
+    "zhName": "公园球",
+    "enName": "Park Ball",
+    "id": 456
+  },
+  "457": {
+    "jpName": "コンペボール",
+    "zhName": "竞赛球",
+    "enName": "Sport Ball",
+    "id": 457
+  },
+  "458": {
+    "jpName": "あかぼんぐり",
+    "zhName": "红球果",
+    "enName": "Red Apricorn",
+    "id": 458
+  },
+  "459": {
+    "jpName": "あおぼんぐり",
+    "zhName": "蓝球果",
+    "enName": "Blue Apricorn",
+    "id": 459
+  },
+  "460": {
+    "jpName": "きぼんぐり",
+    "zhName": "黄球果",
+    "enName": "Yellow Apricorn",
+    "id": 460
+  },
+  "461": {
+    "jpName": "みどぼんぐり",
+    "zhName": "绿球果",
+    "enName": "Green Apricorn",
+    "id": 461
+  },
+  "462": {
+    "jpName": "ももぼんぐり",
+    "zhName": "粉球果",
+    "enName": "Pink Apricorn",
+    "id": 462
+  },
+  "463": {
+    "jpName": "しろぼんぐり",
+    "zhName": "白球果",
+    "enName": "White Apricorn",
+    "id": 463
+  },
+  "464": {
+    "jpName": "くろぼんぐり",
+    "zhName": "黑球果",
+    "enName": "Black Apricorn",
+    "id": 464
+  },
+  "465": {
+    "jpName": "ダウジングマシン",
+    "zhName": "探宝器",
+    "enName": "Dowsing Machine",
+    "id": 465
+  },
+  "466": {
+    "jpName": "いかりまんじゅう",
+    "zhName": "愤怒馒头",
+    "enName": "Rage Candy Bar",
+    "id": 466
+  },
+  "467": {
+    "jpName": "べにいろのたま",
+    "zhName": "朱红色宝珠",
+    "enName": "Red Orb",
+    "id": 467
+  },
+  "468": {
+    "jpName": "あいいろのたま",
+    "zhName": "靛蓝色宝珠",
+    "enName": "Blue Orb",
+    "id": 468
+  },
+  "469": {
+    "jpName": "もえぎいろのたま",
+    "zhName": "草绿色宝珠",
+    "enName": "Jade Orb",
+    "id": 469
+  },
+  "470": {
+    "jpName": "なぞのすいしょう",
+    "zhName": "谜之水晶",
+    "enName": "Enigma Stone",
+    "id": 470
+  },
+  "471": {
+    "jpName": "アンノーンノート",
+    "zhName": "未知图腾笔记",
+    "enName": "Unown Report",
+    "id": 471
+  },
+  "472": {
+    "jpName": "ブルーカード",
+    "zhName": "蓝卡",
+    "enName": "Blue Card",
+    "id": 472
+  },
+  "473": {
+    "jpName": "おいしいシッポ",
+    "zhName": "美味尾巴",
+    "enName": "Slowpoke Tail",
+    "id": 473
+  },
+  "474": {
+    "jpName": "とうめいなスズ",
+    "zhName": "透明铃铛",
+    "enName": "Clear Bell",
+    "id": 474
+  },
+  "475": {
+    "jpName": "カードキー",
+    "zhName": "钥匙卡",
+    "enName": "Card Key",
+    "id": 475
+  },
+  "476": {
+    "jpName": "ちかのかぎ",
+    "zhName": "地下钥匙",
+    "enName": "Basement Key",
+    "id": 476
+  },
+  "477": {
+    "jpName": "あかいウロコ",
+    "zhName": "红色鳞片",
+    "enName": "Red Scale",
+    "id": 477
+  },
+  "478": {
+    "jpName": "おとしもの",
+    "zhName": "遗失物",
+    "enName": "Lost Item",
+    "id": 478
+  },
+  "479": {
+    "jpName": "リニアパス",
+    "zhName": "磁浮列车自由票",
+    "enName": "Pass",
+    "id": 479
+  },
+  "480": {
+    "jpName": "きかいのぶひん",
+    "zhName": "机械零件",
+    "enName": "Machine Part",
+    "id": 480
+  },
+  "481": {
+    "jpName": "ぎんいろのはね",
+    "zhName": "银色之羽",
+    "enName": "Silver Wing",
+    "id": 481
+  },
+  "482": {
+    "jpName": "にじいろのはね",
+    "zhName": "虹色之羽",
+    "enName": "Rainbow Wing",
+    "id": 482
+  },
+  "483": {
+    "jpName": "ふしぎなタマゴ",
+    "zhName": "神奇蛋",
+    "enName": "Mystery Egg",
+    "id": 483
+  },
+  "484": {
+    "jpName": "ＧＢプレイヤー",
+    "zhName": "ＧＢ播放器",
+    "enName": "GB Sounds",
+    "id": 484
+  },
+  "485": {
+    "jpName": "うみなりのスズ",
+    "zhName": "海声铃铛",
+    "enName": "Tidal Bell",
+    "id": 485
+  },
+  "486": {
+    "jpName": "データカード０１",
+    "zhName": "数据卡０１",
+    "enName": "Data Card 01",
+    "id": 486
+  },
+  "487": {
+    "jpName": "データカード０２",
+    "zhName": "数据卡０２",
+    "enName": "Data Card 02",
+    "id": 487
+  },
+  "488": {
+    "jpName": "データカード０３",
+    "zhName": "数据卡０３",
+    "enName": "Data Card 03",
+    "id": 488
+  },
+  "489": {
+    "jpName": "データカード０４",
+    "zhName": "数据卡０４",
+    "enName": "Data Card 04",
+    "id": 489
+  },
+  "490": {
+    "jpName": "データカード０５",
+    "zhName": "数据卡０５",
+    "enName": "Data Card 05",
+    "id": 490
+  },
+  "491": {
+    "jpName": "データカード０６",
+    "zhName": "数据卡０６",
+    "enName": "Data Card 06",
+    "id": 491
+  },
+  "492": {
+    "jpName": "データカード０７",
+    "zhName": "数据卡０７",
+    "enName": "Data Card 07",
+    "id": 492
+  },
+  "493": {
+    "jpName": "データカード０８",
+    "zhName": "数据卡０８",
+    "enName": "Data Card 08",
+    "id": 493
+  },
+  "494": {
+    "jpName": "データカード０９",
+    "zhName": "数据卡０９",
+    "enName": "Data Card 09",
+    "id": 494
+  },
+  "495": {
+    "jpName": "データカード１０",
+    "zhName": "数据卡１０",
+    "enName": "Data Card 10",
+    "id": 495
+  },
+  "496": {
+    "jpName": "データカード１１",
+    "zhName": "数据卡１１",
+    "enName": "Data Card 11",
+    "id": 496
+  },
+  "497": {
+    "jpName": "データカード１２",
+    "zhName": "数据卡１２",
+    "enName": "Data Card 12",
+    "id": 497
+  },
+  "498": {
+    "jpName": "データカード１３",
+    "zhName": "数据卡１３",
+    "enName": "Data Card 13",
+    "id": 498
+  },
+  "499": {
+    "jpName": "データカード１４",
+    "zhName": "数据卡１４",
+    "enName": "Data Card 14",
+    "id": 499
+  },
+  "1305": {
+    "jpName": "おくびょうミント",
+    "zhName": "胆小薄荷",
+    "enName": "Timid Mint",
+    "id": 1305
+  },
+  "1304": {
+    "jpName": "なまいきミント",
+    "zhName": "自大薄荷",
+    "enName": "Sassy Mint",
+    "id": 1304
+  },
+  "1303": {
+    "jpName": "しんちょうミント",
+    "zhName": "慎重薄荷",
+    "enName": "Careful Mint",
+    "id": 1303
+  },
+  "1302": {
+    "jpName": "おとなしいミント",
+    "zhName": "温顺薄荷",
+    "enName": "Gentle Mint",
+    "id": 1302
+  },
+  "1301": {
+    "jpName": "おだやかミント",
+    "zhName": "温和薄荷",
+    "enName": "Calm Mint",
+    "id": 1301
+  },
+  "1300": {
+    "jpName": "れいせいミント",
+    "zhName": "冷静薄荷",
+    "enName": "Quiet Mint",
+    "id": 1300
+  },
+  "1309": {
+    "jpName": "まじめミント",
+    "zhName": "认真薄荷",
+    "enName": "Serious Mint",
+    "id": 1309
+  },
+  "1308": {
+    "jpName": "むじゃきミント",
+    "zhName": "天真薄荷",
+    "enName": "Naive Mint",
+    "id": 1308
+  },
+  "1307": {
+    "jpName": "ようきミント",
+    "zhName": "爽朗薄荷",
+    "enName": "Jolly Mint",
+    "id": 1307
+  },
+  "1306": {
+    "jpName": "せっかちミント",
+    "zhName": "急躁薄荷",
+    "enName": "Hasty Mint",
+    "id": 1306
+  },
+  "1316": {
+    "jpName": "スパイスセット",
+    "zhName": "香料组合",
+    "enName": "Spice Mix",
+    "id": 1316
+  },
+  "1315": {
+    "jpName": "モーモーチーズ",
+    "zhName": "哞哞乳酪",
+    "enName": "Moomoo Cheese",
+    "id": 1315
+  },
+  "1314": {
+    "jpName": "フサパック",
+    "zhName": "袋装果实",
+    "enName": "Fruit Bunch",
+    "id": 1314
+  },
+  "1313": {
+    "jpName": "すごいみみせん",
+    "zhName": "厉害耳塞",
+    "enName": "Hi-tech Earbuds",
+    "id": 1313
+  },
+  "1312": {
+    "jpName": "かけたポット",
+    "zhName": "缺损的茶壶",
+    "enName": "Chipped Pot",
+    "id": 1312
+  },
+  "1311": {
+    "jpName": "われたポット",
+    "zhName": "破裂的茶壶",
+    "enName": "Cracked Pot",
+    "id": 1311
+  },
+  "1310": {
+    "jpName": "ねがいのかたまり",
+    "zhName": "许愿星块",
+    "enName": "Wishing Piece",
+    "id": 1310
+  },
+  "1319": {
+    "jpName": "ヤシのミルク",
+    "zhName": "椰奶",
+    "enName": "Coconut Milk",
+    "id": 1319
+  },
+  "1318": {
+    "jpName": "レトルトカレー",
+    "zhName": "即食咖喱",
+    "enName": "Packaged Curry",
+    "id": 1318
+  },
+  "1317": {
+    "jpName": "しんせんクリーム",
+    "zhName": "鲜鲜奶油",
+    "enName": "Fresh Cream",
+    "id": 1317
+  },
+  "1330": {
+    "jpName": "★And458",
+    "zhName": "★And458",
+    "enName": "★And458",
+    "id": 1330
+  },
+  "1327": {
+    "jpName": "バンドのサイン",
+    "zhName": "乐队的签名",
+    "enName": "Band Autograph",
+    "id": 1327
+  },
+  "1326": {
+    "jpName": "ふるびたてがみ",
+    "zhName": "陈旧的信",
+    "enName": "Old Letter",
+    "id": 1326
+  },
+  "1325": {
+    "jpName": "ゆれないおまもり",
+    "zhName": "防晃护符",
+    "enName": "Catching Charm",
+    "id": 1325
+  },
+  "1324": {
+    "jpName": "ロトムじてんしゃ",
+    "zhName": "洛托姆自行车",
+    "enName": "Rotom Bike",
+    "id": 1324
+  },
+  "1323": {
+    "jpName": "ねがいのかけら",
+    "zhName": "许愿星碎片",
+    "enName": "Wishing Chip",
+    "id": 1323
+  },
+  "1322": {
+    "jpName": "キョダイパウダー",
+    "zhName": "超极粉",
+    "enName": "Gigantamix",
+    "id": 1322
+  },
+  "1321": {
+    "jpName": "レトルトバーグ",
+    "zhName": "即食肉排",
+    "enName": "Precooked Burger",
+    "id": 1321
+  },
+  "1320": {
+    "jpName": "レトルトめん",
+    "zhName": "即食面",
+    "enName": "Instant Noodles",
+    "id": 1320
+  },
+  "900": {
+    "jpName": "ミストシード",
+    "zhName": "薄雾种子",
+    "enName": "Misty Seed",
+    "id": 900
+  },
+  "901": {
+    "jpName": "グラスシード",
+    "zhName": "青草种子",
+    "enName": "Grassy Seed",
+    "id": 901
+  },
+  "902": {
+    "jpName": "ファイトメモリ",
+    "zhName": "战斗存储碟",
+    "enName": "Fighting Memory",
+    "id": 902
+  },
+  "903": {
+    "jpName": "フライングメモリ",
+    "zhName": "飞翔存储碟",
+    "enName": "Flying Memory",
+    "id": 903
+  },
+  "904": {
+    "jpName": "ポイズンメモリ",
+    "zhName": "毒存储碟",
+    "enName": "Poison Memory",
+    "id": 904
+  },
+  "905": {
+    "jpName": "グラウンドメモリ",
+    "zhName": "大地存储碟",
+    "enName": "Ground Memory",
+    "id": 905
+  },
+  "1329": {
+    "jpName": "ロトムのカタログ",
+    "zhName": "洛托姆型录",
+    "enName": "Rotom Catalog",
+    "id": 1329
+  },
+  "906": {
+    "jpName": "ロックメモリ",
+    "zhName": "岩石存储碟",
+    "enName": "Rock Memory",
+    "id": 906
+  },
+  "1328": {
+    "jpName": "ソニアのほん",
+    "zhName": "索妮亚的书",
+    "enName": "Sonia’s Book",
+    "id": 1328
+  },
+  "907": {
+    "jpName": "バグメモリ",
+    "zhName": "虫子存储碟",
+    "enName": "Bug Memory",
+    "id": 907
+  },
+  "908": {
+    "jpName": "ゴーストメモリ",
+    "zhName": "幽灵存储碟",
+    "enName": "Ghost Memory",
+    "id": 908
+  },
+  "909": {
+    "jpName": "スチールメモリ",
+    "zhName": "钢铁存储碟",
+    "enName": "Steel Memory",
+    "id": 909
+  },
+  "1341": {
+    "jpName": "★Sgr7194",
+    "zhName": "★Sgr7194",
+    "enName": "★Sgr7194",
+    "id": 1341
+  },
+  "1340": {
+    "jpName": "★Sgr6746",
+    "zhName": "★Sgr6746",
+    "enName": "★Sgr6746",
+    "id": 1340
+  },
+  "1338": {
+    "jpName": "★Sgr7348",
+    "zhName": "★Sgr7348",
+    "enName": "★Sgr7348",
+    "id": 1338
+  },
+  "1337": {
+    "jpName": "★Sgr6913",
+    "zhName": "★Sgr6913",
+    "enName": "★Sgr6913",
+    "id": 1337
+  },
+  "1336": {
+    "jpName": "★Sgr6859",
+    "zhName": "★Sgr6859",
+    "enName": "★Sgr6859",
+    "id": 1336
+  },
+  "1335": {
+    "jpName": "★Sgr6879",
+    "zhName": "★Sgr6879",
+    "enName": "★Sgr6879",
+    "id": 1335
+  },
+  "1334": {
+    "jpName": "★And390",
+    "zhName": "★And390",
+    "enName": "★And390",
+    "id": 1334
+  },
+  "1333": {
+    "jpName": "★And603",
+    "zhName": "★And603",
+    "enName": "★And603",
+    "id": 1333
+  },
+  "1332": {
+    "jpName": "★And337",
+    "zhName": "★And337",
+    "enName": "★And337",
+    "id": 1332
+  },
+  "1331": {
+    "jpName": "★And15",
+    "zhName": "★And15",
+    "enName": "★And15",
+    "id": 1331
+  },
+  "910": {
+    "jpName": "ファイヤーメモリ",
+    "zhName": "火焰存储碟",
+    "enName": "Fire Memory",
+    "id": 910
+  },
+  "911": {
+    "jpName": "ウオーターメモリ",
+    "zhName": "清水存储碟",
+    "enName": "Water Memory",
+    "id": 911
+  },
+  "912": {
+    "jpName": "グラスメモリ",
+    "zhName": "青草存储碟",
+    "enName": "Grass Memory",
+    "id": 912
+  },
+  "913": {
+    "jpName": "エレクトロメモリ",
+    "zhName": "电子存储碟",
+    "enName": "Electric Memory",
+    "id": 913
+  },
+  "914": {
+    "jpName": "サイキックメモリ",
+    "zhName": "精神存储碟",
+    "enName": "Psychic Memory",
+    "id": 914
+  },
+  "915": {
+    "jpName": "アイスメモリ",
+    "zhName": "冰雪存储碟",
+    "enName": "Ice Memory",
+    "id": 915
+  },
+  "916": {
+    "jpName": "ドラゴンメモリ",
+    "zhName": "龙存储碟",
+    "enName": "Dragon Memory",
+    "id": 916
+  },
+  "917": {
+    "jpName": "ダークメモリ",
+    "zhName": "黑暗存储碟",
+    "enName": "Dark Memory",
+    "id": 917
+  },
+  "1339": {
+    "jpName": "★Sgr7121",
+    "zhName": "★Sgr7121",
+    "enName": "★Sgr7121",
+    "id": 1339
+  },
+  "918": {
+    "jpName": "フェアリーメモリ",
+    "zhName": "妖精存储碟",
+    "enName": "Fairy Memory",
+    "id": 918
+  },
+  "919": {
+    "jpName": "じてんしゃ",
+    "zhName": "自行车",
+    "enName": "Bike",
+    "id": 919
+  },
+  "1352": {
+    "jpName": "★Psc361",
+    "zhName": "★Psc361",
+    "enName": "★Psc361",
+    "id": 1352
+  },
+  "1351": {
+    "jpName": "★Psc596",
+    "zhName": "★Psc596",
+    "enName": "★Psc596",
+    "id": 1351
+  },
+  "1350": {
+    "jpName": "★Del7852",
+    "zhName": "★Del7852",
+    "enName": "★Del7852",
+    "id": 1350
+  },
+  "1349": {
+    "jpName": "★Del7906",
+    "zhName": "★Del7906",
+    "enName": "★Del7906",
+    "id": 1349
+  },
+  "1348": {
+    "jpName": "★Del7882",
+    "zhName": "★Del7882",
+    "enName": "★Del7882",
+    "id": 1348
+  },
+  "1347": {
+    "jpName": "★Sgr7597",
+    "zhName": "★Sgr7597",
+    "enName": "★Sgr7597",
+    "id": 1347
+  },
+  "1346": {
+    "jpName": "★Sgr7264",
+    "zhName": "★Sgr7264",
+    "enName": "★Sgr7264",
+    "id": 1346
+  },
+  "1345": {
+    "jpName": "★Sgr7116",
+    "zhName": "★Sgr7116",
+    "enName": "★Sgr7116",
+    "id": 1345
+  },
+  "1344": {
+    "jpName": "★Sgr6812",
+    "zhName": "★Sgr6812",
+    "enName": "★Sgr6812",
+    "id": 1344
+  },
+  "1343": {
+    "jpName": "★Sgr7343",
+    "zhName": "★Sgr7343",
+    "enName": "★Sgr7343",
+    "id": 1343
+  },
+  "920": {
+    "jpName": "そうこのカギ",
+    "zhName": "仓库钥匙",
+    "enName": "Storage Key",
+    "id": 920
+  },
+  "1342": {
+    "jpName": "★Sgr7337",
+    "zhName": "★Sgr7337",
+    "enName": "★Sgr7337",
+    "id": 1342
+  },
+  "921": {
+    "jpName": "ちかのかぎ",
+    "zhName": "地下钥匙",
+    "enName": "Basement Key",
+    "id": 921
+  },
+  "922": {
+    "jpName": "ライブキャスター",
+    "zhName": "即时通讯器",
+    "enName": "Xtransceiver",
+    "id": 922
+  },
+  "923": {
+    "jpName": "ライブキャスター",
+    "zhName": "即时通讯器",
+    "enName": "Xtransceiver",
+    "id": 923
+  },
+  "924": {
+    "jpName": "いでんしのくさび",
+    "zhName": "基因之楔",
+    "enName": "DNA Splicers",
+    "id": 924
+  },
+  "925": {
+    "jpName": "いでんしのくさび",
+    "zhName": "基因之楔",
+    "enName": "DNA Splicers",
+    "id": 925
+  },
+  "926": {
+    "jpName": "わすれもの",
+    "zhName": "遗忘物",
+    "enName": "Dropped Item",
+    "id": 926
+  },
+  "927": {
+    "jpName": "わすれもの",
+    "zhName": "遗忘物",
+    "enName": "Dropped Item",
+    "id": 927
+  },
+  "928": {
+    "jpName": "ホロキャスター",
+    "zhName": "全息影像通讯器",
+    "enName": "Holo Caster",
+    "id": 928
+  },
+  "929": {
+    "jpName": "じてんしゃ",
+    "zhName": "自行车",
+    "enName": "Bike",
+    "id": 929
+  },
+  "1363": {
+    "jpName": "★Boo5235",
+    "zhName": "★Boo5235",
+    "enName": "★Boo5235",
+    "id": 1363
+  },
+  "1362": {
+    "jpName": "★Boo5733",
+    "zhName": "★Boo5733",
+    "enName": "★Boo5733",
+    "id": 1362
+  },
+  "1361": {
+    "jpName": "★Boo5602",
+    "zhName": "★Boo5602",
+    "enName": "★Boo5602",
+    "id": 1361
+  },
+  "1360": {
+    "jpName": "★Boo5435",
+    "zhName": "★Boo5435",
+    "enName": "★Boo5435",
+    "id": 1360
+  },
+  "1359": {
+    "jpName": "★Boo5506",
+    "zhName": "★Boo5506",
+    "enName": "★Boo5506",
+    "id": 1359
+  },
+  "1358": {
+    "jpName": "★Boo5340",
+    "zhName": "★Boo5340",
+    "enName": "★Boo5340",
+    "id": 1358
+  },
+  "1357": {
+    "jpName": "★Lep1829",
+    "zhName": "★Lep1829",
+    "enName": "★Lep1829",
+    "id": 1357
+  },
+  "1356": {
+    "jpName": "★Lep1865",
+    "zhName": "★Lep1865",
+    "enName": "★Lep1865",
+    "id": 1356
+  },
+  "1355": {
+    "jpName": "★Psc8773",
+    "zhName": "★Psc8773",
+    "enName": "★Psc8773",
+    "id": 1355
+  },
+  "930": {
+    "jpName": "ホロキャスター",
+    "zhName": "全息影像通讯器",
+    "enName": "Holo Caster",
+    "id": 930
+  },
+  "1354": {
+    "jpName": "★Psc437",
+    "zhName": "★Psc437",
+    "enName": "★Psc437",
+    "id": 1354
+  },
+  "931": {
+    "jpName": "ちかのカギ",
+    "zhName": "地下钥匙",
+    "enName": "Basement Key",
+    "id": 931
+  },
+  "1353": {
+    "jpName": "★Psc510",
+    "zhName": "★Psc510",
+    "enName": "★Psc510",
+    "id": 1353
+  },
+  "932": {
+    "jpName": "そうこのカギ",
+    "zhName": "仓库钥匙",
+    "enName": "Storage Key",
+    "id": 932
+  },
+  "933": {
+    "jpName": "ふねのチケット",
+    "zhName": "船票",
+    "enName": "S.S. Ticket",
+    "id": 933
+  },
+  "934": {
+    "jpName": "ライブドレス",
+    "zhName": "演出礼裙",
+    "enName": "Contest Costume",
+    "id": 934
+  },
+  "935": {
+    "jpName": "いんせき",
+    "zhName": "陨石",
+    "enName": "Meteorite",
+    "id": 935
+  },
+  "936": {
+    "jpName": "いんせき",
+    "zhName": "陨石",
+    "enName": "Meteorite",
+    "id": 936
+  },
+  "937": {
+    "jpName": "いんせき",
+    "zhName": "陨石",
+    "enName": "Meteorite",
+    "id": 937
+  },
+  "938": {
+    "jpName": "ノーマルＺ",
+    "zhName": "一般Ｚ",
+    "enName": "Normalium Z",
+    "id": 938
+  },
+  "939": {
+    "jpName": "ホノオＺ",
+    "zhName": "火Ｚ",
+    "enName": "Firium Z",
+    "id": 939
+  },
+  "1374": {
+    "jpName": "★Eri1231",
+    "zhName": "★Eri1231",
+    "enName": "★Eri1231",
+    "id": 1374
+  },
+  "1373": {
+    "jpName": "★Eri897",
+    "zhName": "★Eri897",
+    "enName": "★Eri897",
+    "id": 1373
+  },
+  "1372": {
+    "jpName": "★Eri1666",
+    "zhName": "★Eri1666",
+    "enName": "★Eri1666",
+    "id": 1372
+  },
+  "1371": {
+    "jpName": "★Eri472",
+    "zhName": "★Eri472",
+    "enName": "★Eri472",
+    "id": 1371
+  },
+  "1370": {
+    "jpName": "★Eri1084",
+    "zhName": "★Eri1084",
+    "enName": "★Eri1084",
+    "id": 1370
+  },
+  "1369": {
+    "jpName": "★Hya3845",
+    "zhName": "★Hya3845",
+    "enName": "★Hya3845",
+    "id": 1369
+  },
+  "1368": {
+    "jpName": "★Hya3482",
+    "zhName": "★Hya3482",
+    "enName": "★Hya3482",
+    "id": 1368
+  },
+  "1367": {
+    "jpName": "★Hya3418",
+    "zhName": "★Hya3418",
+    "enName": "★Hya3418",
+    "id": 1367
+  },
+  "940": {
+    "jpName": "ミズＺ",
+    "zhName": "水Ｚ",
+    "enName": "Waterium Z",
+    "id": 940
+  },
+  "1366": {
+    "jpName": "★Hya3903",
+    "zhName": "★Hya3903",
+    "enName": "★Hya3903",
+    "id": 1366
+  },
+  "941": {
+    "jpName": "デンキＺ",
+    "zhName": "电Ｚ",
+    "enName": "Electrium Z",
+    "id": 941
+  },
+  "1365": {
+    "jpName": "★Hya3748",
+    "zhName": "★Hya3748",
+    "enName": "★Hya3748",
+    "id": 1365
+  },
+  "942": {
+    "jpName": "クサＺ",
+    "zhName": "草Ｚ",
+    "enName": "Grassium Z",
+    "id": 942
+  },
+  "1364": {
+    "jpName": "★Boo5351",
+    "zhName": "★Boo5351",
+    "enName": "★Boo5351",
+    "id": 1364
+  },
+  "943": {
+    "jpName": "コオリＺ",
+    "zhName": "冰Ｚ",
+    "enName": "Icium Z",
+    "id": 943
+  },
+  "944": {
+    "jpName": "カクトウＺ",
+    "zhName": "格斗Ｚ",
+    "enName": "Fightinium Z",
+    "id": 944
+  },
+  "945": {
+    "jpName": "ドクＺ",
+    "zhName": "毒Ｚ",
+    "enName": "Poisonium Z",
+    "id": 945
+  },
+  "946": {
+    "jpName": "ジメンＺ",
+    "zhName": "地面Ｚ",
+    "enName": "Groundium Z",
+    "id": 946
+  },
+  "947": {
+    "jpName": "ヒコウＺ",
+    "zhName": "飞行Ｚ",
+    "enName": "Flyinium Z",
+    "id": 947
+  },
+  "948": {
+    "jpName": "エスパーＺ",
+    "zhName": "超能力Ｚ",
+    "enName": "Psychium Z",
+    "id": 948
+  },
+  "949": {
+    "jpName": "ムシＺ",
+    "zhName": "虫Ｚ",
+    "enName": "Buginium Z",
+    "id": 949
+  },
+  "1385": {
+    "jpName": "★Tau1791",
+    "zhName": "★Tau1791",
+    "enName": "★Tau1791",
+    "id": 1385
+  },
+  "1384": {
+    "jpName": "★Tau1165",
+    "zhName": "★Tau1165",
+    "enName": "★Tau1165",
+    "id": 1384
+  },
+  "1383": {
+    "jpName": "★Tau1457",
+    "zhName": "★Tau1457",
+    "enName": "★Tau1457",
+    "id": 1383
+  },
+  "1382": {
+    "jpName": "★Tau1409",
+    "zhName": "★Tau1409",
+    "enName": "★Tau1409",
+    "id": 1382
+  },
+  "1381": {
+    "jpName": "★Eri850",
+    "zhName": "★Eri850",
+    "enName": "★Eri850",
+    "id": 1381
+  },
+  "1380": {
+    "jpName": "★Eri1393",
+    "zhName": "★Eri1393",
+    "enName": "★Eri1393",
+    "id": 1380
+  },
+  "1379": {
+    "jpName": "★Eri1464",
+    "zhName": "★Eri1464",
+    "enName": "★Eri1464",
+    "id": 1379
+  },
+  "950": {
+    "jpName": "イワＺ",
+    "zhName": "岩石Ｚ",
+    "enName": "Rockium Z",
+    "id": 950
+  },
+  "1378": {
+    "jpName": "★Eri984",
+    "zhName": "★Eri984",
+    "enName": "★Eri984",
+    "id": 1378
+  },
+  "951": {
+    "jpName": "ゴーストＺ",
+    "zhName": "幽灵Ｚ",
+    "enName": "Ghostium Z",
+    "id": 951
+  },
+  "1377": {
+    "jpName": "★Eri1325",
+    "zhName": "★Eri1325",
+    "enName": "★Eri1325",
+    "id": 1377
+  },
+  "952": {
+    "jpName": "ドラゴンＺ",
+    "zhName": "龙Ｚ",
+    "enName": "Dragonium Z",
+    "id": 952
+  },
+  "1376": {
+    "jpName": "★Eri1298",
+    "zhName": "★Eri1298",
+    "enName": "★Eri1298",
+    "id": 1376
+  },
+  "953": {
+    "jpName": "アクＺ",
+    "zhName": "恶Ｚ",
+    "enName": "Darkinium Z",
+    "id": 953
+  },
+  "1375": {
+    "jpName": "★Eri874",
+    "zhName": "★Eri874",
+    "enName": "★Eri874",
+    "id": 1375
+  },
+  "954": {
+    "jpName": "ハガネＺ",
+    "zhName": "钢Ｚ",
+    "enName": "Steelium Z",
+    "id": 954
+  },
+  "955": {
+    "jpName": "フェアリーＺ",
+    "zhName": "妖精Ｚ",
+    "enName": "Fairium Z",
+    "id": 955
+  },
+  "956": {
+    "jpName": "ピカチュウＺ",
+    "zhName": "皮卡丘Ｚ",
+    "enName": "Pikanium Z",
+    "id": 956
+  },
+  "957": {
+    "jpName": "ジュナイパーＺ",
+    "zhName": "狙射树枭Ｚ",
+    "enName": "Decidium Z",
+    "id": 957
+  },
+  "958": {
+    "jpName": "ガオガエンＺ",
+    "zhName": "炽焰咆哮虎Ｚ",
+    "enName": "Incinium Z",
+    "id": 958
+  },
+  "959": {
+    "jpName": "アシレーヌＺ",
+    "zhName": "西狮海壬Ｚ",
+    "enName": "Primarium Z",
+    "id": 959
+  },
+  "1396": {
+    "jpName": "★CMa2657",
+    "zhName": "★CMa2657",
+    "enName": "★CMa2657",
+    "id": 1396
+  },
+  "1395": {
+    "jpName": "★CMa2618",
+    "zhName": "★CMa2618",
+    "enName": "★CMa2618",
+    "id": 1395
+  },
+  "1394": {
+    "jpName": "★CMa2282",
+    "zhName": "★CMa2282",
+    "enName": "★CMa2282",
+    "id": 1394
+  },
+  "1393": {
+    "jpName": "★CMa2827",
+    "zhName": "★CMa2827",
+    "enName": "★CMa2827",
+    "id": 1393
+  },
+  "1392": {
+    "jpName": "★CMa2294",
+    "zhName": "★CMa2294",
+    "enName": "★CMa2294",
+    "id": 1392
+  },
+  "1391": {
+    "jpName": "★CMa2693",
+    "zhName": "★CMa2693",
+    "enName": "★CMa2693",
+    "id": 1391
+  },
+  "1390": {
+    "jpName": "★CMa2491",
+    "zhName": "★CMa2491",
+    "enName": "★CMa2491",
+    "id": 1390
+  },
+  "960": {
+    "jpName": "カプＺ",
+    "zhName": "卡璞Ｚ",
+    "enName": "Tapunium Z",
+    "id": 960
+  },
+  "961": {
+    "jpName": "マーシャドーＺ",
+    "zhName": "玛夏多Ｚ",
+    "enName": "Marshadium Z",
+    "id": 961
+  },
+  "1389": {
+    "jpName": "★Tau1412",
+    "zhName": "★Tau1412",
+    "enName": "★Tau1412",
+    "id": 1389
+  },
+  "962": {
+    "jpName": "アロライＺ",
+    "zhName": "阿罗雷Ｚ",
+    "enName": "Aloraichium Z",
+    "id": 962
+  },
+  "1388": {
+    "jpName": "★Tau1373",
+    "zhName": "★Tau1373",
+    "enName": "★Tau1373",
+    "id": 1388
+  },
+  "963": {
+    "jpName": "カビゴンＺ",
+    "zhName": "卡比兽Ｚ",
+    "enName": "Snorlium Z",
+    "id": 963
+  },
+  "1387": {
+    "jpName": "★Tau1346",
+    "zhName": "★Tau1346",
+    "enName": "★Tau1346",
+    "id": 1387
+  },
+  "964": {
+    "jpName": "イーブイＺ",
+    "zhName": "伊布Ｚ",
+    "enName": "Eevium Z",
+    "id": 964
+  },
+  "1386": {
+    "jpName": "★Tau1910",
+    "zhName": "★Tau1910",
+    "enName": "★Tau1910",
+    "id": 1386
+  },
+  "965": {
+    "jpName": "ミュウＺ",
+    "zhName": "梦幻Ｚ",
+    "enName": "Mewnium Z",
+    "id": 965
+  },
+  "966": {
+    "jpName": "サトピカＺ",
+    "zhName": "智皮卡Ｚ",
+    "enName": "Pikashunium Z",
+    "id": 966
+  },
+  "967": {
+    "jpName": "ソルガレオＺ",
+    "zhName": "索尔迦雷欧Ｚ",
+    "enName": "Solganium Z",
+    "id": 967
+  },
+  "968": {
+    "jpName": "ルナアーラＺ",
+    "zhName": "露奈雅拉Ｚ",
+    "enName": "Lunalium Z",
+    "id": 968
+  },
+  "969": {
+    "jpName": "ウルトラネクロＺ",
+    "zhName": "究极奈克洛Ｚ",
+    "enName": "Ultranecrozium Z",
+    "id": 969
+  },
+  "970": {
+    "jpName": "ミミッキュＺ",
+    "zhName": "谜拟ＱＺ",
+    "enName": "Mimikium Z",
+    "id": 970
+  },
+  "971": {
+    "jpName": "ルガルガンＺ",
+    "zhName": "鬃岩狼人Ｚ",
+    "enName": "Lycanium Z",
+    "id": 971
+  },
+  "972": {
+    "jpName": "ジャラランガＺ",
+    "zhName": "杖尾鳞甲龙Ｚ",
+    "enName": "Kommonium Z",
+    "id": 972
+  },
+  "973": {
+    "jpName": "ソルガレオＺ",
+    "zhName": "索尔迦雷欧Ｚ",
+    "enName": "Solganium Z",
+    "id": 973
+  },
+  "1399": {
+    "jpName": "★UMa4301",
+    "zhName": "★UMa4301",
+    "enName": "★UMa4301",
+    "id": 1399
+  },
+  "974": {
+    "jpName": "ルナアーラＺ",
+    "zhName": "露奈雅拉Ｚ",
+    "enName": "Lunalium Z",
+    "id": 974
+  },
+  "1398": {
+    "jpName": "★UMa4905",
+    "zhName": "★UMa4905",
+    "enName": "★UMa4905",
+    "id": 1398
+  },
+  "975": {
+    "jpName": "ウルトラネクロＺ",
+    "zhName": "究极奈克洛Ｚ",
+    "enName": "Ultranecrozium Z",
+    "id": 975
+  },
+  "1397": {
+    "jpName": "★CMa2646",
+    "zhName": "★CMa2646",
+    "enName": "★CMa2646",
+    "id": 1397
+  },
+  "976": {
+    "jpName": "ミミッキュＺ",
+    "zhName": "谜拟ＱＺ",
+    "enName": "Mimikium Z",
+    "id": 976
+  },
+  "977": {
+    "jpName": "ルガルガンＺ",
+    "zhName": "鬃岩狼人Ｚ",
+    "enName": "Lycanium Z",
+    "id": 977
+  },
+  "978": {
+    "jpName": "ジャラランガＺ",
+    "zhName": "杖尾鳞甲龙Ｚ",
+    "enName": "Kommonium Z",
+    "id": 978
+  },
+  "979": {
+    "jpName": "Ｚパワーリング",
+    "zhName": "Ｚ强力手环",
+    "enName": "Z-Power Ring",
+    "id": 979
+  },
+  "980": {
+    "jpName": "ももいろはなびら",
+    "zhName": "粉红花瓣",
+    "enName": "Pink Petal",
+    "id": 980
+  },
+  "981": {
+    "jpName": "だいだいはなびら",
+    "zhName": "橙色花瓣",
+    "enName": "Orange Petal",
+    "id": 981
+  },
+  "982": {
+    "jpName": "あおのはなびら",
+    "zhName": "蓝色花瓣",
+    "enName": "Blue Petal",
+    "id": 982
+  },
+  "983": {
+    "jpName": "あかのはなびら",
+    "zhName": "红色花瓣",
+    "enName": "Red Petal",
+    "id": 983
+  },
+  "500": {
+    "jpName": "データカード１５",
+    "zhName": "数据卡１５",
+    "enName": "Data Card 15",
+    "id": 500
+  },
+  "984": {
+    "jpName": "みどりのはなびら",
+    "zhName": "绿色花瓣",
+    "enName": "Green Petal",
+    "id": 984
+  },
+  "501": {
+    "jpName": "データカード１６",
+    "zhName": "数据卡１６",
+    "enName": "Data Card 16",
+    "id": 501
+  },
+  "985": {
+    "jpName": "きいろのはなびら",
+    "zhName": "黄色花瓣",
+    "enName": "Yellow Petal",
+    "id": 985
+  },
+  "502": {
+    "jpName": "データカード１７",
+    "zhName": "数据卡１７",
+    "enName": "Data Card 17",
+    "id": 502
+  },
+  "986": {
+    "jpName": "むらさきはなびら",
+    "zhName": "紫色花瓣",
+    "enName": "Purple Petal",
+    "id": 986
+  },
+  "503": {
+    "jpName": "データカード１８",
+    "zhName": "数据卡１８",
+    "enName": "Data Card 18",
+    "id": 503
+  },
+  "987": {
+    "jpName": "にじいろのはな",
+    "zhName": "虹色之花",
+    "enName": "Rainbow Flower",
+    "id": 987
+  },
+  "504": {
+    "jpName": "データカード１９",
+    "zhName": "数据卡１９",
+    "enName": "Data Card 19",
+    "id": 504
+  },
+  "988": {
+    "jpName": "だいだいバッジ",
+    "zhName": "桔色徽章",
+    "enName": "Surge Badge",
+    "id": 988
+  },
+  "505": {
+    "jpName": "データカード２０",
+    "zhName": "数据卡２０",
+    "enName": "Data Card 20",
+    "id": 505
+  },
+  "989": {
+    "jpName": "ネクロプラスソル",
+    "zhName": "奈克洛索尔合体器",
+    "enName": "N-Solarizer",
+    "id": 989
+  },
+  "506": {
+    "jpName": "データカード２１",
+    "zhName": "数据卡２１",
+    "enName": "Data Card 21",
+    "id": 506
+  },
+  "507": {
+    "jpName": "データカード２２",
+    "zhName": "数据卡２２",
+    "enName": "Data Card 22",
+    "id": 507
+  },
+  "508": {
+    "jpName": "データカード２３",
+    "zhName": "数据卡２３",
+    "enName": "Data Card 23",
+    "id": 508
+  },
+  "509": {
+    "jpName": "データカード２４",
+    "zhName": "数据卡２４",
+    "enName": "Data Card 24",
+    "id": 509
+  },
+  "990": {
+    "jpName": "ネクロプラスルナ",
+    "zhName": "奈克洛露奈合体器",
+    "enName": "N-Lunarizer",
+    "id": 990
+  },
+  "991": {
+    "jpName": "ネクロプラスソル",
+    "zhName": "奈克洛索尔合体器",
+    "enName": "N-Solarizer",
+    "id": 991
+  },
+  "992": {
+    "jpName": "ネクロプラスルナ",
+    "zhName": "奈克洛露奈合体器",
+    "enName": "N-Lunarizer",
+    "id": 992
+  },
+  "993": {
+    "jpName": "イリマノーマルＺ",
+    "zhName": "伊利马一般Ｚ",
+    "enName": "Ilima Normalium Z",
+    "id": 993
+  },
+  "510": {
+    "jpName": "データカード２５",
+    "zhName": "数据卡２５",
+    "enName": "Data Card 25",
+    "id": 510
+  },
+  "994": {
+    "jpName": "のこされたボール",
+    "zhName": "留下的精灵球",
+    "enName": "Left Poké Ball",
+    "id": 994
+  },
+  "511": {
+    "jpName": "データカード２６",
+    "zhName": "数据卡２６",
+    "enName": "Data Card 26",
+    "id": 511
+  },
+  "995": {
+    "jpName": "タマゴふかポン",
+    "zhName": "孵蛋碰碰",
+    "enName": "Roto Hatch",
+    "id": 995
+  },
+  "512": {
+    "jpName": "データカード２７",
+    "zhName": "数据卡２７",
+    "enName": "Data Card 27",
+    "id": 512
+  },
+  "996": {
+    "jpName": "やすうりポン",
+    "zhName": "优惠碰碰",
+    "enName": "Roto Bargain",
+    "id": 996
+  },
+  "513": {
+    "jpName": "ロックカプセル",
+    "zhName": "上锁的容器",
+    "enName": "Lock Capsule",
+    "id": 513
+  },
+  "997": {
+    "jpName": "おこづかいポン",
+    "zhName": "零花钱碰碰",
+    "enName": "Roto Prize Money",
+    "id": 997
+  },
+  "514": {
+    "jpName": "フォトアルバム",
+    "zhName": "相册",
+    "enName": "Photo Album",
+    "id": 514
+  },
+  "998": {
+    "jpName": "けいけんポン",
+    "zhName": "经验碰碰",
+    "enName": "Roto Exp. Points",
+    "id": 998
+  },
+  "515": {
+    "jpName": "",
+    "zhName": "橙色邮件",
+    "enName": "Orange Mail",
+    "id": 515
+  },
+  "999": {
+    "jpName": "なつきポン",
+    "zhName": "亲密碰碰",
+    "enName": "Roto Friendship",
+    "id": 999
+  },
+  "516": {
+    "jpName": "",
+    "zhName": "港口邮件",
+    "enName": "Harbor Mail",
+    "id": 516
+  },
+  "517": {
+    "jpName": "",
+    "zhName": "闪光邮件",
+    "enName": "Glitter Mail",
+    "id": 517
+  },
+  "518": {
+    "jpName": "",
+    "zhName": "机械邮件",
+    "enName": "Mech Mail",
+    "id": 518
+  },
+  "519": {
+    "jpName": "",
+    "zhName": "木质邮件",
+    "enName": "Wood Mail",
+    "id": 519
+  },
+  "520": {
+    "jpName": "",
+    "zhName": "Wave邮件",
+    "enName": "Wave Mail",
+    "id": 520
+  },
+  "521": {
+    "jpName": "",
+    "zhName": "珠子邮件",
+    "enName": "Bead Mail",
+    "id": 521
+  },
+  "522": {
+    "jpName": "",
+    "zhName": "影子邮件",
+    "enName": "Shadow Mail",
+    "id": 522
+  },
+  "523": {
+    "jpName": "",
+    "zhName": "热带邮件",
+    "enName": "Tropic Mail",
+    "id": 523
+  },
+  "524": {
+    "jpName": "",
+    "zhName": "梦想邮件",
+    "enName": "Dream Mail",
+    "id": 524
+  },
+  "525": {
+    "jpName": "",
+    "zhName": "工厂邮件",
+    "enName": "Fab Mail",
+    "id": 525
+  },
+  "526": {
+    "jpName": "",
+    "zhName": "回复邮件",
+    "enName": "Retro Mail",
+    "id": 526
+  },
+  "527": {
+    "jpName": "マッハじてんしゃ",
+    "zhName": "音速自行车",
+    "enName": "Mach Bike",
+    "id": 527
+  },
+  "528": {
+    "jpName": "ダートじてんしゃ",
+    "zhName": "越野自行车",
+    "enName": "Acro Bike",
+    "id": 528
+  },
+  "529": {
+    "jpName": "ホエルコじょうろ",
+    "zhName": "吼吼鲸喷壶",
+    "enName": "Wailmer Pail",
+    "id": 529
+  },
+  "530": {
+    "jpName": "",
+    "zhName": "德文郡商品",
+    "enName": "Devon Goods",
+    "id": 530
+  },
+  "531": {
+    "jpName": "はいぶくろ",
+    "zhName": "集灰袋",
+    "enName": "Soot Sack",
+    "id": 531
+  },
+  "532": {
+    "jpName": "",
+    "zhName": "神奇宝贝积木盒",
+    "enName": "Pokéblock Case",
+    "id": 532
+  },
+  "533": {
+    "jpName": "ダイゴへのてがみ",
+    "zhName": "给大吾的信",
+    "enName": "Letter",
+    "id": 533
+  },
+  "534": {
+    "jpName": "むげんのチケット",
+    "zhName": "无限船票",
+    "enName": "Eon Ticket",
+    "id": 534
+  },
+  "535": {
+    "jpName": "たんちき",
+    "zhName": "探测器",
+    "enName": "Scanner",
+    "id": 535
+  },
+  "536": {
+    "jpName": "ゴーゴーゴーグル",
+    "zhName": "ＧＯＧＯ护目镜",
+    "enName": "Go-Goggles",
+    "id": 536
+  },
+  "537": {
+    "jpName": "いんせき",
+    "zhName": "陨石",
+    "enName": "Meteorite",
+    "id": 537
+  },
+  "538": {
+    "jpName": "",
+    "zhName": "Rm。1键",
+    "enName": "Rm. 1 Key",
+    "id": 538
+  },
+  "539": {
+    "jpName": "",
+    "zhName": "Rm。2键",
+    "enName": "Rm. 2 Key",
+    "id": 539
+  },
+  "540": {
+    "jpName": "",
+    "zhName": "Rm。4键",
+    "enName": "Rm. 4 Key",
+    "id": 540
+  },
+  "541": {
+    "jpName": "",
+    "zhName": "Rm。6键",
+    "enName": "Rm. 6 Key",
+    "id": 541
+  },
+  "542": {
+    "jpName": "デボンスコープ",
+    "zhName": "得文侦测镜",
+    "enName": "Devon Scope",
+    "id": 542
+  },
+  "543": {
+    "jpName": "",
+    "zhName": "橡树的包裹",
+    "enName": "Oak\u0027s Parcel",
+    "id": 543
+  },
+  "544": {
+    "jpName": "ポケモンのふえ",
+    "zhName": "宝可梦之笛",
+    "enName": "Poké Flute",
+    "id": 544
+  },
+  "545": {
+    "jpName": "",
+    "zhName": "自行车代金券",
+    "enName": "Bike Voucher",
+    "id": 545
+  },
+  "546": {
+    "jpName": "きんのいれば",
+    "zhName": "金假牙",
+    "enName": "Gold Teeth",
+    "id": 546
+  },
+  "547": {
+    "jpName": "エレベータのカギ",
+    "zhName": "电梯钥匙",
+    "enName": "Lift Key",
+    "id": 547
+  },
+  "548": {
+    "jpName": "シルフスコープ",
+    "zhName": "西尔佛检视镜",
+    "enName": "Silph Scope",
+    "id": 548
+  },
+  "549": {
+    "jpName": "",
+    "zhName": "名誉检查器",
+    "enName": "Fame Checker",
+    "id": 549
+  },
+  "550": {
+    "jpName": "わざマシンケース",
+    "zhName": "招式学习器盒",
+    "enName": "TM Case",
+    "id": 550
+  },
+  "551": {
+    "jpName": "",
+    "zhName": "浆果袋",
+    "enName": "Berry Pouch",
+    "id": 551
+  },
+  "552": {
+    "jpName": "",
+    "zhName": "教学电视",
+    "enName": "Teachy TV",
+    "id": 552
+  },
+  "553": {
+    "jpName": "",
+    "zhName": "三通",
+    "enName": "Tri-Pass",
+    "id": 553
+  },
+  "554": {
+    "jpName": "",
+    "zhName": "彩虹通行证",
+    "enName": "Rainbow Pass",
+    "id": 554
+  },
+  "555": {
+    "jpName": "おちゃ",
+    "zhName": "茶",
+    "enName": "Tea",
+    "id": 555
+  },
+  "556": {
+    "jpName": "",
+    "zhName": "神秘票",
+    "enName": "MysticTicket",
+    "id": 556
+  },
+  "557": {
+    "jpName": "",
+    "zhName": "奥罗拉提克特",
+    "enName": "AuroraTicket",
+    "id": 557
+  },
+  "558": {
+    "jpName": "",
+    "zhName": "粉末罐",
+    "enName": "Powder Jar",
+    "id": 558
+  },
+  "559": {
+    "jpName": "",
+    "zhName": "红宝石",
+    "enName": "Ruby",
+    "id": 559
+  },
+  "560": {
+    "jpName": "",
+    "zhName": "蓝宝石",
+    "enName": "Sapphire",
+    "id": 560
+  },
+  "561": {
+    "jpName": "",
+    "zhName": "岩浆徽章",
+    "enName": "Magma Emblem",
+    "id": 561
+  },
+  "562": {
+    "jpName": "",
+    "zhName": "旧海图",
+    "enName": "Old Sea Map",
+    "id": 562
+  },
+  "563": {
+    "jpName": "アクアカセット",
+    "zhName": "水流卡带",
+    "enName": "Douse Drive",
+    "id": 563
+  },
+  "564": {
+    "jpName": "イナズマカセット",
+    "zhName": "闪电卡带",
+    "enName": "Shock Drive",
+    "id": 564
+  },
+  "565": {
+    "jpName": "ブレイズカセット",
+    "zhName": "火焰卡带",
+    "enName": "Burn Drive",
+    "id": 565
+  },
+  "566": {
+    "jpName": "フリーズカセット",
+    "zhName": "冰冻卡带",
+    "enName": "Chill Drive",
+    "id": 566
+  },
+  "567": {
+    "jpName": "ハートスイーツ",
+    "zhName": "心形甜点",
+    "enName": "Sweet Heart",
+    "id": 567
+  },
+  "568": {
+    "jpName": "はじめてメール",
+    "zhName": "初次邮件",
+    "enName": "Greet Mail",
+    "id": 568
+  },
+  "569": {
+    "jpName": "だいすきメール",
+    "zhName": "喜爱邮件",
+    "enName": "Favored Mail",
+    "id": 569
+  },
+  "570": {
+    "jpName": "おさそいメール",
+    "zhName": "邀请邮件",
+    "enName": "RSVP Mail",
+    "id": 570
+  },
+  "571": {
+    "jpName": "かんしゃメール",
+    "zhName": "感谢邮件",
+    "enName": "Thanks Mail",
+    "id": 571
+  },
+  "572": {
+    "jpName": "しつもんメール",
+    "zhName": "询问邮件",
+    "enName": "Inquiry Mail",
+    "id": 572
+  },
+  "573": {
+    "jpName": "おすすめメール",
+    "zhName": "推荐邮件",
+    "enName": "Like Mail",
+    "id": 573
+  },
+  "574": {
+    "jpName": "おかえしメール",
+    "zhName": "回复邮件",
+    "enName": "Reply Mail",
+    "id": 574
+  },
+  "575": {
+    "jpName": "ブリッジメールＳ",
+    "zhName": "桥梁邮件Ｓ",
+    "enName": "Bridge Mail S",
+    "id": 575
+  },
+  "576": {
+    "jpName": "ブリッジメールＨ",
+    "zhName": "桥梁邮件Ｈ",
+    "enName": "Bridge Mail D",
+    "id": 576
+  },
+  "577": {
+    "jpName": "ブリッジメールＣ",
+    "zhName": "桥梁邮件Ｃ",
+    "enName": "Bridge Mail T",
+    "id": 577
+  },
+  "578": {
+    "jpName": "ブリッジメールＶ",
+    "zhName": "桥梁邮件Ｖ",
+    "enName": "Bridge Mail V",
+    "id": 578
+  },
+  "579": {
+    "jpName": "ブリッジメールＷ",
+    "zhName": "桥梁邮件Ｗ",
+    "enName": "Bridge Mail M",
+    "id": 579
+  },
+  "580": {
+    "jpName": "きれいなウロコ",
+    "zhName": "美丽鳞片",
+    "enName": "Prism Scale",
+    "id": 580
+  },
+  "581": {
+    "jpName": "しんかのきせき",
+    "zhName": "进化奇石",
+    "enName": "Eviolite",
+    "id": 581
+  },
+  "582": {
+    "jpName": "かるいし",
+    "zhName": "轻石",
+    "enName": "Float Stone",
+    "id": 582
+  },
+  "583": {
+    "jpName": "ゴツゴツメット",
+    "zhName": "凸凸头盔",
+    "enName": "Rocky Helmet",
+    "id": 583
+  },
+  "100": {
+    "jpName": "ツメのカセキ",
+    "zhName": "爪子化石",
+    "enName": "Claw Fossil",
+    "id": 100
+  },
+  "584": {
+    "jpName": "ふうせん",
+    "zhName": "气球",
+    "enName": "Air Balloon",
+    "id": 584
+  },
+  "101": {
+    "jpName": "かいのカセキ",
+    "zhName": "贝壳化石",
+    "enName": "Helix Fossil",
+    "id": 101
+  },
+  "585": {
+    "jpName": "レッドカード",
+    "zhName": "红牌",
+    "enName": "Red Card",
+    "id": 585
+  },
+  "102": {
+    "jpName": "こうらのカセキ",
+    "zhName": "甲壳化石",
+    "enName": "Dome Fossil",
+    "id": 102
+  },
+  "586": {
+    "jpName": "ねらいのまと",
+    "zhName": "标靶",
+    "enName": "Ring Target",
+    "id": 586
+  },
+  "103": {
+    "jpName": "ひみつのコハク",
+    "zhName": "秘密琥珀",
+    "enName": "Old Amber",
+    "id": 103
+  },
+  "587": {
+    "jpName": "しめつけバンド",
+    "zhName": "紧绑束带",
+    "enName": "Binding Band",
+    "id": 587
+  },
+  "104": {
+    "jpName": "たてのカセキ",
+    "zhName": "盾甲化石",
+    "enName": "Armor Fossil",
+    "id": 104
+  },
+  "588": {
+    "jpName": "きゅうこん",
+    "zhName": "球根",
+    "enName": "Absorb Bulb",
+    "id": 588
+  },
+  "105": {
+    "jpName": "ずがいのカセキ",
+    "zhName": "头盖化石",
+    "enName": "Skull Fossil",
+    "id": 105
+  },
+  "589": {
+    "jpName": "じゅうでんち",
+    "zhName": "充电电池",
+    "enName": "Cell Battery",
+    "id": 589
+  },
+  "106": {
+    "jpName": "きちょうなホネ",
+    "zhName": "贵重骨头",
+    "enName": "Rare Bone",
+    "id": 106
+  },
+  "107": {
+    "jpName": "ひかりのいし",
+    "zhName": "光之石",
+    "enName": "Shiny Stone",
+    "id": 107
+  },
+  "108": {
+    "jpName": "やみのいし",
+    "zhName": "暗之石",
+    "enName": "Dusk Stone",
+    "id": 108
+  },
+  "109": {
+    "jpName": "めざめいし",
+    "zhName": "觉醒之石",
+    "enName": "Dawn Stone",
+    "id": 109
+  },
+  "590": {
+    "jpName": "だっしゅつボタン",
+    "zhName": "逃脱按键",
+    "enName": "Eject Button",
+    "id": 590
+  },
+  "591": {
+    "jpName": "ほのおのジュエル",
+    "zhName": "火之宝石",
+    "enName": "Fire Gem",
+    "id": 591
+  },
+  "592": {
+    "jpName": "みずのジュエル",
+    "zhName": "水之宝石",
+    "enName": "Water Gem",
+    "id": 592
+  },
+  "593": {
+    "jpName": "でんきのジュエル",
+    "zhName": "电之宝石",
+    "enName": "Electric Gem",
+    "id": 593
+  },
+  "110": {
+    "jpName": "まんまるいし",
+    "zhName": "浑圆之石",
+    "enName": "Oval Stone",
+    "id": 110
+  },
+  "594": {
+    "jpName": "くさのジュエル",
+    "zhName": "草之宝石",
+    "enName": "Grass Gem",
+    "id": 594
+  },
+  "111": {
+    "jpName": "かなめいし",
+    "zhName": "楔石",
+    "enName": "Odd Keystone",
+    "id": 111
+  },
+  "595": {
+    "jpName": "こおりのジュエル",
+    "zhName": "冰之宝石",
+    "enName": "Ice Gem",
+    "id": 595
+  },
+  "112": {
+    "jpName": "こんごうだま",
+    "zhName": "金刚宝珠",
+    "enName": "Adamant Orb",
+    "id": 112
+  },
+  "596": {
+    "jpName": "かくとうジュエル",
+    "zhName": "格斗宝石",
+    "enName": "Fighting Gem",
+    "id": 596
+  },
+  "113": {
+    "jpName": "しらたま",
+    "zhName": "白玉宝珠",
+    "enName": "Lustrous Orb",
+    "id": 113
+  },
+  "597": {
+    "jpName": "どくのジュエル",
+    "zhName": "毒之宝石",
+    "enName": "Poison Gem",
+    "id": 597
+  },
+  "114": {
+    "jpName": "",
+    "zhName": "草地邮件",
+    "enName": "Grass Mail",
+    "id": 114
+  },
+  "598": {
+    "jpName": "じめんのジュエル",
+    "zhName": "地面宝石",
+    "enName": "Ground Gem",
+    "id": 598
+  },
+  "115": {
+    "jpName": "",
+    "zhName": "火焰邮件",
+    "enName": "Flame Mail",
+    "id": 115
+  },
+  "599": {
+    "jpName": "ひこうのジュエル",
+    "zhName": "飞行宝石",
+    "enName": "Flying Gem",
+    "id": 599
+  },
+  "116": {
+    "jpName": "",
+    "zhName": "气泡邮件",
+    "enName": "Bubble Mail",
+    "id": 116
+  },
+  "117": {
+    "jpName": "",
+    "zhName": "Bloom邮件",
+    "enName": "Bloom Mail",
+    "id": 117
+  },
+  "118": {
+    "jpName": "",
+    "zhName": "隧道邮件",
+    "enName": "Tunnel Mail",
+    "id": 118
+  },
+  "119": {
+    "jpName": "",
+    "zhName": "钢制邮件",
+    "enName": "Steel Mail",
+    "id": 119
+  },
+  "120": {
+    "jpName": "",
+    "zhName": "心脏病邮件",
+    "enName": "Heart Mail",
+    "id": 120
+  },
+  "121": {
+    "jpName": "",
+    "zhName": "雪地邮件",
+    "enName": "Snow Mail",
+    "id": 121
+  },
+  "122": {
+    "jpName": "",
+    "zhName": "太空邮件",
+    "enName": "Space Mail",
+    "id": 122
+  },
+  "123": {
+    "jpName": "",
+    "zhName": "航空邮件",
+    "enName": "Air Mail",
+    "id": 123
+  },
+  "124": {
+    "jpName": "",
+    "zhName": "马赛克邮件",
+    "enName": "Mosaic Mail",
+    "id": 124
+  },
+  "125": {
+    "jpName": "",
+    "zhName": "砖砌邮件",
+    "enName": "Brick Mail",
+    "id": 125
+  },
+  "126": {
+    "jpName": "クラボのみ",
+    "zhName": "樱子果",
+    "enName": "Cheri Berry",
+    "id": 126
+  },
+  "127": {
+    "jpName": "カゴのみ",
+    "zhName": "零余果",
+    "enName": "Chesto Berry",
+    "id": 127
+  },
+  "128": {
+    "jpName": "モモンのみ",
+    "zhName": "桃桃果",
+    "enName": "Pecha Berry",
+    "id": 128
+  },
+  "129": {
+    "jpName": "チーゴのみ",
+    "zhName": "莓莓果",
+    "enName": "Rawst Berry",
+    "id": 129
+  },
+  "130": {
+    "jpName": "ナナシのみ",
+    "zhName": "利木果",
+    "enName": "Aspear Berry",
+    "id": 130
+  },
+  "131": {
+    "jpName": "ヒメリのみ",
+    "zhName": "苹野果",
+    "enName": "Leppa Berry",
+    "id": 131
+  },
+  "132": {
+    "jpName": "オレンのみ",
+    "zhName": "橙橙果",
+    "enName": "Oran Berry",
+    "id": 132
+  },
+  "133": {
+    "jpName": "キーのみ",
+    "zhName": "柿仔果",
+    "enName": "Persim Berry",
+    "id": 133
+  },
+  "134": {
+    "jpName": "ラムのみ",
+    "zhName": "木子果",
+    "enName": "Lum Berry",
+    "id": 134
+  },
+  "135": {
+    "jpName": "オボンのみ",
+    "zhName": "文柚果",
+    "enName": "Sitrus Berry",
+    "id": 135
+  },
+  "136": {
+    "jpName": "フィラのみ",
+    "zhName": "勿花果",
+    "enName": "Figy Berry",
+    "id": 136
+  },
+  "137": {
+    "jpName": "ウイのみ",
+    "zhName": "异奇果",
+    "enName": "Wiki Berry",
+    "id": 137
+  },
+  "138": {
+    "jpName": "マゴのみ",
+    "zhName": "芒芒果",
+    "enName": "Mago Berry",
+    "id": 138
+  },
+  "139": {
+    "jpName": "バンジのみ",
+    "zhName": "乐芭果",
+    "enName": "Aguav Berry",
+    "id": 139
+  },
+  "140": {
+    "jpName": "イアのみ",
+    "zhName": "芭亚果",
+    "enName": "Iapapa Berry",
+    "id": 140
+  },
+  "141": {
+    "jpName": "ズリのみ",
+    "zhName": "蔓莓果",
+    "enName": "Razz Berry",
+    "id": 141
+  },
+  "142": {
+    "jpName": "ブリーのみ",
+    "zhName": "墨莓果",
+    "enName": "Bluk Berry",
+    "id": 142
+  },
+  "143": {
+    "jpName": "ナナのみ",
+    "zhName": "蕉香果",
+    "enName": "Nanab Berry",
+    "id": 143
+  },
+  "144": {
+    "jpName": "セシナのみ",
+    "zhName": "西梨果",
+    "enName": "Wepear Berry",
+    "id": 144
+  },
+  "145": {
+    "jpName": "パイルのみ",
+    "zhName": "凰梨果",
+    "enName": "Pinap Berry",
+    "id": 145
+  },
+  "146": {
+    "jpName": "ザロクのみ",
+    "zhName": "榴石果",
+    "enName": "Pomeg Berry",
+    "id": 146
+  },
+  "147": {
+    "jpName": "ネコブのみ",
+    "zhName": "藻根果",
+    "enName": "Kelpsy Berry",
+    "id": 147
+  },
+  "148": {
+    "jpName": "タポルのみ",
+    "zhName": "比巴果",
+    "enName": "Qualot Berry",
+    "id": 148
+  },
+  "149": {
+    "jpName": "ロメのみ",
+    "zhName": "哈密果",
+    "enName": "Hondew Berry",
+    "id": 149
+  },
+  "150": {
+    "jpName": "ウブのみ",
+    "zhName": "萄葡果",
+    "enName": "Grepa Berry",
+    "id": 150
+  },
+  "151": {
+    "jpName": "マトマのみ",
+    "zhName": "茄番果",
+    "enName": "Tamato Berry",
+    "id": 151
+  },
+  "152": {
+    "jpName": "モコシのみ",
+    "zhName": "玉黍果",
+    "enName": "Cornn Berry",
+    "id": 152
+  },
+  "153": {
+    "jpName": "ゴスのみ",
+    "zhName": "岳竹果",
+    "enName": "Magost Berry",
+    "id": 153
+  },
+  "154": {
+    "jpName": "ラブタのみ",
+    "zhName": "茸丹果",
+    "enName": "Rabuta Berry",
+    "id": 154
+  },
+  "155": {
+    "jpName": "ノメルのみ",
+    "zhName": "檬柠果",
+    "enName": "Nomel Berry",
+    "id": 155
+  },
+  "156": {
+    "jpName": "ノワキのみ",
+    "zhName": "刺角果",
+    "enName": "Spelon Berry",
+    "id": 156
+  },
+  "157": {
+    "jpName": "シーヤのみ",
+    "zhName": "椰木果",
+    "enName": "Pamtre Berry",
+    "id": 157
+  },
+  "158": {
+    "jpName": "カイスのみ",
+    "zhName": "瓜西果",
+    "enName": "Watmel Berry",
+    "id": 158
+  },
+  "159": {
+    "jpName": "ドリのみ",
+    "zhName": "金枕果",
+    "enName": "Durin Berry",
+    "id": 159
+  },
+  "160": {
+    "jpName": "ベリブのみ",
+    "zhName": "靛莓果",
+    "enName": "Belue Berry",
+    "id": 160
+  },
+  "161": {
+    "jpName": "オッカのみ",
+    "zhName": "巧可果",
+    "enName": "Occa Berry",
+    "id": 161
+  },
+  "162": {
+    "jpName": "イトケのみ",
+    "zhName": "千香果",
+    "enName": "Passho Berry",
+    "id": 162
+  },
+  "163": {
+    "jpName": "ソクノのみ",
+    "zhName": "烛木果",
+    "enName": "Wacan Berry",
+    "id": 163
+  },
+  "164": {
+    "jpName": "リンドのみ",
+    "zhName": "罗子果",
+    "enName": "Rindo Berry",
+    "id": 164
+  },
+  "165": {
+    "jpName": "ヤチェのみ",
+    "zhName": "番荔果",
+    "enName": "Yache Berry",
+    "id": 165
+  },
+  "166": {
+    "jpName": "ヨプのみ",
+    "zhName": "莲蒲果",
+    "enName": "Chople Berry",
+    "id": 166
+  },
+  "167": {
+    "jpName": "ビアーのみ",
+    "zhName": "通通果",
+    "enName": "Kebia Berry",
+    "id": 167
+  },
+  "168": {
+    "jpName": "シュカのみ",
+    "zhName": "腰木果",
+    "enName": "Shuca Berry",
+    "id": 168
+  },
+  "169": {
+    "jpName": "バコウのみ",
+    "zhName": "棱瓜果",
+    "enName": "Coba Berry",
+    "id": 169
+  },
+  "170": {
+    "jpName": "ウタンのみ",
+    "zhName": "福禄果",
+    "enName": "Payapa Berry",
+    "id": 170
+  },
+  "171": {
+    "jpName": "タンガのみ",
+    "zhName": "扁樱果",
+    "enName": "Tanga Berry",
+    "id": 171
+  },
+  "172": {
+    "jpName": "ヨロギのみ",
+    "zhName": "草蚕果",
+    "enName": "Charti Berry",
+    "id": 172
+  },
+  "173": {
+    "jpName": "カシブのみ",
+    "zhName": "佛柑果",
+    "enName": "Kasib Berry",
+    "id": 173
+  },
+  "174": {
+    "jpName": "ハバンのみ",
+    "zhName": "莓榴果",
+    "enName": "Haban Berry",
+    "id": 174
+  },
+  "175": {
+    "jpName": "ナモのみ",
+    "zhName": "刺耳果",
+    "enName": "Colbur Berry",
+    "id": 175
+  },
+  "176": {
+    "jpName": "リリバのみ",
+    "zhName": "霹霹果",
+    "enName": "Babiri Berry",
+    "id": 176
+  },
+  "177": {
+    "jpName": "ホズのみ",
+    "zhName": "灯浆果",
+    "enName": "Chilan Berry",
+    "id": 177
+  },
+  "178": {
+    "jpName": "チイラのみ",
+    "zhName": "枝荔果",
+    "enName": "Liechi Berry",
+    "id": 178
+  },
+  "179": {
+    "jpName": "リュガのみ",
+    "zhName": "龙睛果",
+    "enName": "Ganlon Berry",
+    "id": 179
+  },
+  "180": {
+    "jpName": "カムラのみ",
+    "zhName": "沙鳞果",
+    "enName": "Salac Berry",
+    "id": 180
+  },
+  "181": {
+    "jpName": "ヤタピのみ",
+    "zhName": "龙火果",
+    "enName": "Petaya Berry",
+    "id": 181
+  },
+  "182": {
+    "jpName": "ズアのみ",
+    "zhName": "杏仔果",
+    "enName": "Apicot Berry",
+    "id": 182
+  },
+  "183": {
+    "jpName": "サンのみ",
+    "zhName": "兰萨果",
+    "enName": "Lansat Berry",
+    "id": 183
+  },
+  "184": {
+    "jpName": "スターのみ",
+    "zhName": "星桃果",
+    "enName": "Starf Berry",
+    "id": 184
+  },
+  "185": {
+    "jpName": "ナゾのみ",
+    "zhName": "谜芝果",
+    "enName": "Enigma Berry",
+    "id": 185
+  },
+  "186": {
+    "jpName": "ミクルのみ",
+    "zhName": "奇秘果",
+    "enName": "Micle Berry",
+    "id": 186
+  },
+  "187": {
+    "jpName": "イバンのみ",
+    "zhName": "释陀果",
+    "enName": "Custap Berry",
+    "id": 187
+  },
+  "188": {
+    "jpName": "ジャポのみ",
+    "zhName": "嘉珍果",
+    "enName": "Jaboca Berry",
+    "id": 188
+  },
+  "189": {
+    "jpName": "レンブのみ",
+    "zhName": "雾莲果",
+    "enName": "Rowap Berry",
+    "id": 189
+  },
+  "190": {
+    "jpName": "ひかりのこな",
+    "zhName": "光粉",
+    "enName": "Bright Powder",
+    "id": 190
+  },
+  "191": {
+    "jpName": "しろいハーブ",
+    "zhName": "白色香草",
+    "enName": "White Herb",
+    "id": 191
+  },
+  "192": {
+    "jpName": "きょうせいギプス",
+    "zhName": "强制锻炼器",
+    "enName": "Macho Brace",
+    "id": 192
+  },
+  "193": {
+    "jpName": "がくしゅうそうち",
+    "zhName": "学习装置",
+    "enName": "Exp. Share",
+    "id": 193
+  },
+  "194": {
+    "jpName": "せんせいのツメ",
+    "zhName": "先制之爪",
+    "enName": "Quick Claw",
+    "id": 194
+  },
+  "195": {
+    "jpName": "やすらぎのすず",
+    "zhName": "安抚之铃",
+    "enName": "Soothe Bell",
+    "id": 195
+  },
+  "196": {
+    "jpName": "メンタルハーブ",
+    "zhName": "心灵香草",
+    "enName": "Mental Herb",
+    "id": 196
+  },
+  "197": {
+    "jpName": "こだわりハチマキ",
+    "zhName": "讲究头带",
+    "enName": "Choice Band",
+    "id": 197
+  },
+  "198": {
+    "jpName": "おうじゃのしるし",
+    "zhName": "王者之证",
+    "enName": "King’s Rock",
+    "id": 198
+  },
+  "199": {
+    "jpName": "ぎんのこな",
+    "zhName": "银粉",
+    "enName": "Silver Powder",
+    "id": 199
+  },
+  "1404": {
+    "jpName": "★UMa4554",
+    "zhName": "★UMa4554",
+    "enName": "★UMa4554",
+    "id": 1404
+  },
+  "1403": {
+    "jpName": "★UMa4660",
+    "zhName": "★UMa4660",
+    "enName": "★UMa4660",
+    "id": 1403
+  },
+  "1402": {
+    "jpName": "★UMa4295",
+    "zhName": "★UMa4295",
+    "enName": "★UMa4295",
+    "id": 1402
+  },
+  "1401": {
+    "jpName": "★UMa5054",
+    "zhName": "★UMa5054",
+    "enName": "★UMa5054",
+    "id": 1401
+  },
+  "1400": {
+    "jpName": "★UMa5191",
+    "zhName": "★UMa5191",
+    "enName": "★UMa5191",
+    "id": 1400
+  },
+  "1409": {
+    "jpName": "★UMa4377",
+    "zhName": "★UMa4377",
+    "enName": "★UMa4377",
+    "id": 1409
+  },
+  "1408": {
+    "jpName": "★UMa4033",
+    "zhName": "★UMa4033",
+    "enName": "★UMa4033",
+    "id": 1408
+  },
+  "1407": {
+    "jpName": "★UMa3323",
+    "zhName": "★UMa3323",
+    "enName": "★UMa3323",
+    "id": 1407
+  },
+  "1406": {
+    "jpName": "★UMa3569",
+    "zhName": "★UMa3569",
+    "enName": "★UMa3569",
+    "id": 1406
+  },
+  "1405": {
+    "jpName": "★UMa4069",
+    "zhName": "★UMa4069",
+    "enName": "★UMa4069",
+    "id": 1405
+  },
+  "1415": {
+    "jpName": "★Vir4932",
+    "zhName": "★Vir4932",
+    "enName": "★Vir4932",
+    "id": 1415
+  },
+  "1414": {
+    "jpName": "★Vir4825",
+    "zhName": "★Vir4825",
+    "enName": "★Vir4825",
+    "id": 1414
+  },
+  "1413": {
+    "jpName": "★Vir5056",
+    "zhName": "★Vir5056",
+    "enName": "★Vir5056",
+    "id": 1413
+  },
+  "1412": {
+    "jpName": "★UMa3594",
+    "zhName": "★UMa3594",
+    "enName": "★UMa3594",
+    "id": 1412
+  },
+  "1411": {
+    "jpName": "★UMa4518",
+    "zhName": "★UMa4518",
+    "enName": "★UMa4518",
+    "id": 1411
+  },
+  "1410": {
+    "jpName": "★UMa4375",
+    "zhName": "★UMa4375",
+    "enName": "★UMa4375",
+    "id": 1410
+  },
+  "1419": {
+    "jpName": "★Vir4910",
+    "zhName": "★Vir4910",
+    "enName": "★Vir4910",
+    "id": 1419
+  },
+  "1418": {
+    "jpName": "★Vir5338",
+    "zhName": "★Vir5338",
+    "enName": "★Vir5338",
+    "id": 1418
+  },
+  "1417": {
+    "jpName": "★Vir4689",
+    "zhName": "★Vir4689",
+    "enName": "★Vir4689",
+    "id": 1417
+  },
+  "1416": {
+    "jpName": "★Vir4540",
+    "zhName": "★Vir4540",
+    "enName": "★Vir4540",
+    "id": 1416
+  },
+  "1426": {
+    "jpName": "★Ari546",
+    "zhName": "★Ari546",
+    "enName": "★Ari546",
+    "id": 1426
+  },
+  "1425": {
+    "jpName": "★Ari553",
+    "zhName": "★Ari553",
+    "enName": "★Ari553",
+    "id": 1425
+  },
+  "1424": {
+    "jpName": "★Ari617",
+    "zhName": "★Ari617",
+    "enName": "★Ari617",
+    "id": 1424
+  },
+  "1423": {
+    "jpName": "★Vir5107",
+    "zhName": "★Vir5107",
+    "enName": "★Vir5107",
+    "id": 1423
+  },
+  "1422": {
+    "jpName": "★Vir5409",
+    "zhName": "★Vir5409",
+    "enName": "★Vir5409",
+    "id": 1422
+  },
+  "1421": {
+    "jpName": "★Vir5359",
+    "zhName": "★Vir5359",
+    "enName": "★Vir5359",
+    "id": 1421
+  },
+  "1420": {
+    "jpName": "★Vir5315",
+    "zhName": "★Vir5315",
+    "enName": "★Vir5315",
+    "id": 1420
+  },
+  "1429": {
+    "jpName": "★Ori2061",
+    "zhName": "★Ori2061",
+    "enName": "★Ori2061",
+    "id": 1429
+  },
+  "1428": {
+    "jpName": "★Ori1713",
+    "zhName": "★Ori1713",
+    "enName": "★Ori1713",
+    "id": 1428
+  },
+  "1427": {
+    "jpName": "★Ari951",
+    "zhName": "★Ari951",
+    "enName": "★Ari951",
+    "id": 1427
+  },
+  "1440": {
+    "jpName": "★Cas403",
+    "zhName": "★Cas403",
+    "enName": "★Cas403",
+    "id": 1440
+  },
+  "1437": {
+    "jpName": "★Ori1543",
+    "zhName": "★Ori1543",
+    "enName": "★Ori1543",
+    "id": 1437
+  },
+  "1436": {
+    "jpName": "★Ori1899",
+    "zhName": "★Ori1899",
+    "enName": "★Ori1899",
+    "id": 1436
+  },
+  "1435": {
+    "jpName": "★Ori1879",
+    "zhName": "★Ori1879",
+    "enName": "★Ori1879",
+    "id": 1435
+  },
+  "1434": {
+    "jpName": "★Ori1852",
+    "zhName": "★Ori1852",
+    "enName": "★Ori1852",
+    "id": 1434
+  },
+  "1433": {
+    "jpName": "★Ori2004",
+    "zhName": "★Ori2004",
+    "enName": "★Ori2004",
+    "id": 1433
+  },
+  "1432": {
+    "jpName": "★Ori1948",
+    "zhName": "★Ori1948",
+    "enName": "★Ori1948",
+    "id": 1432
+  },
+  "1431": {
+    "jpName": "★Ori1903",
+    "zhName": "★Ori1903",
+    "enName": "★Ori1903",
+    "id": 1431
+  },
+  "1430": {
+    "jpName": "★Ori1790",
+    "zhName": "★Ori1790",
+    "enName": "★Ori1790",
+    "id": 1430
+  },
+  "1439": {
+    "jpName": "★Cas168",
+    "zhName": "★Cas168",
+    "enName": "★Cas168",
+    "id": 1439
+  },
+  "1438": {
+    "jpName": "★Cas21",
+    "zhName": "★Cas21",
+    "enName": "★Cas21",
+    "id": 1438
+  },
+  "1451": {
+    "jpName": "★Cnc3268",
+    "zhName": "★Cnc3268",
+    "enName": "★Cnc3268",
+    "id": 1451
+  },
+  "1450": {
+    "jpName": "★Cnc3627",
+    "zhName": "★Cnc3627",
+    "enName": "★Cnc3627",
+    "id": 1450
+  },
+  "1448": {
+    "jpName": "★Cnc3449",
+    "zhName": "★Cnc3449",
+    "enName": "★Cnc3449",
+    "id": 1448
+  },
+  "1447": {
+    "jpName": "★Cnc3461",
+    "zhName": "★Cnc3461",
+    "enName": "★Cnc3461",
+    "id": 1447
+  },
+  "1446": {
+    "jpName": "★Cnc3208",
+    "zhName": "★Cnc3208",
+    "enName": "★Cnc3208",
+    "id": 1446
+  },
+  "1445": {
+    "jpName": "★Cnc3572",
+    "zhName": "★Cnc3572",
+    "enName": "★Cnc3572",
+    "id": 1445
+  },
+  "1444": {
+    "jpName": "★Cas265",
+    "zhName": "★Cas265",
+    "enName": "★Cas265",
+    "id": 1444
+  },
+  "1443": {
+    "jpName": "★Cas219",
+    "zhName": "★Cas219",
+    "enName": "★Cas219",
+    "id": 1443
+  },
+  "1442": {
+    "jpName": "★Cas542",
+    "zhName": "★Cas542",
+    "enName": "★Cas542",
+    "id": 1442
+  },
+  "1441": {
+    "jpName": "★Cas153",
+    "zhName": "★Cas153",
+    "enName": "★Cas153",
+    "id": 1441
+  },
+  "1449": {
+    "jpName": "★Cnc3429",
+    "zhName": "★Cnc3429",
+    "enName": "★Cnc3429",
+    "id": 1449
+  }
+}

@@ -1,0 +1,13 @@
+query berry($id: Int) {
+    item: pokemon_v2_item(where: {id: {_eq: $id}}) {
+        id flavor : pokemon_v2_itemflavortexts (where: {language_id: {_eq: 12}})  {
+            flavor_text id
+        }
+        effect: pokemon_v2_itemeffecttexts(where: {language_id: {_eq: 9}}) {
+            effect
+        }
+        names: pokemon_v2_itemnames(where: {language_id: {_in: [9, 11, 12]}}) {
+            name
+        }
+    }
+}

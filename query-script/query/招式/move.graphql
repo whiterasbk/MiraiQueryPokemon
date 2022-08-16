@@ -1,0 +1,64 @@
+query move($moveId: Int) {
+    move: pokemon_v2_move(where: {id: {_eq: $moveId}}) {
+
+        #命中
+        accuracy
+        # power point
+        pp
+        #威力
+        power
+
+        priority
+        id
+        name
+        move_effect_chance
+        generation_id
+
+        names: pokemon_v2_movenames(where:{language_id:{_in:[9,11,12]}}) {
+            name
+        }
+
+        # 属性
+        type: pokemon_v2_type {
+            names: pokemon_v2_typenames(where:{language_id:{_in:[9,11,12]}}) {
+                name
+            }
+        }
+
+        # 说明
+        flavor : pokemon_v2_moveflavortexts(where:{language_id:{_eq:12}}) {
+            flavor_text
+        }
+
+        damageclass: pokemon_v2_movedamageclass {
+            name
+        }
+
+        moveeffect: pokemon_v2_moveeffect {
+            text: pokemon_v2_moveeffecteffecttexts {
+                effect
+            }
+        }
+
+        learn: pokemon_v2_pokemonmoves(distinct_on:pokemon_id) {
+            version_group_id
+            pokemon_id
+            pokemon: pokemon_v2_pokemon {
+                name pokemon_species_id id
+            }
+        }
+    }
+
+#    pokemon_v2_move(where:{id:{_eq: 1}}) {
+#        name
+#        pokemon_v2_pokemonmoves(where:{version_group_id:{_eq:1}}) {
+#            pokemon_id pokemon_v2_pokemon {
+#                name
+#            }
+#        }
+#    }
+#
+#    can: pokemon_v2_pokemon(where: {pokemon_v2_pokemonmoves: {pokemon_v2_move: {id: {_eq: $moveId}}}}) {
+#        name id
+#    }
+}

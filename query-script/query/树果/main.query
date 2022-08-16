@@ -1,0 +1,22 @@
+#!setup
+cmd: 树果
+auto-reload: true
+fuzzy-query: true
+fuzzy-in: berry-names
+fuzzy-field: id
+description: 查果实
+
+#!template
+(:var data = result['data']:)
+`:reply`
+查询结果:
+名称: (:trm(data.pk[0].name):)
+id: (:data.pk[0].id:)
+
+#!graphql
+query qty($pid: Int) {
+  pk: pokemon_v2_berry(where: {id:{_eq: $pid}}) {
+    name
+    id
+  }
+}

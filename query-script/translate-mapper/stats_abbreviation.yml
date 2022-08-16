@@ -1,0 +1,14 @@
+# stats 的缩写
+hp: HP
+attack: Atk
+defense: Def
+special-attack: Spa
+special-defense: Spd
+speed: Spe
+# id
+1: HP
+2: Atk
+3: Def
+4: Spa
+5: Spd
+6: Spe

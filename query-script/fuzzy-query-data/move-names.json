@@ -1,0 +1,4222 @@
+{
+  "1": {
+    "jpName": "はたく",
+    "zhName": "拍击",
+    "enName": "Pound"
+  },
+  "2": {
+    "jpName": "からてチョップ",
+    "zhName": "空手劈",
+    "enName": "Karate Chop"
+  },
+  "3": {
+    "jpName": "おうふくビンタ",
+    "zhName": "连环巴掌",
+    "enName": "Double Slap"
+  },
+  "4": {
+    "jpName": "れんぞくパンチ",
+    "zhName": "连续拳",
+    "enName": "Comet Punch"
+  },
+  "5": {
+    "jpName": "メガトンパンチ",
+    "zhName": "百万吨重拳",
+    "enName": "Mega Punch"
+  },
+  "6": {
+    "jpName": "ネコにこばん",
+    "zhName": "聚宝功",
+    "enName": "Pay Day"
+  },
+  "7": {
+    "jpName": "ほのおのパンチ",
+    "zhName": "火焰拳",
+    "enName": "Fire Punch"
+  },
+  "8": {
+    "jpName": "れいとうパンチ",
+    "zhName": "冰冻拳",
+    "enName": "Ice Punch"
+  },
+  "800": {
+    "jpName": "メテオビーム",
+    "zhName": "流星光束",
+    "enName": "Meteor Beam"
+  },
+  "9": {
+    "jpName": "かみなりパンチ",
+    "zhName": "雷电拳",
+    "enName": "Thunder Punch"
+  },
+  "801": {
+    "jpName": "シェルアームズ",
+    "zhName": "臂贝武器",
+    "enName": "Shell Side Arm"
+  },
+  "802": {
+    "jpName": "ミストバースト",
+    "zhName": "薄雾炸裂",
+    "enName": "Misty Explosion"
+  },
+  "803": {
+    "jpName": "グラススライダー",
+    "zhName": "青草滑梯",
+    "enName": "Grassy Glide"
+  },
+  "804": {
+    "jpName": "ライジングボルト",
+    "zhName": "电力上升",
+    "enName": "Rising Voltage"
+  },
+  "805": {
+    "jpName": "だいちのはどう",
+    "zhName": "大地波动",
+    "enName": "Terrain Pulse"
+  },
+  "806": {
+    "jpName": "はいよるいちげき",
+    "zhName": "爬击",
+    "enName": "Skitter Smack"
+  },
+  "807": {
+    "jpName": "しっとのほのお",
+    "zhName": "妒火",
+    "enName": "Burning Jealousy"
+  },
+  "808": {
+    "jpName": "うっぷんばらし",
+    "zhName": "泄愤",
+    "enName": "Lash Out"
+  },
+  "809": {
+    "jpName": "ポルターガイスト",
+    "zhName": "灵骚",
+    "enName": "Poltergeist"
+  },
+  "810": {
+    "jpName": "ふしょくガス",
+    "zhName": "腐蚀气体",
+    "enName": "Corrosive Gas"
+  },
+  "811": {
+    "jpName": "コーチング",
+    "zhName": "指导",
+    "enName": "Coaching"
+  },
+  "812": {
+    "jpName": "クイックターン",
+    "zhName": "快速折返",
+    "enName": "Flip Turn"
+  },
+  "813": {
+    "jpName": "トリプルアクセル",
+    "zhName": "三旋击",
+    "enName": "Triple Axel"
+  },
+  "814": {
+    "jpName": "ダブルウイング",
+    "zhName": "双翼",
+    "enName": "Dual Wingbeat"
+  },
+  "815": {
+    "jpName": "ねっさのだいち",
+    "zhName": "热沙大地",
+    "enName": "Scorching Sands"
+  },
+  "816": {
+    "jpName": "ジャングルヒール",
+    "zhName": "丛林治疗",
+    "enName": "Jungle Healing"
+  },
+  "817": {
+    "jpName": "あんこくきょうだ",
+    "zhName": "暗冥强击",
+    "enName": "Wicked Blow"
+  },
+  "818": {
+    "jpName": "すいりゅうれんだ",
+    "zhName": "水流连打",
+    "enName": "Surging Strikes"
+  },
+  "819": {
+    "jpName": "サンダープリズン",
+    "zhName": "雷电囚笼",
+    "enName": "Thunder Cage"
+  },
+  "820": {
+    "jpName": "ドラゴンエナジー",
+    "zhName": "巨龙威能",
+    "enName": "Dragon Energy"
+  },
+  "821": {
+    "jpName": "いてつくしせん",
+    "zhName": "冰冷视线",
+    "enName": "Freezing Glare"
+  },
+  "822": {
+    "jpName": "もえあがるいかり",
+    "zhName": "怒火中烧",
+    "enName": "Fiery Wrath"
+  },
+  "823": {
+    "jpName": "らいめいげり",
+    "zhName": "雷鸣蹴击",
+    "enName": "Thunderous Kick"
+  },
+  "824": {
+    "jpName": "ブリザードランス",
+    "zhName": "雪矛",
+    "enName": "Glacial Lance"
+  },
+  "825": {
+    "jpName": "アストラルビット",
+    "zhName": "星碎",
+    "enName": "Astral Barrage"
+  },
+  "826": {
+    "jpName": "ぶきみなじゅもん",
+    "zhName": "诡异咒语",
+    "enName": "Eerie Spell"
+  },
+  "600": {
+    "jpName": "ふんじん",
+    "zhName": "粉尘",
+    "enName": "Powder"
+  },
+  "601": {
+    "jpName": "ジオコントロール",
+    "zhName": "大地掌控",
+    "enName": "Geomancy"
+  },
+  "602": {
+    "jpName": "じばそうさ",
+    "zhName": "磁场操控",
+    "enName": "Magnetic Flux"
+  },
+  "603": {
+    "jpName": "ハッピータイム",
+    "zhName": "欢乐时光",
+    "enName": "Happy Hour"
+  },
+  "604": {
+    "jpName": "エレキフィールド",
+    "zhName": "电气场地",
+    "enName": "Electric Terrain"
+  },
+  "605": {
+    "jpName": "マジカルシャイン",
+    "zhName": "魔法闪耀",
+    "enName": "Dazzling Gleam"
+  },
+  "606": {
+    "jpName": "おいわい",
+    "zhName": "庆祝",
+    "enName": "Celebrate"
+  },
+  "607": {
+    "jpName": "てをつなぐ",
+    "zhName": "牵手",
+    "enName": "Hold Hands"
+  },
+  "608": {
+    "jpName": "つぶらなひとみ",
+    "zhName": "圆瞳",
+    "enName": "Baby-Doll Eyes"
+  },
+  "609": {
+    "jpName": "ほっぺすりすり",
+    "zhName": "蹭蹭脸颊",
+    "enName": "Nuzzle"
+  },
+  "610": {
+    "jpName": "てかげん",
+    "zhName": "手下留情",
+    "enName": "Hold Back"
+  },
+  "611": {
+    "jpName": "まとわりつく",
+    "zhName": "死缠烂打",
+    "enName": "Infestation"
+  },
+  "612": {
+    "jpName": "グロウパンチ",
+    "zhName": "增强拳",
+    "enName": "Power-Up Punch"
+  },
+  "613": {
+    "jpName": "デスウイング",
+    "zhName": "死亡之翼",
+    "enName": "Oblivion Wing"
+  },
+  "614": {
+    "jpName": "サウザンアロー",
+    "zhName": "千箭齐发",
+    "enName": "Thousand Arrows"
+  },
+  "615": {
+    "jpName": "サウザンウェーブ",
+    "zhName": "千波激荡",
+    "enName": "Thousand Waves"
+  },
+  "616": {
+    "jpName": "グランドフォース",
+    "zhName": "大地神力",
+    "enName": "Land’s Wrath"
+  },
+  "617": {
+    "jpName": "はめつのひかり",
+    "zhName": "破灭之光",
+    "enName": "Light of Ruin"
+  },
+  "618": {
+    "jpName": "こんげんのはどう",
+    "zhName": "根源波动",
+    "enName": "Origin Pulse"
+  },
+  "619": {
+    "jpName": "だんがいのつるぎ",
+    "zhName": "断崖之剑",
+    "enName": "Precipice Blades"
+  },
+  "620": {
+    "jpName": "ガリョウテンセイ",
+    "zhName": "画龙点睛",
+    "enName": "Dragon Ascent"
+  },
+  "621": {
+    "jpName": "いじげんラッシュ",
+    "zhName": "异次元猛攻",
+    "enName": "Hyperspace Fury"
+  },
+  "622": {
+    "jpName": "ウルトラダッシュアタック",
+    "zhName": "究极无敌大冲撞",
+    "enName": "Breakneck Blitz"
+  },
+  "623": {
+    "jpName": "ウルトラダッシュアタック",
+    "zhName": "究极无敌大冲撞",
+    "enName": "Breakneck Blitz"
+  },
+  "624": {
+    "jpName": "ぜんりょくむそうげきれつけん",
+    "zhName": "全力无双激烈拳",
+    "enName": "All-Out Pummeling"
+  },
+  "625": {
+    "jpName": "ぜんりょくむそうげきれつけん",
+    "zhName": "全力无双激烈拳",
+    "enName": "All-Out Pummeling"
+  },
+  "626": {
+    "jpName": "ファイナルダイブクラッシュ",
+    "zhName": "极速俯冲轰烈撞",
+    "enName": "Supersonic Skystrike"
+  },
+  "627": {
+    "jpName": "ファイナルダイブクラッシュ",
+    "zhName": "极速俯冲轰烈撞",
+    "enName": "Supersonic Skystrike"
+  },
+  "628": {
+    "jpName": "アシッドポイズンデリート",
+    "zhName": "强酸剧毒灭绝雨",
+    "enName": "Acid Downpour"
+  },
+  "629": {
+    "jpName": "アシッドポイズンデリート",
+    "zhName": "强酸剧毒灭绝雨",
+    "enName": "Acid Downpour"
+  },
+  "10018": {
+    "jpName": "",
+    "zhName": "阴影天空",
+    "enName": "Shadow Sky"
+  },
+  "630": {
+    "jpName": "ライジングランドオーバー",
+    "zhName": "地隆啸天大终结",
+    "enName": "Tectonic Rage"
+  },
+  "631": {
+    "jpName": "ライジングランドオーバー",
+    "zhName": "地隆啸天大终结",
+    "enName": "Tectonic Rage"
+  },
+  "632": {
+    "jpName": "ワールズエンドフォール",
+    "zhName": "毁天灭地巨岩坠",
+    "enName": "Continental Crush"
+  },
+  "633": {
+    "jpName": "ワールズエンドフォール",
+    "zhName": "毁天灭地巨岩坠",
+    "enName": "Continental Crush"
+  },
+  "634": {
+    "jpName": "ぜったいほしょくかいてんざん",
+    "zhName": "绝对捕食回旋斩",
+    "enName": "Savage Spin-Out"
+  },
+  "635": {
+    "jpName": "ぜったいほしょくかいてんざん",
+    "zhName": "绝对捕食回旋斩",
+    "enName": "Savage Spin-Out"
+  },
+  "10011": {
+    "jpName": "",
+    "zhName": "阴影波",
+    "enName": "Shadow Wave"
+  },
+  "636": {
+    "jpName": "むげんあんやへのいざない",
+    "zhName": "无尽暗夜之诱惑",
+    "enName": "Never-Ending Nightmare"
+  },
+  "10010": {
+    "jpName": "",
+    "zhName": "影子风暴",
+    "enName": "Shadow Storm"
+  },
+  "637": {
+    "jpName": "むげんあんやへのいざない",
+    "zhName": "无尽暗夜之诱惑",
+    "enName": "Never-Ending Nightmare"
+  },
+  "10013": {
+    "jpName": "",
+    "zhName": "阴影部分",
+    "enName": "Shadow Half"
+  },
+  "638": {
+    "jpName": "ちょうぜつらせんれんげき",
+    "zhName": "超绝螺旋连击",
+    "enName": "Corkscrew Crash"
+  },
+  "10012": {
+    "jpName": "",
+    "zhName": "阴影向下",
+    "enName": "Shadow Down"
+  },
+  "639": {
+    "jpName": "ちょうぜつらせんれんげき",
+    "zhName": "超绝螺旋连击",
+    "enName": "Corkscrew Crash"
+  },
+  "10015": {
+    "jpName": "",
+    "zhName": "阴影雾",
+    "enName": "Shadow Mist"
+  },
+  "10014": {
+    "jpName": "",
+    "zhName": "阴影保持",
+    "enName": "Shadow Hold"
+  },
+  "10017": {
+    "jpName": "",
+    "zhName": "阴影棚",
+    "enName": "Shadow Shed"
+  },
+  "10016": {
+    "jpName": "",
+    "zhName": "影子恐慌",
+    "enName": "Shadow Panic"
+  },
+  "640": {
+    "jpName": "ダイナミックフルフレイム",
+    "zhName": "超强极限爆焰弹",
+    "enName": "Inferno Overdrive"
+  },
+  "641": {
+    "jpName": "ダイナミックフルフレイム",
+    "zhName": "超强极限爆焰弹",
+    "enName": "Inferno Overdrive"
+  },
+  "400": {
+    "jpName": "つじぎり",
+    "zhName": "暗袭要害",
+    "enName": "Night Slash"
+  },
+  "642": {
+    "jpName": "スーパーアクアトルネード",
+    "zhName": "超级水流大漩涡",
+    "enName": "Hydro Vortex"
+  },
+  "401": {
+    "jpName": "アクアテール",
+    "zhName": "水流尾",
+    "enName": "Aqua Tail"
+  },
+  "643": {
+    "jpName": "スーパーアクアトルネード",
+    "zhName": "超级水流大漩涡",
+    "enName": "Hydro Vortex"
+  },
+  "402": {
+    "jpName": "タネばくだん",
+    "zhName": "种子炸弹",
+    "enName": "Seed Bomb"
+  },
+  "644": {
+    "jpName": "ブルームシャインエクストラ",
+    "zhName": "绚烂缤纷花怒放",
+    "enName": "Bloom Doom"
+  },
+  "403": {
+    "jpName": "エアスラッシュ",
+    "zhName": "空气斩",
+    "enName": "Air Slash"
+  },
+  "645": {
+    "jpName": "ブルームシャインエクストラ",
+    "zhName": "绚烂缤纷花怒放",
+    "enName": "Bloom Doom"
+  },
+  "404": {
+    "jpName": "シザークロス",
+    "zhName": "十字剪",
+    "enName": "X-Scissor"
+  },
+  "646": {
+    "jpName": "スパーキングギガボルト",
+    "zhName": "终极伏特狂雷闪",
+    "enName": "Gigavolt Havoc"
+  },
+  "405": {
+    "jpName": "むしのさざめき",
+    "zhName": "虫鸣",
+    "enName": "Bug Buzz"
+  },
+  "647": {
+    "jpName": "スパーキングギガボルト",
+    "zhName": "终极伏特狂雷闪",
+    "enName": "Gigavolt Havoc"
+  },
+  "406": {
+    "jpName": "りゅうのはどう",
+    "zhName": "龙之波动",
+    "enName": "Dragon Pulse"
+  },
+  "648": {
+    "jpName": "マキシマムサイブレイカー",
+    "zhName": "至高精神破坏波",
+    "enName": "Shattered Psyche"
+  },
+  "407": {
+    "jpName": "ドラゴンダイブ",
+    "zhName": "龙之俯冲",
+    "enName": "Dragon Rush"
+  },
+  "649": {
+    "jpName": "マキシマムサイブレイカー",
+    "zhName": "至高精神破坏波",
+    "enName": "Shattered Psyche"
+  },
+  "408": {
+    "jpName": "パワージェム",
+    "zhName": "力量宝石",
+    "enName": "Power Gem"
+  },
+  "409": {
+    "jpName": "ドレインパンチ",
+    "zhName": "吸取拳",
+    "enName": "Drain Punch"
+  },
+  "650": {
+    "jpName": "レイジングジオフリーズ",
+    "zhName": "激狂大地万里冰",
+    "enName": "Subzero Slammer"
+  },
+  "651": {
+    "jpName": "レイジングジオフリーズ",
+    "zhName": "激狂大地万里冰",
+    "enName": "Subzero Slammer"
+  },
+  "410": {
+    "jpName": "しんくうは",
+    "zhName": "真空波",
+    "enName": "Vacuum Wave"
+  },
+  "652": {
+    "jpName": "アルティメットドラゴンバーン",
+    "zhName": "究极巨龙震天地",
+    "enName": "Devastating Drake"
+  },
+  "411": {
+    "jpName": "きあいだま",
+    "zhName": "真气弹",
+    "enName": "Focus Blast"
+  },
+  "653": {
+    "jpName": "アルティメットドラゴンバーン",
+    "zhName": "究极巨龙震天地",
+    "enName": "Devastating Drake"
+  },
+  "412": {
+    "jpName": "エナジーボール",
+    "zhName": "能量球",
+    "enName": "Energy Ball"
+  },
+  "654": {
+    "jpName": "ブラックホールイクリプス",
+    "zhName": "黑洞吞噬万物灭",
+    "enName": "Black Hole Eclipse"
+  },
+  "413": {
+    "jpName": "ブレイブバード",
+    "zhName": "勇鸟猛攻",
+    "enName": "Brave Bird"
+  },
+  "655": {
+    "jpName": "ブラックホールイクリプス",
+    "zhName": "黑洞吞噬万物灭",
+    "enName": "Black Hole Eclipse"
+  },
+  "414": {
+    "jpName": "だいちのちから",
+    "zhName": "大地之力",
+    "enName": "Earth Power"
+  },
+  "656": {
+    "jpName": "ラブリースターインパクト",
+    "zhName": "可爱星星飞天撞",
+    "enName": "Twinkle Tackle"
+  },
+  "415": {
+    "jpName": "すりかえ",
+    "zhName": "掉包",
+    "enName": "Switcheroo"
+  },
+  "657": {
+    "jpName": "ラブリースターインパクト",
+    "zhName": "可爱星星飞天撞",
+    "enName": "Twinkle Tackle"
+  },
+  "416": {
+    "jpName": "ギガインパクト",
+    "zhName": "终极冲击",
+    "enName": "Giga Impact"
+  },
+  "658": {
+    "jpName": "ひっさつのピカチュート",
+    "zhName": "皮卡皮卡必杀击",
+    "enName": "Catastropika"
+  },
+  "417": {
+    "jpName": "わるだくみ",
+    "zhName": "诡计",
+    "enName": "Nasty Plot"
+  },
+  "659": {
+    "jpName": "すなあつめ",
+    "zhName": "集沙",
+    "enName": "Shore Up"
+  },
+  "418": {
+    "jpName": "バレットパンチ",
+    "zhName": "子弹拳",
+    "enName": "Bullet Punch"
+  },
+  "419": {
+    "jpName": "ゆきなだれ",
+    "zhName": "雪崩",
+    "enName": "Avalanche"
+  },
+  "660": {
+    "jpName": "であいがしら",
+    "zhName": "迎头一击",
+    "enName": "First Impression"
+  },
+  "10008": {
+    "jpName": "",
+    "zhName": "暗影之火",
+    "enName": "Shadow Fire"
+  },
+  "661": {
+    "jpName": "トーチカ",
+    "zhName": "碉堡",
+    "enName": "Baneful Bunker"
+  },
+  "10007": {
+    "jpName": "",
+    "zhName": "阴影结束",
+    "enName": "Shadow End"
+  },
+  "420": {
+    "jpName": "こおりのつぶて",
+    "zhName": "冰砾",
+    "enName": "Ice Shard"
+  },
+  "662": {
+    "jpName": "かげぬい",
+    "zhName": "缝影",
+    "enName": "Spirit Shackle"
+  },
+  "421": {
+    "jpName": "シャドークロー",
+    "zhName": "暗影爪",
+    "enName": "Shadow Claw"
+  },
+  "663": {
+    "jpName": "ＤＤラリアット",
+    "zhName": "ＤＤ金勾臂",
+    "enName": "Darkest Lariat"
+  },
+  "10009": {
+    "jpName": "",
+    "zhName": "影子狂欢节",
+    "enName": "Shadow Rave"
+  },
+  "422": {
+    "jpName": "かみなりのキバ",
+    "zhName": "雷电牙",
+    "enName": "Thunder Fang"
+  },
+  "664": {
+    "jpName": "うたかたのアリア",
+    "zhName": "泡影的咏叹调",
+    "enName": "Sparkling Aria"
+  },
+  "423": {
+    "jpName": "こおりのキバ",
+    "zhName": "冰冻牙",
+    "enName": "Ice Fang"
+  },
+  "665": {
+    "jpName": "アイスハンマー",
+    "zhName": "冰锤",
+    "enName": "Ice Hammer"
+  },
+  "424": {
+    "jpName": "ほのおのキバ",
+    "zhName": "火焰牙",
+    "enName": "Fire Fang"
+  },
+  "666": {
+    "jpName": "フラワーヒール",
+    "zhName": "花疗",
+    "enName": "Floral Healing"
+  },
+  "425": {
+    "jpName": "かげうち",
+    "zhName": "影子偷袭",
+    "enName": "Shadow Sneak"
+  },
+  "667": {
+    "jpName": "１０まんばりき",
+    "zhName": "十万马力",
+    "enName": "High Horsepower"
+  },
+  "426": {
+    "jpName": "どろばくだん",
+    "zhName": "泥巴炸弹",
+    "enName": "Mud Bomb"
+  },
+  "668": {
+    "jpName": "ちからをすいとる",
+    "zhName": "吸取力量",
+    "enName": "Strength Sap"
+  },
+  "427": {
+    "jpName": "サイコカッター",
+    "zhName": "精神利刃",
+    "enName": "Psycho Cut"
+  },
+  "669": {
+    "jpName": "ソーラーブレード",
+    "zhName": "日光刃",
+    "enName": "Solar Blade"
+  },
+  "428": {
+    "jpName": "しねんのずつき",
+    "zhName": "意念头锤",
+    "enName": "Zen Headbutt"
+  },
+  "10002": {
+    "jpName": "",
+    "zhName": "阴影爆炸",
+    "enName": "Shadow Blast"
+  },
+  "429": {
+    "jpName": "ミラーショット",
+    "zhName": "镜光射击",
+    "enName": "Mirror Shot"
+  },
+  "10001": {
+    "jpName": "",
+    "zhName": "暗影冲刺",
+    "enName": "Shadow Rush"
+  },
+  "10004": {
+    "jpName": "",
+    "zhName": "影子螺栓",
+    "enName": "Shadow Bolt"
+  },
+  "10003": {
+    "jpName": "",
+    "zhName": "阴影闪电战",
+    "enName": "Shadow Blitz"
+  },
+  "10006": {
+    "jpName": "",
+    "zhName": "暗影寒意",
+    "enName": "Shadow Chill"
+  },
+  "10005": {
+    "jpName": "",
+    "zhName": "阴影中断",
+    "enName": "Shadow Break"
+  },
+  "670": {
+    "jpName": "このは",
+    "zhName": "树叶",
+    "enName": "Leafage"
+  },
+  "671": {
+    "jpName": "スポットライト",
+    "zhName": "聚光灯",
+    "enName": "Spotlight"
+  },
+  "430": {
+    "jpName": "ラスターカノン",
+    "zhName": "加农光炮",
+    "enName": "Flash Cannon"
+  },
+  "672": {
+    "jpName": "どくのいと",
+    "zhName": "毒丝",
+    "enName": "Toxic Thread"
+  },
+  "431": {
+    "jpName": "ロッククライム",
+    "zhName": "攀岩",
+    "enName": "Rock Climb"
+  },
+  "673": {
+    "jpName": "とぎすます",
+    "zhName": "磨砺",
+    "enName": "Laser Focus"
+  },
+  "432": {
+    "jpName": "きりばらい",
+    "zhName": "清除浓雾",
+    "enName": "Defog"
+  },
+  "674": {
+    "jpName": "アシストギア",
+    "zhName": "辅助齿轮",
+    "enName": "Gear Up"
+  },
+  "433": {
+    "jpName": "トリックルーム",
+    "zhName": "戏法空间",
+    "enName": "Trick Room"
+  },
+  "675": {
+    "jpName": "じごくづき",
+    "zhName": "地狱突刺",
+    "enName": "Throat Chop"
+  },
+  "434": {
+    "jpName": "りゅうせいぐん",
+    "zhName": "流星群",
+    "enName": "Draco Meteor"
+  },
+  "676": {
+    "jpName": "かふんだんご",
+    "zhName": "花粉团",
+    "enName": "Pollen Puff"
+  },
+  "435": {
+    "jpName": "ほうでん",
+    "zhName": "放电",
+    "enName": "Discharge"
+  },
+  "677": {
+    "jpName": "アンカーショット",
+    "zhName": "掷锚",
+    "enName": "Anchor Shot"
+  },
+  "436": {
+    "jpName": "ふんえん",
+    "zhName": "喷烟",
+    "enName": "Lava Plume"
+  },
+  "678": {
+    "jpName": "サイコフィールド",
+    "zhName": "精神场地",
+    "enName": "Psychic Terrain"
+  },
+  "437": {
+    "jpName": "リーフストーム",
+    "zhName": "飞叶风暴",
+    "enName": "Leaf Storm"
+  },
+  "679": {
+    "jpName": "とびかかる",
+    "zhName": "猛扑",
+    "enName": "Lunge"
+  },
+  "438": {
+    "jpName": "パワーウィップ",
+    "zhName": "强力鞭打",
+    "enName": "Power Whip"
+  },
+  "439": {
+    "jpName": "がんせきほう",
+    "zhName": "岩石炮",
+    "enName": "Rock Wrecker"
+  },
+  "680": {
+    "jpName": "ほのおのムチ",
+    "zhName": "火焰鞭",
+    "enName": "Fire Lash"
+  },
+  "681": {
+    "jpName": "つけあがる",
+    "zhName": "嚣张",
+    "enName": "Power Trip"
+  },
+  "440": {
+    "jpName": "クロスポイズン",
+    "zhName": "十字毒刃",
+    "enName": "Cross Poison"
+  },
+  "682": {
+    "jpName": "もえつきる",
+    "zhName": "燃尽",
+    "enName": "Burn Up"
+  },
+  "441": {
+    "jpName": "ダストシュート",
+    "zhName": "垃圾射击",
+    "enName": "Gunk Shot"
+  },
+  "683": {
+    "jpName": "スピードスワップ",
+    "zhName": "速度互换",
+    "enName": "Speed Swap"
+  },
+  "200": {
+    "jpName": "げきりん",
+    "zhName": "逆鳞",
+    "enName": "Outrage"
+  },
+  "442": {
+    "jpName": "アイアンヘッド",
+    "zhName": "铁头",
+    "enName": "Iron Head"
+  },
+  "684": {
+    "jpName": "スマートホーン",
+    "zhName": "修长之角",
+    "enName": "Smart Strike"
+  },
+  "201": {
+    "jpName": "すなあらし",
+    "zhName": "沙暴",
+    "enName": "Sandstorm"
+  },
+  "443": {
+    "jpName": "マグネットボム",
+    "zhName": "磁铁炸弹",
+    "enName": "Magnet Bomb"
+  },
+  "685": {
+    "jpName": "じょうか",
+    "zhName": "净化",
+    "enName": "Purify"
+  },
+  "202": {
+    "jpName": "ギガドレイン",
+    "zhName": "终极吸取",
+    "enName": "Giga Drain"
+  },
+  "444": {
+    "jpName": "ストーンエッジ",
+    "zhName": "尖石攻击",
+    "enName": "Stone Edge"
+  },
+  "686": {
+    "jpName": "めざめるダンス",
+    "zhName": "觉醒之舞",
+    "enName": "Revelation Dance"
+  },
+  "203": {
+    "jpName": "こらえる",
+    "zhName": "挺住",
+    "enName": "Endure"
+  },
+  "445": {
+    "jpName": "ゆうわく",
+    "zhName": "诱惑",
+    "enName": "Captivate"
+  },
+  "687": {
+    "jpName": "コアパニッシャー",
+    "zhName": "核心惩罚者",
+    "enName": "Core Enforcer"
+  },
+  "204": {
+    "jpName": "あまえる",
+    "zhName": "撒娇",
+    "enName": "Charm"
+  },
+  "446": {
+    "jpName": "ステルスロック",
+    "zhName": "隐形岩",
+    "enName": "Stealth Rock"
+  },
+  "688": {
+    "jpName": "トロピカルキック",
+    "zhName": "热带踢",
+    "enName": "Trop Kick"
+  },
+  "205": {
+    "jpName": "ころがる",
+    "zhName": "滚动",
+    "enName": "Rollout"
+  },
+  "447": {
+    "jpName": "くさむすび",
+    "zhName": "打草结",
+    "enName": "Grass Knot"
+  },
+  "689": {
+    "jpName": "さいはい",
+    "zhName": "号令",
+    "enName": "Instruct"
+  },
+  "206": {
+    "jpName": "みねうち",
+    "zhName": "点到为止",
+    "enName": "False Swipe"
+  },
+  "448": {
+    "jpName": "おしゃべり",
+    "zhName": "喋喋不休",
+    "enName": "Chatter"
+  },
+  "207": {
+    "jpName": "いばる",
+    "zhName": "虚张声势",
+    "enName": "Swagger"
+  },
+  "449": {
+    "jpName": "さばきのつぶて",
+    "zhName": "制裁光砾",
+    "enName": "Judgment"
+  },
+  "208": {
+    "jpName": "ミルクのみ",
+    "zhName": "喝牛奶",
+    "enName": "Milk Drink"
+  },
+  "209": {
+    "jpName": "スパーク",
+    "zhName": "电光",
+    "enName": "Spark"
+  },
+  "690": {
+    "jpName": "くちばしキャノン",
+    "zhName": "鸟嘴加农炮",
+    "enName": "Beak Blast"
+  },
+  "691": {
+    "jpName": "スケイルノイズ",
+    "zhName": "鳞片噪音",
+    "enName": "Clanging Scales"
+  },
+  "450": {
+    "jpName": "むしくい",
+    "zhName": "虫咬",
+    "enName": "Bug Bite"
+  },
+  "692": {
+    "jpName": "ドラゴンハンマー",
+    "zhName": "龙锤",
+    "enName": "Dragon Hammer"
+  },
+  "451": {
+    "jpName": "チャージビーム",
+    "zhName": "充电光束",
+    "enName": "Charge Beam"
+  },
+  "693": {
+    "jpName": "ぶんまわす",
+    "zhName": "狂舞挥打",
+    "enName": "Brutal Swing"
+  },
+  "210": {
+    "jpName": "れんぞくぎり",
+    "zhName": "连斩",
+    "enName": "Fury Cutter"
+  },
+  "452": {
+    "jpName": "ウッドハンマー",
+    "zhName": "木槌",
+    "enName": "Wood Hammer"
+  },
+  "694": {
+    "jpName": "オーロラベール",
+    "zhName": "极光幕",
+    "enName": "Aurora Veil"
+  },
+  "211": {
+    "jpName": "はがねのつばさ",
+    "zhName": "钢翼",
+    "enName": "Steel Wing"
+  },
+  "453": {
+    "jpName": "アクアジェット",
+    "zhName": "水流喷射",
+    "enName": "Aqua Jet"
+  },
+  "695": {
+    "jpName": "シャドーアローズストライク",
+    "zhName": "遮天蔽日暗影箭",
+    "enName": "Sinister Arrow Raid"
+  },
+  "212": {
+    "jpName": "くろいまなざし",
+    "zhName": "黑色目光",
+    "enName": "Mean Look"
+  },
+  "454": {
+    "jpName": "こうげきしれい",
+    "zhName": "攻击指令",
+    "enName": "Attack Order"
+  },
+  "696": {
+    "jpName": "ハイパーダーククラッシャー",
+    "zhName": "极恶飞跃粉碎击",
+    "enName": "Malicious Moonsault"
+  },
+  "213": {
+    "jpName": "メロメロ",
+    "zhName": "迷人",
+    "enName": "Attract"
+  },
+  "455": {
+    "jpName": "ぼうぎょしれい",
+    "zhName": "防御指令",
+    "enName": "Defend Order"
+  },
+  "697": {
+    "jpName": "わだつみのシンフォニア",
+    "zhName": "海神庄严交响乐",
+    "enName": "Oceanic Operetta"
+  },
+  "214": {
+    "jpName": "ねごと",
+    "zhName": "梦话",
+    "enName": "Sleep Talk"
+  },
+  "456": {
+    "jpName": "かいふくしれい",
+    "zhName": "回复指令",
+    "enName": "Heal Order"
+  },
+  "698": {
+    "jpName": "ガーディアン・デ・アローラ",
+    "zhName": "巨人卫士・阿罗拉",
+    "enName": "Guardian of Alola"
+  },
+  "215": {
+    "jpName": "いやしのすず",
+    "zhName": "治愈铃声",
+    "enName": "Heal Bell"
+  },
+  "457": {
+    "jpName": "もろはのずつき",
+    "zhName": "双刃头锤",
+    "enName": "Head Smash"
+  },
+  "699": {
+    "jpName": "しちせいだっこんたい",
+    "zhName": "七星夺魂腿",
+    "enName": "Soul-Stealing 7-Star Strike"
+  },
+  "216": {
+    "jpName": "おんがえし",
+    "zhName": "报恩",
+    "enName": "Return"
+  },
+  "458": {
+    "jpName": "ダブルアタック",
+    "zhName": "二连击",
+    "enName": "Double Hit"
+  },
+  "217": {
+    "jpName": "プレゼント",
+    "zhName": "礼物",
+    "enName": "Present"
+  },
+  "459": {
+    "jpName": "ときのほうこう",
+    "zhName": "时光咆哮",
+    "enName": "Roar of Time"
+  },
+  "218": {
+    "jpName": "やつあたり",
+    "zhName": "迁怒",
+    "enName": "Frustration"
+  },
+  "219": {
+    "jpName": "しんぴのまもり",
+    "zhName": "神秘守护",
+    "enName": "Safeguard"
+  },
+  "460": {
+    "jpName": "あくうせつだん",
+    "zhName": "亚空裂斩",
+    "enName": "Spacial Rend"
+  },
+  "461": {
+    "jpName": "みかづきのまい",
+    "zhName": "新月舞",
+    "enName": "Lunar Dance"
+  },
+  "220": {
+    "jpName": "いたみわけ",
+    "zhName": "分担痛楚",
+    "enName": "Pain Split"
+  },
+  "462": {
+    "jpName": "にぎりつぶす",
+    "zhName": "捏碎",
+    "enName": "Crush Grip"
+  },
+  "221": {
+    "jpName": "せいなるほのお",
+    "zhName": "神圣之火",
+    "enName": "Sacred Fire"
+  },
+  "463": {
+    "jpName": "マグマストーム",
+    "zhName": "熔岩风暴",
+    "enName": "Magma Storm"
+  },
+  "222": {
+    "jpName": "マグニチュード",
+    "zhName": "震级",
+    "enName": "Magnitude"
+  },
+  "464": {
+    "jpName": "ダークホール",
+    "zhName": "暗黑洞",
+    "enName": "Dark Void"
+  },
+  "223": {
+    "jpName": "ばくれつパンチ",
+    "zhName": "爆裂拳",
+    "enName": "Dynamic Punch"
+  },
+  "465": {
+    "jpName": "シードフレア",
+    "zhName": "种子闪光",
+    "enName": "Seed Flare"
+  },
+  "224": {
+    "jpName": "メガホーン",
+    "zhName": "超级角击",
+    "enName": "Megahorn"
+  },
+  "466": {
+    "jpName": "あやしいかぜ",
+    "zhName": "奇异之风",
+    "enName": "Ominous Wind"
+  },
+  "225": {
+    "jpName": "りゅうのいぶき",
+    "zhName": "龙息",
+    "enName": "Dragon Breath"
+  },
+  "467": {
+    "jpName": "シャドーダイブ",
+    "zhName": "暗影潜袭",
+    "enName": "Shadow Force"
+  },
+  "226": {
+    "jpName": "バトンタッチ",
+    "zhName": "接棒",
+    "enName": "Baton Pass"
+  },
+  "468": {
+    "jpName": "つめとぎ",
+    "zhName": "磨爪",
+    "enName": "Hone Claws"
+  },
+  "227": {
+    "jpName": "アンコール",
+    "zhName": "再来一次",
+    "enName": "Encore"
+  },
+  "469": {
+    "jpName": "ワイドガード",
+    "zhName": "广域防守",
+    "enName": "Wide Guard"
+  },
+  "228": {
+    "jpName": "おいうち",
+    "zhName": "追打",
+    "enName": "Pursuit"
+  },
+  "229": {
+    "jpName": "こうそくスピン",
+    "zhName": "高速旋转",
+    "enName": "Rapid Spin"
+  },
+  "470": {
+    "jpName": "ガードシェア",
+    "zhName": "防守平分",
+    "enName": "Guard Split"
+  },
+  "471": {
+    "jpName": "パワーシェア",
+    "zhName": "力量平分",
+    "enName": "Power Split"
+  },
+  "230": {
+    "jpName": "あまいかおり",
+    "zhName": "甜甜香气",
+    "enName": "Sweet Scent"
+  },
+  "472": {
+    "jpName": "ワンダールーム",
+    "zhName": "奇妙空间",
+    "enName": "Wonder Room"
+  },
+  "231": {
+    "jpName": "アイアンテール",
+    "zhName": "铁尾",
+    "enName": "Iron Tail"
+  },
+  "473": {
+    "jpName": "サイコショック",
+    "zhName": "精神冲击",
+    "enName": "Psyshock"
+  },
+  "232": {
+    "jpName": "メタルクロー",
+    "zhName": "金属爪",
+    "enName": "Metal Claw"
+  },
+  "474": {
+    "jpName": "ベノムショック",
+    "zhName": "毒液冲击",
+    "enName": "Venoshock"
+  },
+  "233": {
+    "jpName": "あてみなげ",
+    "zhName": "借力摔",
+    "enName": "Vital Throw"
+  },
+  "475": {
+    "jpName": "ボディパージ",
+    "zhName": "身体轻量化",
+    "enName": "Autotomize"
+  },
+  "234": {
+    "jpName": "あさのひざし",
+    "zhName": "晨光",
+    "enName": "Morning Sun"
+  },
+  "476": {
+    "jpName": "いかりのこな",
+    "zhName": "愤怒粉",
+    "enName": "Rage Powder"
+  },
+  "235": {
+    "jpName": "こうごうせい",
+    "zhName": "光合作用",
+    "enName": "Synthesis"
+  },
+  "477": {
+    "jpName": "テレキネシス",
+    "zhName": "意念移物",
+    "enName": "Telekinesis"
+  },
+  "236": {
+    "jpName": "つきのひかり",
+    "zhName": "月光",
+    "enName": "Moonlight"
+  },
+  "478": {
+    "jpName": "マジックルーム",
+    "zhName": "魔法空间",
+    "enName": "Magic Room"
+  },
+  "237": {
+    "jpName": "めざめるパワー",
+    "zhName": "觉醒力量",
+    "enName": "Hidden Power"
+  },
+  "479": {
+    "jpName": "うちおとす",
+    "zhName": "击落",
+    "enName": "Smack Down"
+  },
+  "238": {
+    "jpName": "クロスチョップ",
+    "zhName": "十字劈",
+    "enName": "Cross Chop"
+  },
+  "239": {
+    "jpName": "たつまき",
+    "zhName": "龙卷风",
+    "enName": "Twister"
+  },
+  "480": {
+    "jpName": "やまあらし",
+    "zhName": "山岚摔",
+    "enName": "Storm Throw"
+  },
+  "481": {
+    "jpName": "はじけるほのお",
+    "zhName": "烈焰溅射",
+    "enName": "Flame Burst"
+  },
+  "240": {
+    "jpName": "あまごい",
+    "zhName": "求雨",
+    "enName": "Rain Dance"
+  },
+  "482": {
+    "jpName": "ヘドロウェーブ",
+    "zhName": "污泥波",
+    "enName": "Sludge Wave"
+  },
+  "241": {
+    "jpName": "にほんばれ",
+    "zhName": "大晴天",
+    "enName": "Sunny Day"
+  },
+  "483": {
+    "jpName": "ちょうのまい",
+    "zhName": "蝶舞",
+    "enName": "Quiver Dance"
+  },
+  "242": {
+    "jpName": "かみくだく",
+    "zhName": "咬碎",
+    "enName": "Crunch"
+  },
+  "484": {
+    "jpName": "ヘビーボンバー",
+    "zhName": "重磅冲撞",
+    "enName": "Heavy Slam"
+  },
+  "243": {
+    "jpName": "ミラーコート",
+    "zhName": "镜面反射",
+    "enName": "Mirror Coat"
+  },
+  "485": {
+    "jpName": "シンクロノイズ",
+    "zhName": "同步干扰",
+    "enName": "Synchronoise"
+  },
+  "244": {
+    "jpName": "じこあんじ",
+    "zhName": "自我暗示",
+    "enName": "Psych Up"
+  },
+  "486": {
+    "jpName": "エレキボール",
+    "zhName": "电球",
+    "enName": "Electro Ball"
+  },
+  "245": {
+    "jpName": "しんそく",
+    "zhName": "神速",
+    "enName": "Extreme Speed"
+  },
+  "487": {
+    "jpName": "みずびたし",
+    "zhName": "浸水",
+    "enName": "Soak"
+  },
+  "246": {
+    "jpName": "げんしのちから",
+    "zhName": "原始之力",
+    "enName": "Ancient Power"
+  },
+  "488": {
+    "jpName": "ニトロチャージ",
+    "zhName": "蓄能焰袭",
+    "enName": "Flame Charge"
+  },
+  "247": {
+    "jpName": "シャドーボール",
+    "zhName": "暗影球",
+    "enName": "Shadow Ball"
+  },
+  "489": {
+    "jpName": "とぐろをまく",
+    "zhName": "盘蜷",
+    "enName": "Coil"
+  },
+  "248": {
+    "jpName": "みらいよち",
+    "zhName": "预知未来",
+    "enName": "Future Sight"
+  },
+  "249": {
+    "jpName": "いわくだき",
+    "zhName": "碎岩",
+    "enName": "Rock Smash"
+  },
+  "490": {
+    "jpName": "ローキック",
+    "zhName": "下盘踢",
+    "enName": "Low Sweep"
+  },
+  "491": {
+    "jpName": "アシッドボム",
+    "zhName": "酸液炸弹",
+    "enName": "Acid Spray"
+  },
+  "250": {
+    "jpName": "うずしお",
+    "zhName": "潮旋",
+    "enName": "Whirlpool"
+  },
+  "492": {
+    "jpName": "イカサマ",
+    "zhName": "欺诈",
+    "enName": "Foul Play"
+  },
+  "251": {
+    "jpName": "ふくろだたき",
+    "zhName": "围攻",
+    "enName": "Beat Up"
+  },
+  "493": {
+    "jpName": "シンプルビーム",
+    "zhName": "单纯光束",
+    "enName": "Simple Beam"
+  },
+  "252": {
+    "jpName": "ねこだまし",
+    "zhName": "击掌奇袭",
+    "enName": "Fake Out"
+  },
+  "494": {
+    "jpName": "なかまづくり",
+    "zhName": "找伙伴",
+    "enName": "Entrainment"
+  },
+  "253": {
+    "jpName": "さわぐ",
+    "zhName": "吵闹",
+    "enName": "Uproar"
+  },
+  "495": {
+    "jpName": "おさきにどうぞ",
+    "zhName": "您先请",
+    "enName": "After You"
+  },
+  "254": {
+    "jpName": "たくわえる",
+    "zhName": "蓄力",
+    "enName": "Stockpile"
+  },
+  "496": {
+    "jpName": "りんしょう",
+    "zhName": "轮唱",
+    "enName": "Round"
+  },
+  "255": {
+    "jpName": "はきだす",
+    "zhName": "喷出",
+    "enName": "Spit Up"
+  },
+  "497": {
+    "jpName": "エコーボイス",
+    "zhName": "回声",
+    "enName": "Echoed Voice"
+  },
+  "256": {
+    "jpName": "のみこむ",
+    "zhName": "吞下",
+    "enName": "Swallow"
+  },
+  "498": {
+    "jpName": "なしくずし",
+    "zhName": "逐步击破",
+    "enName": "Chip Away"
+  },
+  "257": {
+    "jpName": "ねっぷう",
+    "zhName": "热风",
+    "enName": "Heat Wave"
+  },
+  "499": {
+    "jpName": "クリアスモッグ",
+    "zhName": "清除之烟",
+    "enName": "Clear Smog"
+  },
+  "258": {
+    "jpName": "あられ",
+    "zhName": "冰雹",
+    "enName": "Hail"
+  },
+  "259": {
+    "jpName": "いちゃもん",
+    "zhName": "无理取闹",
+    "enName": "Torment"
+  },
+  "260": {
+    "jpName": "おだてる",
+    "zhName": "吹捧",
+    "enName": "Flatter"
+  },
+  "261": {
+    "jpName": "おにび",
+    "zhName": "鬼火",
+    "enName": "Will-O-Wisp"
+  },
+  "262": {
+    "jpName": "おきみやげ",
+    "zhName": "临别礼物",
+    "enName": "Memento"
+  },
+  "263": {
+    "jpName": "からげんき",
+    "zhName": "硬撑",
+    "enName": "Facade"
+  },
+  "264": {
+    "jpName": "きあいパンチ",
+    "zhName": "真气拳",
+    "enName": "Focus Punch"
+  },
+  "265": {
+    "jpName": "きつけ",
+    "zhName": "清醒",
+    "enName": "Smelling Salts"
+  },
+  "266": {
+    "jpName": "このゆびとまれ",
+    "zhName": "看我嘛",
+    "enName": "Follow Me"
+  },
+  "267": {
+    "jpName": "しぜんのちから",
+    "zhName": "自然之力",
+    "enName": "Nature Power"
+  },
+  "268": {
+    "jpName": "じゅうでん",
+    "zhName": "充电",
+    "enName": "Charge"
+  },
+  "269": {
+    "jpName": "ちょうはつ",
+    "zhName": "挑衅",
+    "enName": "Taunt"
+  },
+  "270": {
+    "jpName": "てだすけ",
+    "zhName": "帮助",
+    "enName": "Helping Hand"
+  },
+  "271": {
+    "jpName": "トリック",
+    "zhName": "戏法",
+    "enName": "Trick"
+  },
+  "272": {
+    "jpName": "なりきり",
+    "zhName": "扮演",
+    "enName": "Role Play"
+  },
+  "273": {
+    "jpName": "ねがいごと",
+    "zhName": "祈愿",
+    "enName": "Wish"
+  },
+  "274": {
+    "jpName": "ねこのて",
+    "zhName": "借助",
+    "enName": "Assist"
+  },
+  "275": {
+    "jpName": "ねをはる",
+    "zhName": "扎根",
+    "enName": "Ingrain"
+  },
+  "276": {
+    "jpName": "ばかぢから",
+    "zhName": "蛮力",
+    "enName": "Superpower"
+  },
+  "277": {
+    "jpName": "マジックコート",
+    "zhName": "魔法反射",
+    "enName": "Magic Coat"
+  },
+  "278": {
+    "jpName": "リサイクル",
+    "zhName": "回收利用",
+    "enName": "Recycle"
+  },
+  "279": {
+    "jpName": "リベンジ",
+    "zhName": "报复",
+    "enName": "Revenge"
+  },
+  "280": {
+    "jpName": "かわらわり",
+    "zhName": "劈瓦",
+    "enName": "Brick Break"
+  },
+  "281": {
+    "jpName": "あくび",
+    "zhName": "哈欠",
+    "enName": "Yawn"
+  },
+  "282": {
+    "jpName": "はたきおとす",
+    "zhName": "拍落",
+    "enName": "Knock Off"
+  },
+  "283": {
+    "jpName": "がむしゃら",
+    "zhName": "蛮干",
+    "enName": "Endeavor"
+  },
+  "284": {
+    "jpName": "ふんか",
+    "zhName": "喷火",
+    "enName": "Eruption"
+  },
+  "285": {
+    "jpName": "スキルスワップ",
+    "zhName": "特性互换",
+    "enName": "Skill Swap"
+  },
+  "286": {
+    "jpName": "ふういん",
+    "zhName": "封印",
+    "enName": "Imprison"
+  },
+  "287": {
+    "jpName": "リフレッシュ",
+    "zhName": "焕然一新",
+    "enName": "Refresh"
+  },
+  "288": {
+    "jpName": "おんねん",
+    "zhName": "怨念",
+    "enName": "Grudge"
+  },
+  "289": {
+    "jpName": "よこどり",
+    "zhName": "抢夺",
+    "enName": "Snatch"
+  },
+  "290": {
+    "jpName": "ひみつのちから",
+    "zhName": "秘密之力",
+    "enName": "Secret Power"
+  },
+  "291": {
+    "jpName": "ダイビング",
+    "zhName": "潜水",
+    "enName": "Dive"
+  },
+  "292": {
+    "jpName": "つっぱり",
+    "zhName": "猛推",
+    "enName": "Arm Thrust"
+  },
+  "293": {
+    "jpName": "ほごしょく",
+    "zhName": "保护色",
+    "enName": "Camouflage"
+  },
+  "294": {
+    "jpName": "ほたるび",
+    "zhName": "萤火",
+    "enName": "Tail Glow"
+  },
+  "295": {
+    "jpName": "ラスターパージ",
+    "zhName": "洁净光芒",
+    "enName": "Luster Purge"
+  },
+  "296": {
+    "jpName": "ミストボール",
+    "zhName": "薄雾球",
+    "enName": "Mist Ball"
+  },
+  "297": {
+    "jpName": "フェザーダンス",
+    "zhName": "羽毛舞",
+    "enName": "Feather Dance"
+  },
+  "298": {
+    "jpName": "フラフラダンス",
+    "zhName": "摇晃舞",
+    "enName": "Teeter Dance"
+  },
+  "299": {
+    "jpName": "ブレイズキック",
+    "zhName": "火焰踢",
+    "enName": "Blaze Kick"
+  },
+  "700": {
+    "jpName": "ライトニングサーフライド",
+    "zhName": "驾雷驭电戏冲浪",
+    "enName": "Stoked Sparksurfer"
+  },
+  "701": {
+    "jpName": "ほんきをだす　こうげき",
+    "zhName": "认真起来大爆击",
+    "enName": "Pulverizing Pancake"
+  },
+  "702": {
+    "jpName": "ナインエボルブースト",
+    "zhName": "九彩升华齐聚顶",
+    "enName": "Extreme Evoboost"
+  },
+  "703": {
+    "jpName": "オリジンズスーパーノヴァ",
+    "zhName": "起源超新星大爆炸",
+    "enName": "Genesis Supernova"
+  },
+  "704": {
+    "jpName": "トラップシェル",
+    "zhName": "陷阱甲壳",
+    "enName": "Shell Trap"
+  },
+  "705": {
+    "jpName": "フルールカノン",
+    "zhName": "花朵加农炮",
+    "enName": "Fleur Cannon"
+  },
+  "706": {
+    "jpName": "サイコファング",
+    "zhName": "精神之牙",
+    "enName": "Psychic Fangs"
+  },
+  "707": {
+    "jpName": "じだんだ",
+    "zhName": "跺脚",
+    "enName": "Stomping Tantrum"
+  },
+  "708": {
+    "jpName": "シャドーボーン",
+    "zhName": "暗影之骨",
+    "enName": "Shadow Bone"
+  },
+  "709": {
+    "jpName": "アクセルロック",
+    "zhName": "冲岩",
+    "enName": "Accelerock"
+  },
+  "710": {
+    "jpName": "アクアブレイク",
+    "zhName": "水流裂破",
+    "enName": "Liquidation"
+  },
+  "711": {
+    "jpName": "プリズムレーザー",
+    "zhName": "棱镜镭射",
+    "enName": "Prismatic Laser"
+  },
+  "712": {
+    "jpName": "シャドースチール",
+    "zhName": "暗影偷盗",
+    "enName": "Spectral Thief"
+  },
+  "713": {
+    "jpName": "メテオドライブ",
+    "zhName": "流星闪冲",
+    "enName": "Sunsteel Strike"
+  },
+  "714": {
+    "jpName": "シャドーレイ",
+    "zhName": "暗影之光",
+    "enName": "Moongeist Beam"
+  },
+  "715": {
+    "jpName": "なみだめ",
+    "zhName": "泪眼汪汪",
+    "enName": "Tearful Look"
+  },
+  "716": {
+    "jpName": "びりびりちくちく",
+    "zhName": "麻麻刺刺",
+    "enName": "Zing Zap"
+  },
+  "717": {
+    "jpName": "しぜんのいかり",
+    "zhName": "自然之怒",
+    "enName": "Nature’s Madness"
+  },
+  "718": {
+    "jpName": "マルチアタック",
+    "zhName": "多属性攻击",
+    "enName": "Multi-Attack"
+  },
+  "719": {
+    "jpName": "１０００まんボルト",
+    "zhName": "千万伏特",
+    "enName": "10,000,000 Volt Thunderbolt"
+  },
+  "720": {
+    "jpName": "ビックリヘッド",
+    "zhName": "惊爆大头",
+    "enName": "Mind Blown"
+  },
+  "721": {
+    "jpName": "プラズマフィスト",
+    "zhName": "等离子闪电拳",
+    "enName": "Plasma Fists"
+  },
+  "722": {
+    "jpName": "フォトンゲイザー",
+    "zhName": "光子喷涌",
+    "enName": "Photon Geyser"
+  },
+  "723": {
+    "jpName": "てんこがすめつぼうのひかり",
+    "zhName": "焚天灭世炽光爆",
+    "enName": "Light That Burns the Sky"
+  },
+  "724": {
+    "jpName": "サンシャインスマッシャー",
+    "zhName": "日光回旋下苍穹",
+    "enName": "Searing Sunraze Smash"
+  },
+  "725": {
+    "jpName": "ムーンライトブラスター",
+    "zhName": "月华飞溅落灵霄",
+    "enName": "Menacing Moonraze Maelstrom"
+  },
+  "726": {
+    "jpName": "ぽかぼかフレンドタイム",
+    "zhName": "亲密无间大乱揍",
+    "enName": "Let’s Snuggle Forever"
+  },
+  "727": {
+    "jpName": "ラジアルエッジストーム",
+    "zhName": "狼啸石牙飓风暴",
+    "enName": "Splintered Stormshards"
+  },
+  "728": {
+    "jpName": "ブレイジングソウルビート",
+    "zhName": "炽魂热舞烈音爆",
+    "enName": "Clangorous Soulblaze"
+  },
+  "729": {
+    "jpName": "ばちばちアクセル",
+    "zhName": "电电加速",
+    "enName": "Zippy Zap"
+  },
+  "730": {
+    "jpName": "ざぶざぶサーフ",
+    "zhName": "滔滔冲浪",
+    "enName": "Splishy Splash"
+  },
+  "731": {
+    "jpName": "ふわふわフォール",
+    "zhName": "飘飘坠落",
+    "enName": "Floaty Fall"
+  },
+  "732": {
+    "jpName": "ピカピカサンダー",
+    "zhName": "闪闪雷光",
+    "enName": "Pika Papow"
+  },
+  "733": {
+    "jpName": "いきいきバブル",
+    "zhName": "活活气泡",
+    "enName": "Bouncy Bubble"
+  },
+  "734": {
+    "jpName": "びりびりエレキ",
+    "zhName": "麻麻电击",
+    "enName": "Buzzy Buzz"
+  },
+  "735": {
+    "jpName": "めらめらバーン",
+    "zhName": "熊熊火爆",
+    "enName": "Sizzly Slide"
+  },
+  "736": {
+    "jpName": "どばどばオーラ",
+    "zhName": "哗哗气场",
+    "enName": "Glitzy Glow"
+  },
+  "737": {
+    "jpName": "わるわるゾーン",
+    "zhName": "坏坏领域",
+    "enName": "Baddy Bad"
+  },
+  "738": {
+    "jpName": "すくすくボンバー",
+    "zhName": "茁茁轰炸",
+    "enName": "Sappy Seed"
+  },
+  "739": {
+    "jpName": "こちこちフロスト",
+    "zhName": "冰冰霜冻",
+    "enName": "Freezy Frost"
+  },
+  "740": {
+    "jpName": "きらきらストーム",
+    "zhName": "亮亮风暴",
+    "enName": "Sparkly Swirl"
+  },
+  "741": {
+    "jpName": "ブイブイブレイク",
+    "zhName": "砰砰击破",
+    "enName": "Veevee Volley"
+  },
+  "500": {
+    "jpName": "アシストパワー",
+    "zhName": "辅助力量",
+    "enName": "Stored Power"
+  },
+  "742": {
+    "jpName": "ダブルパンツァー",
+    "zhName": "钢拳双击",
+    "enName": "Double Iron Bash"
+  },
+  "501": {
+    "jpName": "ファストガード",
+    "zhName": "快速防守",
+    "enName": "Quick Guard"
+  },
+  "743": {
+    "jpName": "ダイウォール",
+    "zhName": "极巨防壁",
+    "enName": "Max Guard"
+  },
+  "502": {
+    "jpName": "サイドチェンジ",
+    "zhName": "交换场地",
+    "enName": "Ally Switch"
+  },
+  "744": {
+    "jpName": "ダイマックスほう",
+    "zhName": "极巨炮",
+    "enName": "Dynamax Cannon"
+  },
+  "503": {
+    "jpName": "ねっとう",
+    "zhName": "热水",
+    "enName": "Scald"
+  },
+  "745": {
+    "jpName": "ねらいうち",
+    "zhName": "狙击",
+    "enName": "Snipe Shot"
+  },
+  "504": {
+    "jpName": "からをやぶる",
+    "zhName": "破壳",
+    "enName": "Shell Smash"
+  },
+  "746": {
+    "jpName": "くらいつく",
+    "zhName": "紧咬不放",
+    "enName": "Jaw Lock"
+  },
+  "505": {
+    "jpName": "いやしのはどう",
+    "zhName": "治愈波动",
+    "enName": "Heal Pulse"
+  },
+  "747": {
+    "jpName": "ほおばる",
+    "zhName": "大快朵颐",
+    "enName": "Stuff Cheeks"
+  },
+  "506": {
+    "jpName": "たたりめ",
+    "zhName": "祸不单行",
+    "enName": "Hex"
+  },
+  "748": {
+    "jpName": "はいすいのじん",
+    "zhName": "背水一战",
+    "enName": "No Retreat"
+  },
+  "507": {
+    "jpName": "フリーフォール",
+    "zhName": "自由落体",
+    "enName": "Sky Drop"
+  },
+  "749": {
+    "jpName": "タールショット",
+    "zhName": "沥青射击",
+    "enName": "Tar Shot"
+  },
+  "508": {
+    "jpName": "ギアチェンジ",
+    "zhName": "换档",
+    "enName": "Shift Gear"
+  },
+  "509": {
+    "jpName": "ともえなげ",
+    "zhName": "巴投",
+    "enName": "Circle Throw"
+  },
+  "750": {
+    "jpName": "まほうのこな",
+    "zhName": "魔法粉",
+    "enName": "Magic Powder"
+  },
+  "751": {
+    "jpName": "ドラゴンアロー",
+    "zhName": "龙箭",
+    "enName": "Dragon Darts"
+  },
+  "510": {
+    "jpName": "やきつくす",
+    "zhName": "烧尽",
+    "enName": "Incinerate"
+  },
+  "752": {
+    "jpName": "おちゃかい",
+    "zhName": "茶会",
+    "enName": "Teatime"
+  },
+  "511": {
+    "jpName": "さきおくり",
+    "zhName": "延后",
+    "enName": "Quash"
+  },
+  "753": {
+    "jpName": "たこがため",
+    "zhName": "蛸固",
+    "enName": "Octolock"
+  },
+  "512": {
+    "jpName": "アクロバット",
+    "zhName": "杂技",
+    "enName": "Acrobatics"
+  },
+  "754": {
+    "jpName": "でんげきくちばし",
+    "zhName": "电喙",
+    "enName": "Bolt Beak"
+  },
+  "513": {
+    "jpName": "ミラータイプ",
+    "zhName": "镜面属性",
+    "enName": "Reflect Type"
+  },
+  "755": {
+    "jpName": "エラがみ",
+    "zhName": "鳃咬",
+    "enName": "Fishious Rend"
+  },
+  "514": {
+    "jpName": "かたきうち",
+    "zhName": "报仇",
+    "enName": "Retaliate"
+  },
+  "756": {
+    "jpName": "コートチェンジ",
+    "zhName": "换场",
+    "enName": "Court Change"
+  },
+  "515": {
+    "jpName": "いのちがけ",
+    "zhName": "搏命",
+    "enName": "Final Gambit"
+  },
+  "757": {
+    "jpName": "ダイバーン",
+    "zhName": "极巨火爆",
+    "enName": "Max Flare"
+  },
+  "516": {
+    "jpName": "ギフトパス",
+    "zhName": "传递礼物",
+    "enName": "Bestow"
+  },
+  "758": {
+    "jpName": "ダイワーム",
+    "zhName": "极巨虫蛊",
+    "enName": "Max Flutterby"
+  },
+  "517": {
+    "jpName": "れんごく",
+    "zhName": "炼狱",
+    "enName": "Inferno"
+  },
+  "759": {
+    "jpName": "ダイサンダー",
+    "zhName": "极巨闪电",
+    "enName": "Max Lightning"
+  },
+  "518": {
+    "jpName": "みずのちかい",
+    "zhName": "水之誓约",
+    "enName": "Water Pledge"
+  },
+  "519": {
+    "jpName": "ほのおのちかい",
+    "zhName": "火之誓约",
+    "enName": "Fire Pledge"
+  },
+  "760": {
+    "jpName": "ダイアタック",
+    "zhName": "极巨攻击",
+    "enName": "Max Strike"
+  },
+  "761": {
+    "jpName": "ダイナックル",
+    "zhName": "极巨拳斗",
+    "enName": "Max Knuckle"
+  },
+  "520": {
+    "jpName": "くさのちかい",
+    "zhName": "草之誓约",
+    "enName": "Grass Pledge"
+  },
+  "762": {
+    "jpName": "ダイホロウ",
+    "zhName": "极巨幽魂",
+    "enName": "Max Phantasm"
+  },
+  "521": {
+    "jpName": "ボルトチェンジ",
+    "zhName": "伏特替换",
+    "enName": "Volt Switch"
+  },
+  "763": {
+    "jpName": "ダイアイス",
+    "zhName": "极巨寒冰",
+    "enName": "Max Hailstorm"
+  },
+  "522": {
+    "jpName": "むしのていこう",
+    "zhName": "虫之抵抗",
+    "enName": "Struggle Bug"
+  },
+  "764": {
+    "jpName": "ダイアシッド",
+    "zhName": "极巨酸毒",
+    "enName": "Max Ooze"
+  },
+  "523": {
+    "jpName": "じならし",
+    "zhName": "重踏",
+    "enName": "Bulldoze"
+  },
+  "765": {
+    "jpName": "ダイストリーム",
+    "zhName": "极巨水流",
+    "enName": "Max Geyser"
+  },
+  "524": {
+    "jpName": "こおりのいぶき",
+    "zhName": "冰息",
+    "enName": "Frost Breath"
+  },
+  "766": {
+    "jpName": "ダイジェット",
+    "zhName": "极巨飞冲",
+    "enName": "Max Airstream"
+  },
+  "525": {
+    "jpName": "ドラゴンテール",
+    "zhName": "龙尾",
+    "enName": "Dragon Tail"
+  },
+  "767": {
+    "jpName": "ダイフェアリー",
+    "zhName": "极巨妖精",
+    "enName": "Max Starfall"
+  },
+  "526": {
+    "jpName": "ふるいたてる",
+    "zhName": "自我激励",
+    "enName": "Work Up"
+  },
+  "768": {
+    "jpName": "ダイドラグーン",
+    "zhName": "极巨龙骑",
+    "enName": "Max Wyrmwind"
+  },
+  "527": {
+    "jpName": "エレキネット",
+    "zhName": "电网",
+    "enName": "Electroweb"
+  },
+  "769": {
+    "jpName": "ダイサイコ",
+    "zhName": "极巨超能",
+    "enName": "Max Mindstorm"
+  },
+  "528": {
+    "jpName": "ワイルドボルト",
+    "zhName": "疯狂伏特",
+    "enName": "Wild Charge"
+  },
+  "529": {
+    "jpName": "ドリルライナー",
+    "zhName": "直冲钻",
+    "enName": "Drill Run"
+  },
+  "770": {
+    "jpName": "ダイロック",
+    "zhName": "极巨岩石",
+    "enName": "Max Rockfall"
+  },
+  "771": {
+    "jpName": "ダイアース",
+    "zhName": "极巨大地",
+    "enName": "Max Quake"
+  },
+  "530": {
+    "jpName": "ダブルチョップ",
+    "zhName": "二连劈",
+    "enName": "Dual Chop"
+  },
+  "772": {
+    "jpName": "ダイアーク",
+    "zhName": "极巨恶霸",
+    "enName": "Max Darkness"
+  },
+  "531": {
+    "jpName": "ハートスタンプ",
+    "zhName": "爱心印章",
+    "enName": "Heart Stamp"
+  },
+  "773": {
+    "jpName": "ダイソウゲン",
+    "zhName": "极巨草原",
+    "enName": "Max Overgrowth"
+  },
+  "532": {
+    "jpName": "ウッドホーン",
+    "zhName": "木角",
+    "enName": "Horn Leech"
+  },
+  "774": {
+    "jpName": "ダイスチル",
+    "zhName": "极巨钢铁",
+    "enName": "Max Steelspike"
+  },
+  "533": {
+    "jpName": "せいなるつるぎ",
+    "zhName": "圣剑",
+    "enName": "Sacred Sword"
+  },
+  "775": {
+    "jpName": "ソウルビート",
+    "zhName": "魂舞烈音爆",
+    "enName": "Clangorous Soul"
+  },
+  "534": {
+    "jpName": "シェルブレード",
+    "zhName": "贝壳刃",
+    "enName": "Razor Shell"
+  },
+  "776": {
+    "jpName": "ボディプレス",
+    "zhName": "扑击",
+    "enName": "Body Press"
+  },
+  "535": {
+    "jpName": "ヒートスタンプ",
+    "zhName": "高温重压",
+    "enName": "Heat Crash"
+  },
+  "777": {
+    "jpName": "デコレーション",
+    "zhName": "装饰",
+    "enName": "Decorate"
+  },
+  "536": {
+    "jpName": "グラスミキサー",
+    "zhName": "青草搅拌器",
+    "enName": "Leaf Tornado"
+  },
+  "778": {
+    "jpName": "ドラムアタック",
+    "zhName": "鼓击",
+    "enName": "Drum Beating"
+  },
+  "537": {
+    "jpName": "ハードローラー",
+    "zhName": "疯狂滚压",
+    "enName": "Steamroller"
+  },
+  "779": {
+    "jpName": "トラバサミ",
+    "zhName": "捕兽夹",
+    "enName": "Snap Trap"
+  },
+  "538": {
+    "jpName": "コットンガード",
+    "zhName": "棉花防守",
+    "enName": "Cotton Guard"
+  },
+  "539": {
+    "jpName": "ナイトバースト",
+    "zhName": "暗黑爆破",
+    "enName": "Night Daze"
+  },
+  "780": {
+    "jpName": "かえんボール",
+    "zhName": "火焰球",
+    "enName": "Pyro Ball"
+  },
+  "781": {
+    "jpName": "きょじゅうざん",
+    "zhName": "巨兽斩",
+    "enName": "Behemoth Blade"
+  },
+  "540": {
+    "jpName": "サイコブレイク",
+    "zhName": "精神击破",
+    "enName": "Psystrike"
+  },
+  "782": {
+    "jpName": "きょじゅうだん",
+    "zhName": "巨兽弹",
+    "enName": "Behemoth Bash"
+  },
+  "541": {
+    "jpName": "スイープビンタ",
+    "zhName": "扫尾拍打",
+    "enName": "Tail Slap"
+  },
+  "783": {
+    "jpName": "オーラぐるま",
+    "zhName": "气场轮",
+    "enName": "Aura Wheel"
+  },
+  "300": {
+    "jpName": "どろあそび",
+    "zhName": "玩泥巴",
+    "enName": "Mud Sport"
+  },
+  "542": {
+    "jpName": "ぼうふう",
+    "zhName": "暴风",
+    "enName": "Hurricane"
+  },
+  "784": {
+    "jpName": "ワイドブレイカー",
+    "zhName": "广域破坏",
+    "enName": "Breaking Swipe"
+  },
+  "301": {
+    "jpName": "アイスボール",
+    "zhName": "冰球",
+    "enName": "Ice Ball"
+  },
+  "543": {
+    "jpName": "アフロブレイク",
+    "zhName": "爆炸头突击",
+    "enName": "Head Charge"
+  },
+  "785": {
+    "jpName": "えだづき",
+    "zhName": "木枝突刺",
+    "enName": "Branch Poke"
+  },
+  "302": {
+    "jpName": "ニードルアーム",
+    "zhName": "尖刺臂",
+    "enName": "Needle Arm"
+  },
+  "544": {
+    "jpName": "ギアソーサー",
+    "zhName": "齿轮飞盘",
+    "enName": "Gear Grind"
+  },
+  "786": {
+    "jpName": "オーバードライブ",
+    "zhName": "破音",
+    "enName": "Overdrive"
+  },
+  "303": {
+    "jpName": "なまける",
+    "zhName": "偷懒",
+    "enName": "Slack Off"
+  },
+  "545": {
+    "jpName": "かえんだん",
+    "zhName": "火焰弹",
+    "enName": "Searing Shot"
+  },
+  "787": {
+    "jpName": "りんごさん",
+    "zhName": "苹果酸",
+    "enName": "Apple Acid"
+  },
+  "304": {
+    "jpName": "ハイパーボイス",
+    "zhName": "巨声",
+    "enName": "Hyper Voice"
+  },
+  "546": {
+    "jpName": "テクノバスター",
+    "zhName": "高科技光炮",
+    "enName": "Techno Blast"
+  },
+  "788": {
+    "jpName": "Ｇのちから",
+    "zhName": "万有引力",
+    "enName": "Grav Apple"
+  },
+  "305": {
+    "jpName": "どくどくのキバ",
+    "zhName": "剧毒牙",
+    "enName": "Poison Fang"
+  },
+  "547": {
+    "jpName": "いにしえのうた",
+    "zhName": "古老之歌",
+    "enName": "Relic Song"
+  },
+  "789": {
+    "jpName": "ソウルクラッシュ",
+    "zhName": "灵魂冲击",
+    "enName": "Spirit Break"
+  },
+  "306": {
+    "jpName": "ブレイククロー",
+    "zhName": "撕裂爪",
+    "enName": "Crush Claw"
+  },
+  "548": {
+    "jpName": "しんぴのつるぎ",
+    "zhName": "神秘之剑",
+    "enName": "Secret Sword"
+  },
+  "307": {
+    "jpName": "ブラストバーン",
+    "zhName": "爆炸烈焰",
+    "enName": "Blast Burn"
+  },
+  "549": {
+    "jpName": "こごえるせかい",
+    "zhName": "冰封世界",
+    "enName": "Glaciate"
+  },
+  "308": {
+    "jpName": "ハイドロカノン",
+    "zhName": "加农水炮",
+    "enName": "Hydro Cannon"
+  },
+  "309": {
+    "jpName": "コメットパンチ",
+    "zhName": "彗星拳",
+    "enName": "Meteor Mash"
+  },
+  "790": {
+    "jpName": "ワンダースチーム",
+    "zhName": "神奇蒸汽",
+    "enName": "Strange Steam"
+  },
+  "791": {
+    "jpName": "いのちのしずく",
+    "zhName": "生命水滴",
+    "enName": "Life Dew"
+  },
+  "550": {
+    "jpName": "らいげき",
+    "zhName": "雷击",
+    "enName": "Bolt Strike"
+  },
+  "792": {
+    "jpName": "ブロッキング",
+    "zhName": "拦堵",
+    "enName": "Obstruct"
+  },
+  "551": {
+    "jpName": "あおいほのお",
+    "zhName": "青焰",
+    "enName": "Blue Flare"
+  },
+  "793": {
+    "jpName": "どげざつき",
+    "zhName": "假跪真撞",
+    "enName": "False Surrender"
+  },
+  "310": {
+    "jpName": "おどろかす",
+    "zhName": "惊吓",
+    "enName": "Astonish"
+  },
+  "552": {
+    "jpName": "ほのおのまい",
+    "zhName": "火之舞",
+    "enName": "Fiery Dance"
+  },
+  "794": {
+    "jpName": "スターアサルト",
+    "zhName": "流星突击",
+    "enName": "Meteor Assault"
+  },
+  "311": {
+    "jpName": "ウェザーボール",
+    "zhName": "气象球",
+    "enName": "Weather Ball"
+  },
+  "553": {
+    "jpName": "フリーズボルト",
+    "zhName": "冰冻伏特",
+    "enName": "Freeze Shock"
+  },
+  "795": {
+    "jpName": "ムゲンダイビーム",
+    "zhName": "无极光束",
+    "enName": "Eternabeam"
+  },
+  "312": {
+    "jpName": "アロマセラピー",
+    "zhName": "芳香治疗",
+    "enName": "Aromatherapy"
+  },
+  "554": {
+    "jpName": "コールドフレア",
+    "zhName": "极寒冷焰",
+    "enName": "Ice Burn"
+  },
+  "796": {
+    "jpName": "てっていこうせん",
+    "zhName": "铁蹄光线",
+    "enName": "Steel Beam"
+  },
+  "313": {
+    "jpName": "うそなき",
+    "zhName": "假哭",
+    "enName": "Fake Tears"
+  },
+  "555": {
+    "jpName": "バークアウト",
+    "zhName": "大声咆哮",
+    "enName": "Snarl"
+  },
+  "797": {
+    "jpName": "ワイドフォース",
+    "zhName": "广域战力",
+    "enName": "Expanding Force"
+  },
+  "314": {
+    "jpName": "エアカッター",
+    "zhName": "空气利刃",
+    "enName": "Air Cutter"
+  },
+  "556": {
+    "jpName": "つららおとし",
+    "zhName": "冰柱坠击",
+    "enName": "Icicle Crash"
+  },
+  "798": {
+    "jpName": "アイアンローラー",
+    "zhName": "铁滚轮",
+    "enName": "Steel Roller"
+  },
+  "315": {
+    "jpName": "オーバーヒート",
+    "zhName": "过热",
+    "enName": "Overheat"
+  },
+  "557": {
+    "jpName": "Ｖジェネレート",
+    "zhName": "Ｖ热焰",
+    "enName": "V-create"
+  },
+  "799": {
+    "jpName": "スケイルショット",
+    "zhName": "鳞射",
+    "enName": "Scale Shot"
+  },
+  "316": {
+    "jpName": "かぎわける",
+    "zhName": "气味侦测",
+    "enName": "Odor Sleuth"
+  },
+  "558": {
+    "jpName": "クロスフレイム",
+    "zhName": "交错火焰",
+    "enName": "Fusion Flare"
+  },
+  "317": {
+    "jpName": "がんせきふうじ",
+    "zhName": "岩石封锁",
+    "enName": "Rock Tomb"
+  },
+  "559": {
+    "jpName": "クロスサンダー",
+    "zhName": "交错闪电",
+    "enName": "Fusion Bolt"
+  },
+  "318": {
+    "jpName": "ぎんいろのかぜ",
+    "zhName": "银色旋风",
+    "enName": "Silver Wind"
+  },
+  "319": {
+    "jpName": "きんぞくおん",
+    "zhName": "金属音",
+    "enName": "Metal Sound"
+  },
+  "560": {
+    "jpName": "フライングプレス",
+    "zhName": "飞身重压",
+    "enName": "Flying Press"
+  },
+  "561": {
+    "jpName": "たたみがえし",
+    "zhName": "掀榻榻米",
+    "enName": "Mat Block"
+  },
+  "320": {
+    "jpName": "くさぶえ",
+    "zhName": "草笛",
+    "enName": "Grass Whistle"
+  },
+  "562": {
+    "jpName": "ゲップ",
+    "zhName": "打嗝",
+    "enName": "Belch"
+  },
+  "321": {
+    "jpName": "くすぐる",
+    "zhName": "挠痒",
+    "enName": "Tickle"
+  },
+  "563": {
+    "jpName": "たがやす",
+    "zhName": "耕地",
+    "enName": "Rototiller"
+  },
+  "322": {
+    "jpName": "コスモパワー",
+    "zhName": "宇宙力量",
+    "enName": "Cosmic Power"
+  },
+  "564": {
+    "jpName": "ねばねばネット",
+    "zhName": "黏黏网",
+    "enName": "Sticky Web"
+  },
+  "323": {
+    "jpName": "しおふき",
+    "zhName": "喷水",
+    "enName": "Water Spout"
+  },
+  "565": {
+    "jpName": "とどめばり",
+    "zhName": "致命针刺",
+    "enName": "Fell Stinger"
+  },
+  "324": {
+    "jpName": "シグナルビーム",
+    "zhName": "信号光束",
+    "enName": "Signal Beam"
+  },
+  "566": {
+    "jpName": "ゴーストダイブ",
+    "zhName": "潜灵奇袭",
+    "enName": "Phantom Force"
+  },
+  "325": {
+    "jpName": "シャドーパンチ",
+    "zhName": "暗影拳",
+    "enName": "Shadow Punch"
+  },
+  "567": {
+    "jpName": "ハロウィン",
+    "zhName": "万圣夜",
+    "enName": "Trick-or-Treat"
+  },
+  "326": {
+    "jpName": "じんつうりき",
+    "zhName": "神通力",
+    "enName": "Extrasensory"
+  },
+  "568": {
+    "jpName": "おたけび",
+    "zhName": "战吼",
+    "enName": "Noble Roar"
+  },
+  "327": {
+    "jpName": "スカイアッパー",
+    "zhName": "冲天拳",
+    "enName": "Sky Uppercut"
+  },
+  "569": {
+    "jpName": "プラズマシャワー",
+    "zhName": "等离子浴",
+    "enName": "Ion Deluge"
+  },
+  "328": {
+    "jpName": "すなじごく",
+    "zhName": "流沙地狱",
+    "enName": "Sand Tomb"
+  },
+  "329": {
+    "jpName": "ぜったいれいど",
+    "zhName": "绝对零度",
+    "enName": "Sheer Cold"
+  },
+  "570": {
+    "jpName": "パラボラチャージ",
+    "zhName": "抛物面充电",
+    "enName": "Parabolic Charge"
+  },
+  "571": {
+    "jpName": "もりののろい",
+    "zhName": "森林诅咒",
+    "enName": "Forest’s Curse"
+  },
+  "330": {
+    "jpName": "だくりゅう",
+    "zhName": "浊流",
+    "enName": "Muddy Water"
+  },
+  "572": {
+    "jpName": "はなふぶき",
+    "zhName": "落英缤纷",
+    "enName": "Petal Blizzard"
+  },
+  "331": {
+    "jpName": "タネマシンガン",
+    "zhName": "种子机关枪",
+    "enName": "Bullet Seed"
+  },
+  "573": {
+    "jpName": "フリーズドライ",
+    "zhName": "冷冻干燥",
+    "enName": "Freeze-Dry"
+  },
+  "332": {
+    "jpName": "つばめがえし",
+    "zhName": "燕返",
+    "enName": "Aerial Ace"
+  },
+  "574": {
+    "jpName": "チャームボイス",
+    "zhName": "魅惑之声",
+    "enName": "Disarming Voice"
+  },
+  "333": {
+    "jpName": "つららばり",
+    "zhName": "冰锥",
+    "enName": "Icicle Spear"
+  },
+  "575": {
+    "jpName": "すてゼリフ",
+    "zhName": "抛下狠话",
+    "enName": "Parting Shot"
+  },
+  "334": {
+    "jpName": "てっぺき",
+    "zhName": "铁壁",
+    "enName": "Iron Defense"
+  },
+  "576": {
+    "jpName": "ひっくりかえす",
+    "zhName": "颠倒",
+    "enName": "Topsy-Turvy"
+  },
+  "335": {
+    "jpName": "とおせんぼう",
+    "zhName": "挡路",
+    "enName": "Block"
+  },
+  "577": {
+    "jpName": "ドレインキッス",
+    "zhName": "吸取之吻",
+    "enName": "Draining Kiss"
+  },
+  "336": {
+    "jpName": "とおぼえ",
+    "zhName": "长嚎",
+    "enName": "Howl"
+  },
+  "578": {
+    "jpName": "トリックガード",
+    "zhName": "戏法防守",
+    "enName": "Crafty Shield"
+  },
+  "337": {
+    "jpName": "ドラゴンクロー",
+    "zhName": "龙爪",
+    "enName": "Dragon Claw"
+  },
+  "579": {
+    "jpName": "フラワーガード",
+    "zhName": "鲜花防守",
+    "enName": "Flower Shield"
+  },
+  "338": {
+    "jpName": "ハードプラント",
+    "zhName": "疯狂植物",
+    "enName": "Frenzy Plant"
+  },
+  "339": {
+    "jpName": "ビルドアップ",
+    "zhName": "健美",
+    "enName": "Bulk Up"
+  },
+  "580": {
+    "jpName": "グラスフィールド",
+    "zhName": "青草场地",
+    "enName": "Grassy Terrain"
+  },
+  "581": {
+    "jpName": "ミストフィールド",
+    "zhName": "薄雾场地",
+    "enName": "Misty Terrain"
+  },
+  "340": {
+    "jpName": "とびはねる",
+    "zhName": "弹跳",
+    "enName": "Bounce"
+  },
+  "582": {
+    "jpName": "そうでん",
+    "zhName": "输电",
+    "enName": "Electrify"
+  },
+  "341": {
+    "jpName": "マッドショット",
+    "zhName": "泥巴射击",
+    "enName": "Mud Shot"
+  },
+  "583": {
+    "jpName": "じゃれつく",
+    "zhName": "嬉闹",
+    "enName": "Play Rough"
+  },
+  "100": {
+    "jpName": "テレポート",
+    "zhName": "瞬间移动",
+    "enName": "Teleport"
+  },
+  "342": {
+    "jpName": "ポイズンテール",
+    "zhName": "毒尾",
+    "enName": "Poison Tail"
+  },
+  "584": {
+    "jpName": "ようせいのかぜ",
+    "zhName": "妖精之风",
+    "enName": "Fairy Wind"
+  },
+  "101": {
+    "jpName": "ナイトヘッド",
+    "zhName": "黑夜魔影",
+    "enName": "Night Shade"
+  },
+  "343": {
+    "jpName": "ほしがる",
+    "zhName": "渴望",
+    "enName": "Covet"
+  },
+  "585": {
+    "jpName": "ムーンフォース",
+    "zhName": "月亮之力",
+    "enName": "Moonblast"
+  },
+  "102": {
+    "jpName": "ものまね",
+    "zhName": "模仿",
+    "enName": "Mimic"
+  },
+  "344": {
+    "jpName": "ボルテッカー",
+    "zhName": "伏特攻击",
+    "enName": "Volt Tackle"
+  },
+  "586": {
+    "jpName": "ばくおんぱ",
+    "zhName": "爆音波",
+    "enName": "Boomburst"
+  },
+  "103": {
+    "jpName": "いやなおと",
+    "zhName": "刺耳声",
+    "enName": "Screech"
+  },
+  "345": {
+    "jpName": "マジカルリーフ",
+    "zhName": "魔法叶",
+    "enName": "Magical Leaf"
+  },
+  "587": {
+    "jpName": "フェアリーロック",
+    "zhName": "妖精之锁",
+    "enName": "Fairy Lock"
+  },
+  "104": {
+    "jpName": "かげぶんしん",
+    "zhName": "影子分身",
+    "enName": "Double Team"
+  },
+  "346": {
+    "jpName": "みずあそび",
+    "zhName": "玩水",
+    "enName": "Water Sport"
+  },
+  "588": {
+    "jpName": "キングシールド",
+    "zhName": "王者盾牌",
+    "enName": "King’s Shield"
+  },
+  "105": {
+    "jpName": "じこさいせい",
+    "zhName": "自我再生",
+    "enName": "Recover"
+  },
+  "347": {
+    "jpName": "めいそう",
+    "zhName": "冥想",
+    "enName": "Calm Mind"
+  },
+  "589": {
+    "jpName": "なかよくする",
+    "zhName": "和睦相处",
+    "enName": "Play Nice"
+  },
+  "106": {
+    "jpName": "かたくなる",
+    "zhName": "变硬",
+    "enName": "Harden"
+  },
+  "348": {
+    "jpName": "リーフブレード",
+    "zhName": "叶刃",
+    "enName": "Leaf Blade"
+  },
+  "107": {
+    "jpName": "ちいさくなる",
+    "zhName": "变小",
+    "enName": "Minimize"
+  },
+  "349": {
+    "jpName": "りゅうのまい",
+    "zhName": "龙之舞",
+    "enName": "Dragon Dance"
+  },
+  "108": {
+    "jpName": "えんまく",
+    "zhName": "烟幕",
+    "enName": "Smokescreen"
+  },
+  "109": {
+    "jpName": "あやしいひかり",
+    "zhName": "奇异之光",
+    "enName": "Confuse Ray"
+  },
+  "590": {
+    "jpName": "ないしょばなし",
+    "zhName": "密语",
+    "enName": "Confide"
+  },
+  "591": {
+    "jpName": "ダイヤストーム",
+    "zhName": "钻石风暴",
+    "enName": "Diamond Storm"
+  },
+  "350": {
+    "jpName": "ロックブラスト",
+    "zhName": "岩石爆击",
+    "enName": "Rock Blast"
+  },
+  "592": {
+    "jpName": "スチームバースト",
+    "zhName": "蒸汽爆炸",
+    "enName": "Steam Eruption"
+  },
+  "351": {
+    "jpName": "でんげきは",
+    "zhName": "电击波",
+    "enName": "Shock Wave"
+  },
+  "593": {
+    "jpName": "いじげんホール",
+    "zhName": "异次元洞",
+    "enName": "Hyperspace Hole"
+  },
+  "110": {
+    "jpName": "からにこもる",
+    "zhName": "缩入壳中",
+    "enName": "Withdraw"
+  },
+  "352": {
+    "jpName": "みずのはどう",
+    "zhName": "水之波动",
+    "enName": "Water Pulse"
+  },
+  "594": {
+    "jpName": "みずしゅりけん",
+    "zhName": "飞水手里剑",
+    "enName": "Water Shuriken"
+  },
+  "111": {
+    "jpName": "まるくなる",
+    "zhName": "变圆",
+    "enName": "Defense Curl"
+  },
+  "353": {
+    "jpName": "はめつのねがい",
+    "zhName": "破灭之愿",
+    "enName": "Doom Desire"
+  },
+  "595": {
+    "jpName": "マジカルフレイム",
+    "zhName": "魔法火焰",
+    "enName": "Mystical Fire"
+  },
+  "112": {
+    "jpName": "バリアー",
+    "zhName": "屏障",
+    "enName": "Barrier"
+  },
+  "354": {
+    "jpName": "サイコブースト",
+    "zhName": "精神突进",
+    "enName": "Psycho Boost"
+  },
+  "596": {
+    "jpName": "ニードルガード",
+    "zhName": "尖刺防守",
+    "enName": "Spiky Shield"
+  },
+  "113": {
+    "jpName": "ひかりのかべ",
+    "zhName": "光墙",
+    "enName": "Light Screen"
+  },
+  "355": {
+    "jpName": "はねやすめ",
+    "zhName": "羽栖",
+    "enName": "Roost"
+  },
+  "597": {
+    "jpName": "アロマミスト",
+    "zhName": "芳香薄雾",
+    "enName": "Aromatic Mist"
+  },
+  "114": {
+    "jpName": "くろいきり",
+    "zhName": "黑雾",
+    "enName": "Haze"
+  },
+  "356": {
+    "jpName": "じゅうりょく",
+    "zhName": "重力",
+    "enName": "Gravity"
+  },
+  "598": {
+    "jpName": "かいでんぱ",
+    "zhName": "怪异电波",
+    "enName": "Eerie Impulse"
+  },
+  "115": {
+    "jpName": "リフレクター",
+    "zhName": "反射壁",
+    "enName": "Reflect"
+  },
+  "357": {
+    "jpName": "ミラクルアイ",
+    "zhName": "奇迹之眼",
+    "enName": "Miracle Eye"
+  },
+  "599": {
+    "jpName": "ベノムトラップ",
+    "zhName": "毒液陷阱",
+    "enName": "Venom Drench"
+  },
+  "116": {
+    "jpName": "きあいだめ",
+    "zhName": "聚气",
+    "enName": "Focus Energy"
+  },
+  "358": {
+    "jpName": "めざましビンタ",
+    "zhName": "唤醒巴掌",
+    "enName": "Wake-Up Slap"
+  },
+  "117": {
+    "jpName": "がまん",
+    "zhName": "忍耐",
+    "enName": "Bide"
+  },
+  "359": {
+    "jpName": "アームハンマー",
+    "zhName": "臂锤",
+    "enName": "Hammer Arm"
+  },
+  "118": {
+    "jpName": "ゆびをふる",
+    "zhName": "挥指",
+    "enName": "Metronome"
+  },
+  "119": {
+    "jpName": "オウムがえし",
+    "zhName": "鹦鹉学舌",
+    "enName": "Mirror Move"
+  },
+  "10": {
+    "jpName": "ひっかく",
+    "zhName": "抓",
+    "enName": "Scratch"
+  },
+  "11": {
+    "jpName": "はさむ",
+    "zhName": "夹住",
+    "enName": "Vise Grip"
+  },
+  "12": {
+    "jpName": "ハサミギロチン",
+    "zhName": "断头钳",
+    "enName": "Guillotine"
+  },
+  "13": {
+    "jpName": "かまいたち",
+    "zhName": "旋风刀",
+    "enName": "Razor Wind"
+  },
+  "14": {
+    "jpName": "つるぎのまい",
+    "zhName": "剑舞",
+    "enName": "Swords Dance"
+  },
+  "15": {
+    "jpName": "いあいぎり",
+    "zhName": "居合斩",
+    "enName": "Cut"
+  },
+  "16": {
+    "jpName": "かぜおこし",
+    "zhName": "起风",
+    "enName": "Gust"
+  },
+  "17": {
+    "jpName": "つばさでうつ",
+    "zhName": "翅膀攻击",
+    "enName": "Wing Attack"
+  },
+  "18": {
+    "jpName": "ふきとばし",
+    "zhName": "吹飞",
+    "enName": "Whirlwind"
+  },
+  "19": {
+    "jpName": "そらをとぶ",
+    "zhName": "飞翔",
+    "enName": "Fly"
+  },
+  "360": {
+    "jpName": "ジャイロボール",
+    "zhName": "陀螺球",
+    "enName": "Gyro Ball"
+  },
+  "361": {
+    "jpName": "いやしのねがい",
+    "zhName": "治愈之愿",
+    "enName": "Healing Wish"
+  },
+  "120": {
+    "jpName": "じばく",
+    "zhName": "自爆",
+    "enName": "Self-Destruct"
+  },
+  "362": {
+    "jpName": "しおみず",
+    "zhName": "盐水",
+    "enName": "Brine"
+  },
+  "121": {
+    "jpName": "タマゴばくだん",
+    "zhName": "炸蛋",
+    "enName": "Egg Bomb"
+  },
+  "363": {
+    "jpName": "しぜんのめぐみ",
+    "zhName": "自然之恩",
+    "enName": "Natural Gift"
+  },
+  "122": {
+    "jpName": "したでなめる",
+    "zhName": "舌舔",
+    "enName": "Lick"
+  },
+  "364": {
+    "jpName": "フェイント",
+    "zhName": "佯攻",
+    "enName": "Feint"
+  },
+  "123": {
+    "jpName": "スモッグ",
+    "zhName": "浊雾",
+    "enName": "Smog"
+  },
+  "365": {
+    "jpName": "ついばむ",
+    "zhName": "啄食",
+    "enName": "Pluck"
+  },
+  "124": {
+    "jpName": "ヘドロこうげき",
+    "zhName": "污泥攻击",
+    "enName": "Sludge"
+  },
+  "366": {
+    "jpName": "おいかぜ",
+    "zhName": "顺风",
+    "enName": "Tailwind"
+  },
+  "125": {
+    "jpName": "ホネこんぼう",
+    "zhName": "骨棒",
+    "enName": "Bone Club"
+  },
+  "367": {
+    "jpName": "つぼをつく",
+    "zhName": "点穴",
+    "enName": "Acupressure"
+  },
+  "126": {
+    "jpName": "だいもんじ",
+    "zhName": "大字爆炎",
+    "enName": "Fire Blast"
+  },
+  "368": {
+    "jpName": "メタルバースト",
+    "zhName": "金属爆炸",
+    "enName": "Metal Burst"
+  },
+  "127": {
+    "jpName": "たきのぼり",
+    "zhName": "攀瀑",
+    "enName": "Waterfall"
+  },
+  "369": {
+    "jpName": "とんぼがえり",
+    "zhName": "急速折返",
+    "enName": "U-turn"
+  },
+  "128": {
+    "jpName": "からではさむ",
+    "zhName": "贝壳夹击",
+    "enName": "Clamp"
+  },
+  "129": {
+    "jpName": "スピードスター",
+    "zhName": "高速星星",
+    "enName": "Swift"
+  },
+  "20": {
+    "jpName": "しめつける",
+    "zhName": "绑紧",
+    "enName": "Bind"
+  },
+  "21": {
+    "jpName": "たたきつける",
+    "zhName": "摔打",
+    "enName": "Slam"
+  },
+  "22": {
+    "jpName": "つるのムチ",
+    "zhName": "藤鞭",
+    "enName": "Vine Whip"
+  },
+  "23": {
+    "jpName": "ふみつけ",
+    "zhName": "踩踏",
+    "enName": "Stomp"
+  },
+  "24": {
+    "jpName": "にどげり",
+    "zhName": "二连踢",
+    "enName": "Double Kick"
+  },
+  "25": {
+    "jpName": "メガトンキック",
+    "zhName": "百万吨重踢",
+    "enName": "Mega Kick"
+  },
+  "26": {
+    "jpName": "とびげり",
+    "zhName": "飞踢",
+    "enName": "Jump Kick"
+  },
+  "27": {
+    "jpName": "まわしげり",
+    "zhName": "回旋踢",
+    "enName": "Rolling Kick"
+  },
+  "28": {
+    "jpName": "すなかけ",
+    "zhName": "泼沙",
+    "enName": "Sand Attack"
+  },
+  "29": {
+    "jpName": "ずつき",
+    "zhName": "头锤",
+    "enName": "Headbutt"
+  },
+  "370": {
+    "jpName": "インファイト",
+    "zhName": "近身战",
+    "enName": "Close Combat"
+  },
+  "371": {
+    "jpName": "しっぺがえし",
+    "zhName": "以牙还牙",
+    "enName": "Payback"
+  },
+  "130": {
+    "jpName": "ロケットずつき",
+    "zhName": "火箭头锤",
+    "enName": "Skull Bash"
+  },
+  "372": {
+    "jpName": "ダメおし",
+    "zhName": "恶意追击",
+    "enName": "Assurance"
+  },
+  "131": {
+    "jpName": "とげキャノン",
+    "zhName": "尖刺加农炮",
+    "enName": "Spike Cannon"
+  },
+  "373": {
+    "jpName": "さしおさえ",
+    "zhName": "查封",
+    "enName": "Embargo"
+  },
+  "132": {
+    "jpName": "からみつく",
+    "zhName": "缠绕",
+    "enName": "Constrict"
+  },
+  "374": {
+    "jpName": "なげつける",
+    "zhName": "投掷",
+    "enName": "Fling"
+  },
+  "133": {
+    "jpName": "ドわすれ",
+    "zhName": "瞬间失忆",
+    "enName": "Amnesia"
+  },
+  "375": {
+    "jpName": "サイコシフト",
+    "zhName": "精神转移",
+    "enName": "Psycho Shift"
+  },
+  "134": {
+    "jpName": "スプーンまげ",
+    "zhName": "折弯汤匙",
+    "enName": "Kinesis"
+  },
+  "376": {
+    "jpName": "きりふだ",
+    "zhName": "王牌",
+    "enName": "Trump Card"
+  },
+  "135": {
+    "jpName": "タマゴうみ",
+    "zhName": "生蛋",
+    "enName": "Soft-Boiled"
+  },
+  "377": {
+    "jpName": "かいふくふうじ",
+    "zhName": "回复封锁",
+    "enName": "Heal Block"
+  },
+  "136": {
+    "jpName": "とびひざげり",
+    "zhName": "飞膝踢",
+    "enName": "High Jump Kick"
+  },
+  "378": {
+    "jpName": "しぼりとる",
+    "zhName": "绞紧",
+    "enName": "Wring Out"
+  },
+  "137": {
+    "jpName": "へびにらみ",
+    "zhName": "大蛇瞪眼",
+    "enName": "Glare"
+  },
+  "379": {
+    "jpName": "パワートリック",
+    "zhName": "力量戏法",
+    "enName": "Power Trick"
+  },
+  "138": {
+    "jpName": "ゆめくい",
+    "zhName": "食梦",
+    "enName": "Dream Eater"
+  },
+  "139": {
+    "jpName": "どくガス",
+    "zhName": "毒瓦斯",
+    "enName": "Poison Gas"
+  },
+  "30": {
+    "jpName": "つのでつく",
+    "zhName": "角撞",
+    "enName": "Horn Attack"
+  },
+  "31": {
+    "jpName": "みだれづき",
+    "zhName": "乱击",
+    "enName": "Fury Attack"
+  },
+  "32": {
+    "jpName": "つのドリル",
+    "zhName": "角钻",
+    "enName": "Horn Drill"
+  },
+  "33": {
+    "jpName": "たいあたり",
+    "zhName": "撞击",
+    "enName": "Tackle"
+  },
+  "34": {
+    "jpName": "のしかかり",
+    "zhName": "泰山压顶",
+    "enName": "Body Slam"
+  },
+  "35": {
+    "jpName": "まきつく",
+    "zhName": "紧束",
+    "enName": "Wrap"
+  },
+  "36": {
+    "jpName": "とっしん",
+    "zhName": "猛撞",
+    "enName": "Take Down"
+  },
+  "37": {
+    "jpName": "あばれる",
+    "zhName": "大闹一番",
+    "enName": "Thrash"
+  },
+  "38": {
+    "jpName": "すてみタックル",
+    "zhName": "舍身冲撞",
+    "enName": "Double-Edge"
+  },
+  "39": {
+    "jpName": "しっぽをふる",
+    "zhName": "摇尾巴",
+    "enName": "Tail Whip"
+  },
+  "380": {
+    "jpName": "いえき",
+    "zhName": "胃液",
+    "enName": "Gastro Acid"
+  },
+  "381": {
+    "jpName": "おまじない",
+    "zhName": "幸运咒语",
+    "enName": "Lucky Chant"
+  },
+  "140": {
+    "jpName": "たまなげ",
+    "zhName": "投球",
+    "enName": "Barrage"
+  },
+  "382": {
+    "jpName": "さきどり",
+    "zhName": "抢先一步",
+    "enName": "Me First"
+  },
+  "141": {
+    "jpName": "きゅうけつ",
+    "zhName": "吸血",
+    "enName": "Leech Life"
+  },
+  "383": {
+    "jpName": "まねっこ",
+    "zhName": "仿效",
+    "enName": "Copycat"
+  },
+  "142": {
+    "jpName": "あくまのキッス",
+    "zhName": "恶魔之吻",
+    "enName": "Lovely Kiss"
+  },
+  "384": {
+    "jpName": "パワースワップ",
+    "zhName": "力量互换",
+    "enName": "Power Swap"
+  },
+  "143": {
+    "jpName": "ゴッドバード",
+    "zhName": "神鸟猛击",
+    "enName": "Sky Attack"
+  },
+  "385": {
+    "jpName": "ガードスワップ",
+    "zhName": "防守互换",
+    "enName": "Guard Swap"
+  },
+  "144": {
+    "jpName": "へんしん",
+    "zhName": "变身",
+    "enName": "Transform"
+  },
+  "386": {
+    "jpName": "おしおき",
+    "zhName": "惩罚",
+    "enName": "Punishment"
+  },
+  "145": {
+    "jpName": "あわ",
+    "zhName": "泡沫",
+    "enName": "Bubble"
+  },
+  "387": {
+    "jpName": "とっておき",
+    "zhName": "珍藏",
+    "enName": "Last Resort"
+  },
+  "146": {
+    "jpName": "ピヨピヨパンチ",
+    "zhName": "迷昏拳",
+    "enName": "Dizzy Punch"
+  },
+  "388": {
+    "jpName": "なやみのタネ",
+    "zhName": "烦恼种子",
+    "enName": "Worry Seed"
+  },
+  "147": {
+    "jpName": "キノコのほうし",
+    "zhName": "蘑菇孢子",
+    "enName": "Spore"
+  },
+  "389": {
+    "jpName": "ふいうち",
+    "zhName": "突袭",
+    "enName": "Sucker Punch"
+  },
+  "148": {
+    "jpName": "フラッシュ",
+    "zhName": "闪光",
+    "enName": "Flash"
+  },
+  "149": {
+    "jpName": "サイコウェーブ",
+    "zhName": "精神波",
+    "enName": "Psywave"
+  },
+  "40": {
+    "jpName": "どくばり",
+    "zhName": "毒针",
+    "enName": "Poison Sting"
+  },
+  "41": {
+    "jpName": "ダブルニードル",
+    "zhName": "双针",
+    "enName": "Twineedle"
+  },
+  "42": {
+    "jpName": "ミサイルばり",
+    "zhName": "飞弹针",
+    "enName": "Pin Missile"
+  },
+  "43": {
+    "jpName": "にらみつける",
+    "zhName": "瞪眼",
+    "enName": "Leer"
+  },
+  "44": {
+    "jpName": "かみつく",
+    "zhName": "咬住",
+    "enName": "Bite"
+  },
+  "45": {
+    "jpName": "なきごえ",
+    "zhName": "叫声",
+    "enName": "Growl"
+  },
+  "46": {
+    "jpName": "ほえる",
+    "zhName": "吼叫",
+    "enName": "Roar"
+  },
+  "47": {
+    "jpName": "うたう",
+    "zhName": "唱歌",
+    "enName": "Sing"
+  },
+  "48": {
+    "jpName": "ちょうおんぱ",
+    "zhName": "超音波",
+    "enName": "Supersonic"
+  },
+  "49": {
+    "jpName": "ソニックブーム",
+    "zhName": "音爆",
+    "enName": "Sonic Boom"
+  },
+  "390": {
+    "jpName": "どくびし",
+    "zhName": "毒菱",
+    "enName": "Toxic Spikes"
+  },
+  "391": {
+    "jpName": "ハートスワップ",
+    "zhName": "心灵互换",
+    "enName": "Heart Swap"
+  },
+  "150": {
+    "jpName": "はねる",
+    "zhName": "跃起",
+    "enName": "Splash"
+  },
+  "392": {
+    "jpName": "アクアリング",
+    "zhName": "水流环",
+    "enName": "Aqua Ring"
+  },
+  "151": {
+    "jpName": "とける",
+    "zhName": "溶化",
+    "enName": "Acid Armor"
+  },
+  "393": {
+    "jpName": "でんじふゆう",
+    "zhName": "电磁飘浮",
+    "enName": "Magnet Rise"
+  },
+  "152": {
+    "jpName": "クラブハンマー",
+    "zhName": "蟹钳锤",
+    "enName": "Crabhammer"
+  },
+  "394": {
+    "jpName": "フレアドライブ",
+    "zhName": "闪焰冲锋",
+    "enName": "Flare Blitz"
+  },
+  "153": {
+    "jpName": "だいばくはつ",
+    "zhName": "大爆炸",
+    "enName": "Explosion"
+  },
+  "395": {
+    "jpName": "はっけい",
+    "zhName": "发劲",
+    "enName": "Force Palm"
+  },
+  "154": {
+    "jpName": "みだれひっかき",
+    "zhName": "乱抓",
+    "enName": "Fury Swipes"
+  },
+  "396": {
+    "jpName": "はどうだん",
+    "zhName": "波导弹",
+    "enName": "Aura Sphere"
+  },
+  "155": {
+    "jpName": "ホネブーメラン",
+    "zhName": "骨头回力镖",
+    "enName": "Bonemerang"
+  },
+  "397": {
+    "jpName": "ロックカット",
+    "zhName": "岩石打磨",
+    "enName": "Rock Polish"
+  },
+  "156": {
+    "jpName": "ねむる",
+    "zhName": "睡觉",
+    "enName": "Rest"
+  },
+  "398": {
+    "jpName": "どくづき",
+    "zhName": "毒击",
+    "enName": "Poison Jab"
+  },
+  "157": {
+    "jpName": "いわなだれ",
+    "zhName": "岩崩",
+    "enName": "Rock Slide"
+  },
+  "399": {
+    "jpName": "あくのはどう",
+    "zhName": "恶之波动",
+    "enName": "Dark Pulse"
+  },
+  "158": {
+    "jpName": "ひっさつまえば",
+    "zhName": "必杀门牙",
+    "enName": "Hyper Fang"
+  },
+  "159": {
+    "jpName": "かくばる",
+    "zhName": "棱角化",
+    "enName": "Sharpen"
+  },
+  "50": {
+    "jpName": "かなしばり",
+    "zhName": "定身法",
+    "enName": "Disable"
+  },
+  "51": {
+    "jpName": "ようかいえき",
+    "zhName": "溶解液",
+    "enName": "Acid"
+  },
+  "52": {
+    "jpName": "ひのこ",
+    "zhName": "火花",
+    "enName": "Ember"
+  },
+  "53": {
+    "jpName": "かえんほうしゃ",
+    "zhName": "喷射火焰",
+    "enName": "Flamethrower"
+  },
+  "54": {
+    "jpName": "しろいきり",
+    "zhName": "白雾",
+    "enName": "Mist"
+  },
+  "55": {
+    "jpName": "みずでっぽう",
+    "zhName": "水枪",
+    "enName": "Water Gun"
+  },
+  "56": {
+    "jpName": "ハイドロポンプ",
+    "zhName": "水炮",
+    "enName": "Hydro Pump"
+  },
+  "57": {
+    "jpName": "なみのり",
+    "zhName": "冲浪",
+    "enName": "Surf"
+  },
+  "58": {
+    "jpName": "れいとうビーム",
+    "zhName": "冰冻光束",
+    "enName": "Ice Beam"
+  },
+  "59": {
+    "jpName": "ふぶき",
+    "zhName": "暴风雪",
+    "enName": "Blizzard"
+  },
+  "160": {
+    "jpName": "テクスチャー",
+    "zhName": "纹理",
+    "enName": "Conversion"
+  },
+  "161": {
+    "jpName": "トライアタック",
+    "zhName": "三重攻击",
+    "enName": "Tri Attack"
+  },
+  "162": {
+    "jpName": "いかりのまえば",
+    "zhName": "愤怒门牙",
+    "enName": "Super Fang"
+  },
+  "163": {
+    "jpName": "きりさく",
+    "zhName": "劈开",
+    "enName": "Slash"
+  },
+  "164": {
+    "jpName": "みがわり",
+    "zhName": "替身",
+    "enName": "Substitute"
+  },
+  "165": {
+    "jpName": "わるあがき",
+    "zhName": "挣扎",
+    "enName": "Struggle"
+  },
+  "166": {
+    "jpName": "スケッチ",
+    "zhName": "写生",
+    "enName": "Sketch"
+  },
+  "167": {
+    "jpName": "トリプルキック",
+    "zhName": "三连踢",
+    "enName": "Triple Kick"
+  },
+  "168": {
+    "jpName": "どろぼう",
+    "zhName": "小偷",
+    "enName": "Thief"
+  },
+  "169": {
+    "jpName": "クモのす",
+    "zhName": "蛛网",
+    "enName": "Spider Web"
+  },
+  "60": {
+    "jpName": "サイケこうせん",
+    "zhName": "幻象光线",
+    "enName": "Psybeam"
+  },
+  "61": {
+    "jpName": "バブルこうせん",
+    "zhName": "泡沫光线",
+    "enName": "Bubble Beam"
+  },
+  "62": {
+    "jpName": "オーロラビーム",
+    "zhName": "极光束",
+    "enName": "Aurora Beam"
+  },
+  "63": {
+    "jpName": "はかいこうせん",
+    "zhName": "破坏光线",
+    "enName": "Hyper Beam"
+  },
+  "64": {
+    "jpName": "つつく",
+    "zhName": "啄",
+    "enName": "Peck"
+  },
+  "65": {
+    "jpName": "ドリルくちばし",
+    "zhName": "啄钻",
+    "enName": "Drill Peck"
+  },
+  "66": {
+    "jpName": "じごくぐるま",
+    "zhName": "地狱翻滚",
+    "enName": "Submission"
+  },
+  "67": {
+    "jpName": "けたぐり",
+    "zhName": "踢倒",
+    "enName": "Low Kick"
+  },
+  "68": {
+    "jpName": "カウンター",
+    "zhName": "双倍奉还",
+    "enName": "Counter"
+  },
+  "69": {
+    "jpName": "ちきゅうなげ",
+    "zhName": "地球上投",
+    "enName": "Seismic Toss"
+  },
+  "170": {
+    "jpName": "こころのめ",
+    "zhName": "心之眼",
+    "enName": "Mind Reader"
+  },
+  "171": {
+    "jpName": "あくむ",
+    "zhName": "恶梦",
+    "enName": "Nightmare"
+  },
+  "172": {
+    "jpName": "かえんぐるま",
+    "zhName": "火焰轮",
+    "enName": "Flame Wheel"
+  },
+  "173": {
+    "jpName": "いびき",
+    "zhName": "打鼾",
+    "enName": "Snore"
+  },
+  "174": {
+    "jpName": "のろい",
+    "zhName": "诅咒",
+    "enName": "Curse"
+  },
+  "175": {
+    "jpName": "じたばた",
+    "zhName": "抓狂",
+    "enName": "Flail"
+  },
+  "176": {
+    "jpName": "テクスチャー２",
+    "zhName": "纹理２",
+    "enName": "Conversion 2"
+  },
+  "177": {
+    "jpName": "エアロブラスト",
+    "zhName": "气旋攻击",
+    "enName": "Aeroblast"
+  },
+  "178": {
+    "jpName": "わたほうし",
+    "zhName": "棉孢子",
+    "enName": "Cotton Spore"
+  },
+  "179": {
+    "jpName": "きしかいせい",
+    "zhName": "起死回生",
+    "enName": "Reversal"
+  },
+  "70": {
+    "jpName": "かいりき",
+    "zhName": "怪力",
+    "enName": "Strength"
+  },
+  "71": {
+    "jpName": "すいとる",
+    "zhName": "吸取",
+    "enName": "Absorb"
+  },
+  "72": {
+    "jpName": "メガドレイン",
+    "zhName": "超级吸取",
+    "enName": "Mega Drain"
+  },
+  "73": {
+    "jpName": "やどりぎのタネ",
+    "zhName": "寄生种子",
+    "enName": "Leech Seed"
+  },
+  "74": {
+    "jpName": "せいちょう",
+    "zhName": "生长",
+    "enName": "Growth"
+  },
+  "75": {
+    "jpName": "はっぱカッター",
+    "zhName": "飞叶快刀",
+    "enName": "Razor Leaf"
+  },
+  "76": {
+    "jpName": "ソーラービーム",
+    "zhName": "日光束",
+    "enName": "Solar Beam"
+  },
+  "77": {
+    "jpName": "どくのこな",
+    "zhName": "毒粉",
+    "enName": "Poison Powder"
+  },
+  "78": {
+    "jpName": "しびれごな",
+    "zhName": "麻痹粉",
+    "enName": "Stun Spore"
+  },
+  "79": {
+    "jpName": "ねむりごな",
+    "zhName": "催眠粉",
+    "enName": "Sleep Powder"
+  },
+  "180": {
+    "jpName": "うらみ",
+    "zhName": "怨恨",
+    "enName": "Spite"
+  },
+  "181": {
+    "jpName": "こなゆき",
+    "zhName": "细雪",
+    "enName": "Powder Snow"
+  },
+  "182": {
+    "jpName": "まもる",
+    "zhName": "守住",
+    "enName": "Protect"
+  },
+  "183": {
+    "jpName": "マッハパンチ",
+    "zhName": "音速拳",
+    "enName": "Mach Punch"
+  },
+  "184": {
+    "jpName": "こわいかお",
+    "zhName": "鬼面",
+    "enName": "Scary Face"
+  },
+  "185": {
+    "jpName": "だましうち",
+    "zhName": "出奇一击",
+    "enName": "Feint Attack"
+  },
+  "186": {
+    "jpName": "てんしのキッス",
+    "zhName": "天使之吻",
+    "enName": "Sweet Kiss"
+  },
+  "187": {
+    "jpName": "はらだいこ",
+    "zhName": "腹鼓",
+    "enName": "Belly Drum"
+  },
+  "188": {
+    "jpName": "ヘドロばくだん",
+    "zhName": "污泥炸弹",
+    "enName": "Sludge Bomb"
+  },
+  "189": {
+    "jpName": "どろかけ",
+    "zhName": "掷泥",
+    "enName": "Mud-Slap"
+  },
+  "80": {
+    "jpName": "はなびらのまい",
+    "zhName": "花瓣舞",
+    "enName": "Petal Dance"
+  },
+  "81": {
+    "jpName": "いとをはく",
+    "zhName": "吐丝",
+    "enName": "String Shot"
+  },
+  "82": {
+    "jpName": "りゅうのいかり",
+    "zhName": "龙之怒",
+    "enName": "Dragon Rage"
+  },
+  "83": {
+    "jpName": "ほのおのうず",
+    "zhName": "火焰旋涡",
+    "enName": "Fire Spin"
+  },
+  "84": {
+    "jpName": "でんきショック",
+    "zhName": "电击",
+    "enName": "Thunder Shock"
+  },
+  "85": {
+    "jpName": "１０まんボルト",
+    "zhName": "十万伏特",
+    "enName": "Thunderbolt"
+  },
+  "86": {
+    "jpName": "でんじは",
+    "zhName": "电磁波",
+    "enName": "Thunder Wave"
+  },
+  "87": {
+    "jpName": "かみなり",
+    "zhName": "打雷",
+    "enName": "Thunder"
+  },
+  "88": {
+    "jpName": "いわおとし",
+    "zhName": "落石",
+    "enName": "Rock Throw"
+  },
+  "89": {
+    "jpName": "じしん",
+    "zhName": "地震",
+    "enName": "Earthquake"
+  },
+  "190": {
+    "jpName": "オクタンほう",
+    "zhName": "章鱼桶炮",
+    "enName": "Octazooka"
+  },
+  "191": {
+    "jpName": "まきびし",
+    "zhName": "撒菱",
+    "enName": "Spikes"
+  },
+  "192": {
+    "jpName": "でんじほう",
+    "zhName": "电磁炮",
+    "enName": "Zap Cannon"
+  },
+  "193": {
+    "jpName": "みやぶる",
+    "zhName": "识破",
+    "enName": "Foresight"
+  },
+  "194": {
+    "jpName": "みちづれ",
+    "zhName": "同命",
+    "enName": "Destiny Bond"
+  },
+  "195": {
+    "jpName": "ほろびのうた",
+    "zhName": "灭亡之歌",
+    "enName": "Perish Song"
+  },
+  "196": {
+    "jpName": "こごえるかぜ",
+    "zhName": "冰冻之风",
+    "enName": "Icy Wind"
+  },
+  "197": {
+    "jpName": "みきり",
+    "zhName": "看穿",
+    "enName": "Detect"
+  },
+  "198": {
+    "jpName": "ボーンラッシュ",
+    "zhName": "骨棒乱打",
+    "enName": "Bone Rush"
+  },
+  "199": {
+    "jpName": "ロックオン",
+    "zhName": "锁定",
+    "enName": "Lock-On"
+  },
+  "90": {
+    "jpName": "じわれ",
+    "zhName": "地裂",
+    "enName": "Fissure"
+  },
+  "91": {
+    "jpName": "あなをほる",
+    "zhName": "挖洞",
+    "enName": "Dig"
+  },
+  "92": {
+    "jpName": "どくどく",
+    "zhName": "剧毒",
+    "enName": "Toxic"
+  },
+  "93": {
+    "jpName": "ねんりき",
+    "zhName": "念力",
+    "enName": "Confusion"
+  },
+  "94": {
+    "jpName": "サイコキネシス",
+    "zhName": "精神强念",
+    "enName": "Psychic"
+  },
+  "95": {
+    "jpName": "さいみんじゅつ",
+    "zhName": "催眠术",
+    "enName": "Hypnosis"
+  },
+  "96": {
+    "jpName": "ヨガのポーズ",
+    "zhName": "瑜伽姿势",
+    "enName": "Meditate"
+  },
+  "97": {
+    "jpName": "こうそくいどう",
+    "zhName": "高速移动",
+    "enName": "Agility"
+  },
+  "98": {
+    "jpName": "でんこうせっか",
+    "zhName": "电光一闪",
+    "enName": "Quick Attack"
+  },
+  "99": {
+    "jpName": "いかり",
+    "zhName": "愤怒",
+    "enName": "Rage"
+  }
+}

@@ -1,0 +1,152 @@
+query pokemon($pokemonId: Int) {
+
+    # 查询宝可梦种类
+    species: pokemon_v2_pokemonspecies(where: {id: {_eq: $pokemonId}}) {
+        id name base_happiness capture_rate gender_rate forms_switchable
+
+        # 孵化周期
+        hatch_counter
+
+        # 蛋组
+        egg_groups: pokemon_v2_pokemonegggroups {
+            item: pokemon_v2_egggroup {
+                name id
+            }
+        }
+
+        # 三文名
+        names: pokemon_v2_pokemonspeciesnames(where: {language_id: {_in: [9, 11, 12]}}) {
+            name
+            # 分类
+            genus
+        }
+    }
+
+    pokemon: pokemon_v2_pokemon(where: {id: {_eq: $pokemonId}})  {
+#        # 宝可梦属性
+#
+#        types: pokemon_v2_pokemontypes {
+#            slot
+#            type: pokemon_v2_type {
+#                names: pokemon_v2_typenames(where: {language_id: {_eq: 12}}) {
+#                    name
+#                }
+#            }
+#        }
+#
+#        # 宝可梦特性
+#        abilities: pokemon_v2_pokemonabilities {
+#            is_hidden
+#            ability: pokemon_v2_ability {
+#                names: pokemon_v2_abilitynames(where: {language_id: {_eq: 12}}) {
+#                    name
+#                }
+#            }
+#        }
+#
+#        # 宝可梦状态
+#        stats: pokemon_v2_pokemonstats {
+#            base_stat effort
+#            stat: pokemon_v2_stat {
+#                name
+#            }
+#        }
+
+        moves_levelup: pokemon_v2_pokemonmoves(order_by: {version_group_id: desc, move_id: asc}, distinct_on: move_id, where: {pokemon_v2_movelearnmethod: {name: {_eq: "level-up"}}}) {
+            ... moveFragment
+        }
+
+        moves_machine: pokemon_v2_pokemonmoves(order_by: {version_group_id: desc, move_id: asc}, distinct_on: move_id, where: {pokemon_v2_movelearnmethod: {name: {_eq: "machine"}}}) {
+            ... moveFragment
+        }
+
+        moves_egg: pokemon_v2_pokemonmoves(order_by: {version_group_id: desc, move_id: asc}, distinct_on: move_id, where: {pokemon_v2_movelearnmethod: {name: {_eq: "egg"}}}) {
+            ... moveFragment
+        }
+
+        moves_tutor: pokemon_v2_pokemonmoves(order_by: {version_group_id: desc, move_id: asc}, distinct_on: move_id, where: {pokemon_v2_movelearnmethod: {name: {_eq: "tutor"}}}) {
+            ... moveFragment
+        }
+
+        moves_form_change: pokemon_v2_pokemonmoves(order_by: {version_group_id: desc, move_id: asc}, distinct_on: move_id, where: {pokemon_v2_movelearnmethod: {name: {_eq: "form-change"}}}) {
+            ... moveFragment
+        }
+
+        # 还有
+        # stadium-surfing-pikachu
+        # light-ball-egg
+        # colosseum-purification
+        # xd-shadow
+        # xd-purification
+        # zygarde-cube
+
+
+        # 能学会的招式
+#        moves: pokemon_v2_pokemonmoves(distinct_on: move_id, order_by: {version_group_id: desc, move_id: asc}) {
+#
+#        }
+    }
+
+    # 查询宝可梦 形态
+#    form: pokemon_v2_pokemonform(where:{name: {_like: $pkName}}) {
+#        form_name id form_order pokemon_id
+#        #        pokemon: pokemon_v2_pokemon {
+#        #            stats: pokemon_v2_pokemonstats {
+#        #                base_stat effort
+#        #                stat: pokemon_v2_stat {
+#        #                    name
+#        #                }
+#        #            }
+#        #        }
+#        pokemon: pokemon_v2_pokemon {
+#            # 宝可梦属性
+#            types: pokemon_v2_pokemontypes {
+#                slot
+#                type: pokemon_v2_type {
+#                    names: pokemon_v2_typenames(where: {language_id: {_eq: 12}}) {
+#                        name
+#                    }
+#                }
+#            }
+#
+#            # 宝可梦特性
+#            abilities: pokemon_v2_pokemonabilities {
+#                is_hidden
+#                ability: pokemon_v2_ability {
+#                    names: pokemon_v2_abilitynames(where: {language_id: {_eq: 12}}) {
+#                        name
+#                    }
+#                }
+#            }
+#
+#            # 宝可梦状态
+#            stats: pokemon_v2_pokemonstats {
+#                base_stat effort
+#                stat: pokemon_v2_stat {
+#                    name
+#                }
+#            }
+#        }
+#    }
+}
+
+fragment moveFragment on pokemon_v2_pokemonmove {
+    level # move_id id move_learn_method_id version_group_id
+    movelearnmethod: pokemon_v2_movelearnmethod {
+        name
+    # names:pokemon_v2_movelearnmethodnames (where:{language_id:{_in:[9,11,12]}})  {
+    #     name
+    # }
+    }
+
+    move : pokemon_v2_move {
+
+        machines:pokemon_v2_machines {
+            item:pokemon_v2_item {
+                name #names:pokemon_v2_itemnames(where: {language_id:{_in:[9,11,12]}}) { name }
+            }
+        }
+
+        name names: pokemon_v2_movenames(where:{language_id:{_in:[9,11,12]}}) { name }
+    }
+}

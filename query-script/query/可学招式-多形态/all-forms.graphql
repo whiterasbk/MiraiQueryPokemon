@@ -1,0 +1,79 @@
+query pokemon($pokemonId: Int, $pkName: String) {
+
+    # 查询宝可梦种类
+    species: pokemon_v2_pokemonspecies(where: {id: {_eq: $pokemonId}}) {
+        id name base_happiness capture_rate gender_rate forms_switchable
+
+        # 孵化周期
+        hatch_counter
+
+        # 蛋组
+        egg_groups: pokemon_v2_pokemonegggroups {
+            item: pokemon_v2_egggroup {
+                name id
+            }
+        }
+
+        # 三文名
+        names: pokemon_v2_pokemonspeciesnames(where: {language_id: {_in: [9, 11, 12]}}) {
+            name
+            # 分类
+            genus
+        }
+    }
+
+    pokemon: pokemon_v2_pokemon(where: {id: {_eq: $pokemonId}})  {
+        ... pkFragment
+    }
+
+     #查询宝可梦 形态
+    form: pokemon_v2_pokemonform(where:{name: {_like: $pkName}}) {
+        form_name id form_order pokemon_id
+        pokemon: pokemon_v2_pokemon {
+            ... pkFragment
+        }
+    }
+}
+
+fragment pkFragment on pokemon_v2_pokemon {
+    moves_levelup: pokemon_v2_pokemonmoves(order_by: {version_group_id: desc, move_id: asc}, distinct_on: move_id, where: {pokemon_v2_movelearnmethod: {name: {_eq: "level-up"}}}) {
+        ... moveFragment
+    }
+
+    moves_machine: pokemon_v2_pokemonmoves(order_by: {version_group_id: desc, move_id: asc}, distinct_on: move_id, where: {pokemon_v2_movelearnmethod: {name: {_eq: "machine"}}}) {
+        ... moveFragment
+    }
+
+    moves_egg: pokemon_v2_pokemonmoves(order_by: {version_group_id: desc, move_id: asc}, distinct_on: move_id, where: {pokemon_v2_movelearnmethod: {name: {_eq: "egg"}}}) {
+        ... moveFragment
+    }
+
+    moves_tutor: pokemon_v2_pokemonmoves(order_by: {version_group_id: desc, move_id: asc}, distinct_on: move_id, where: {pokemon_v2_movelearnmethod: {name: {_eq: "tutor"}}}) {
+        ... moveFragment
+    }
+
+    moves_form_change: pokemon_v2_pokemonmoves(order_by: {version_group_id: desc, move_id: asc}, distinct_on: move_id, where: {pokemon_v2_movelearnmethod: {name: {_eq: "form-change"}}}) {
+        ... moveFragment
+    }
+}
+
+fragment moveFragment on pokemon_v2_pokemonmove {
+    level # move_id id move_learn_method_id version_group_id
+    movelearnmethod: pokemon_v2_movelearnmethod {
+        name
+        #                names:pokemon_v2_movelearnmethodnames (where:{language_id:{_in:[9,11,12]}})  {
+        #                    name
+        #                }
+    }
+
+    move : pokemon_v2_move {
+
+        machines:pokemon_v2_machines {
+            item:pokemon_v2_item {
+                name #names:pokemon_v2_itemnames(where: {language_id:{_in:[9,11,12]}}) { name }
+            }
+        }
+
+        name names: pokemon_v2_movenames(where:{language_id:{_in:[9,11,12]}}) { name }
+    }
+}

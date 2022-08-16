@@ -1,0 +1,20 @@
+#!setup
+cmd: 道具
+auto-reload: true
+fuzzy-query: true
+engine: nashorn
+# engine: groovy
+# url: https://graphql-pokeapi.graphcdn.app/
+fuzzy-in: items-names
+fuzzy-field: id
+# operationName: io
+description: 查询道具
+script-import:
+  - item-query.js # 导入 js
+graphql-import:
+  - item.graphql # 导入 ql, 没有提示要死了
+
+#!template
+道具: (: name.zh :)/(: name.jp :)/(: name.en :)(: img :)
+(: if(flavor !== null) "道具说明: " + flavor; else ""; :)
+(: if(effect !== null) "具体效果: " + effect; else ""; :)

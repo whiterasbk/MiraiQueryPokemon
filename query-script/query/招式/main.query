@@ -1,0 +1,31 @@
+#!setup
+cmd: 招式
+auto-reload: true
+fuzzy-query: true
+fuzzy-in: move-names
+fuzzy-field: id
+engine: nashorn
+description: 查招式
+script-import:
+  - move-query.js # 导入 js
+graphql-import:
+  - move.graphql # 导入 ql, 没有提示要死了
+
+#!template
+招式: (: names.zh :)/(: names.jp :)/(: names.en :) (: move.id :)
+属性: (: typeNames.zh :)
+分类: (: cls :)
+威力: (: power :)
+命中: (: accuracy :)
+PP : (: pp :)
+(: if(flavor !== null) "招式说明: " + flavor; else ""; :)
+(: if(effect !== null) "具体效果: " + effect; else ""; :)
+(:
+     //var names = []
+     //for(var h in moveLearnByPoke) {
+     //    var each = moveLearnByPoke[h]
+     //    names.push(each.name)
+     //}
+     //
+     //if (names.length > 0) "可以学习此招式的宝可梦: " + names.join(", "); else "";
+:)

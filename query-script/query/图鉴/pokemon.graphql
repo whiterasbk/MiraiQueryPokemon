@@ -1,0 +1,229 @@
+query pokemon($pokemonId: Int, $pkName: String) {
+
+    # 查询宝可梦种类
+    species: pokemon_v2_pokemonspecies(where: {id: {_eq: $pokemonId}}) {
+        id name base_happiness capture_rate gender_rate forms_switchable
+
+        # 孵化周期
+        hatch_counter
+
+        # 蛋组
+        egg_groups: pokemon_v2_pokemonegggroups {
+            item: pokemon_v2_egggroup {
+                name id
+            }
+        }
+
+        # 三文名
+        names: pokemon_v2_pokemonspeciesnames(where: {language_id: {_in: [9, 11, 12]}}) {
+            name
+            # 分类
+            genus
+        }
+    }
+
+    pokemon: pokemon_v2_pokemon(where: {id: {_eq: $pokemonId}})  {
+        # 宝可梦属性
+
+        types: pokemon_v2_pokemontypes {
+            slot
+            type: pokemon_v2_type {
+                names: pokemon_v2_typenames(where: {language_id: {_eq: 12}}) {
+                    name
+                }
+            }
+        }
+
+        # 宝可梦特性
+        abilities: pokemon_v2_pokemonabilities {
+            is_hidden
+            ability: pokemon_v2_ability {
+                names: pokemon_v2_abilitynames(where: {language_id: {_eq: 12}}) {
+                    name
+                }
+            }
+        }
+
+        # 宝可梦状态
+        stats: pokemon_v2_pokemonstats {
+            base_stat effort
+            stat: pokemon_v2_stat {
+                name
+            }
+        }
+
+        # 能学会的招式
+        moves: pokemon_v2_pokemonmoves(distinct_on:move_id) {
+            move_id version_group_id id level move_learn_method_id
+            move:pokemon_v2_move {
+                name names: pokemon_v2_movenames(where:{language_id:{_in:[9,11,12]}}) { name }
+            }
+        }
+    }
+
+    # 查询宝可梦 形态
+    form: pokemon_v2_pokemonform(where:{name: {_like: $pkName}}) {
+        form_name id form_order pokemon_id
+#        pokemon: pokemon_v2_pokemon {
+#            stats: pokemon_v2_pokemonstats {
+#                base_stat effort
+#                stat: pokemon_v2_stat {
+#                    name
+#                }
+#            }
+#        }
+        pokemon: pokemon_v2_pokemon {
+            # 宝可梦属性
+            types: pokemon_v2_pokemontypes {
+                slot
+                type: pokemon_v2_type {
+                    names: pokemon_v2_typenames(where: {language_id: {_eq: 12}}) {
+                        name
+                    }
+                }
+            }
+
+            # 宝可梦特性
+            abilities: pokemon_v2_pokemonabilities {
+                is_hidden
+                ability: pokemon_v2_ability {
+                    names: pokemon_v2_abilitynames(where: {language_id: {_eq: 12}}) {
+                        name
+                    }
+                }
+            }
+
+            # 宝可梦状态
+            stats: pokemon_v2_pokemonstats {
+                base_stat effort
+                stat: pokemon_v2_stat {
+                    name
+                }
+            }
+        }
+    }
+
+    # 查询宝可梦 形态
+#    forms: pokemon_v2_pokemonform(where: {id: {_eq: $pokemonId}}) {
+#        is_default form_name form_order id
+#
+#        # 查询宝可梦
+#        pokemon: pokemon_v2_pokemon {
+#            # 宝可梦状态
+#            stats: pokemon_v2_pokemonstats {
+#                base_stat effort
+#                stat: pokemon_v2_stat {
+#                    name
+#                }
+#            }
+#
+#            # 宝可梦特性
+#            abilities: pokemon_v2_pokemonabilities {
+#                is_hidden
+#                ability: pokemon_v2_ability {
+#                    names: pokemon_v2_abilitynames(where: {language_id: {_eq: 12}}) {
+#                        name
+#                    }
+#                }
+#            }
+#
+#            types: pokemon_v2_pokemontypes {
+#                slot
+#                type: pokemon_v2_type {
+#                    names: pokemon_v2_typenames(where: {language_id: {_eq: 12}}) {
+#                        name
+#                    }
+#                }
+#            }
+#        }
+#    }
+
+#    (where: {language_id: {_eq: 12}})
+
+#    egg: pokemon_v2_egggroup(where: {id: {_eq: 2}}) {
+#        name
+#
+#        pokemon_v2_egggroupnames_aggregate {
+#            nodes {
+#                name
+#            }
+#        }
+#    }
+
+#    pokemon_v2_stat {
+#        name
+#        pokemon_v2_pokemonstats {
+#            pokemon_v2_stat {
+#                name
+#            }
+#        }
+#    }
+
+#
+#    pokemon_v2_pokemon(where: {id: {_eq: $pokemonId}}) {
+#        name
+#
+#        base_experience
+#        weight
+#        height
+#        order
+#
+#        pokemon_v2_pokemonitems {
+#            pokemon_v2_item {
+#                pokemon_v2_itemnames(where: {language_id: {_eq: 12}}) {
+#                    name
+#                }
+#            }
+#        }
+#        # 状态
+#        pokemon_v2_pokemonstats {
+#            base_stat
+#            pokemon_v2_stat {
+#                name
+#                pokemon_v2_statnames(where: {language_id: {_eq: 12}})  {
+#                    name
+#                }
+#            }
+#        }
+#
+#        pokemon_v2_pokemonabilities {
+#
+#            pokemon_v2_ability {
+#                pokemon_v2_abilitynames(where: {language_id: {_eq: 12}}) {
+#                    name
+#                }
+#            }
+#        }
+#
+#        pokemon_v2_pokemontypes {
+#            type_id
+#            pokemon_v2_type {
+#                pokemon_v2_typenames(where: {language_id: {_eq: 12}}) {
+#                    name
+#                }
+#            }
+#        }
+#    }
+
+
+
+    # 宝可梦 图片
+    # pokemon_v2_pokemonsprites {
+    #   sprites
+    # }
+
+
+
+
+
+    # 宝可梦招式
+#    pokemon_v2_move {
+#        accuracy
+#        pokemon_v2_movenames(where: {language_id: {_eq: 12}}) {
+#            name
+#        }
+#        pokemon_v2_moveflavortexts(where: {language_id: {_eq: 12}, _and: {version_group_id: {_eq: 17}}}) {
+#            flavor_text
+#        }
+#    }
+}

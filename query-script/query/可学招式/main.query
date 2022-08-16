@@ -1,0 +1,30 @@
+#!setup
+cmd: 可学招式 # 查询指令名字
+auto-reload: true # 是否自动重载
+fuzzy-query: true # 是否开启模糊查询
+engine: nashorn # 脚本引擎
+# engine: groovy
+# url: https://graphql-pokeapi.graphcdn.app/ # 替换 graphql 接口
+fuzzy-in: pokemon-names # 模糊查询 在哪个 json 里先搜寻数据
+fuzzy-field: id # 模糊查询匹配字段
+# operationName: io
+description: 查询宝可梦可学的招式 # 描述
+# argument-inject: # 参数注入脚本配置
+#  - arg-process-pokemon-query.js
+script-import: # 导入外部脚本
+  - canlearn-query.js # 导入 js
+graphql-import: # 导入外部查询文件
+  - canlearn.graphql # 导入 ql, 没有提示要死了
+# api 中最多收录了 898 个宝可梦
+require-permission: false # 开启权限
+limit: 20/day # 限制
+# fuzzy-empty: # 查询无结果的回复
+# when-fuzzy: # 当开始模糊查询的时候的提示
+# groups: # 开启的群
+
+#!template
+宝可梦: (: species.names[2].name :)/(: species.names[1].name :)/(: species.names[0].name :)
+分类: (: species.names[2].genus :)
+全国图鉴编号: (: species.id :) (: img :)
+可学会的招式:
+(: levelup() :)(: machine() :)(: tutor() :)(: egg() :)(: form_change() :)

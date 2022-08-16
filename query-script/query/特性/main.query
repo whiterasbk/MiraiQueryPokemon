@@ -1,0 +1,20 @@
+#!setup
+cmd: 特性
+auto-reload: true
+fuzzy-query: true
+fuzzy-in: ability-names
+fuzzy-field: id
+engine: nashorn
+description: 查特性
+script-import:
+  - ability-query.js # 导入 js
+graphql-import:
+  - ability.graphql # 导入 ql, 没有提示要死了
+
+#!template
+特性: (: names.zh :)/(: names.jp :)/(: names.en :)
+(: if(flavor !== null) "特性说明: " + flavor; else ""; :)
+(: if(effect !== null) "具体效果: " + effect; else ""; :)
+具有该特性的宝可梦: (: hasAbility.join(", ") :)
+
+

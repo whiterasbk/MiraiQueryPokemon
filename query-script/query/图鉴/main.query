@@ -1,0 +1,45 @@
+#!setup
+cmd: 图鉴
+auto-reload: true
+fuzzy-query: true
+engine: nashorn
+# engine: groovy
+# url: https://graphql-pokeapi.graphcdn.app/
+fuzzy-in: pokemon-names
+fuzzy-field: id
+# operationName: io
+description: 查询宝可梦
+argument-inject:
+  - inject.js
+script-import:
+  - pokemon-query.js # 导入 js
+graphql-import:
+  - pokemon.graphql # 导入 ql, 没有提示要死了
+# api 中最多收录了 898 个宝可梦
+
+#!template
+宝可梦: (: species.names[2].name :)/(: species.names[1].name :)/(: species.names[0].name :)(: if(formTips!==null) formTips; else ""; :)
+全国图鉴编号: (: species.id :) (: img :)
+分类: (: species.names[2].genus :)
+属性: (: types.join('+') :)
+特性: (: no_hidden_ability().join('/') :)(:
+    var ha = hidden_ability()
+    if (ha.length == 0) push(''); else push('\n隐藏特性: ' + ha.join('/') + '')
+:)
+蛋群: (: egg_group_zh_name.join('+') :)
+孵化周期: (: species.hatch_counter :)
+努力值: (: calcEffort() :)
+种族值: 基础 / 50 / 100
+HP  : (: if (species.id === 292) push(1); else {
+    push(stats.hp.base + '/' +
+        calclv('hp', 50).min + '-' + calclv('hp', 50).max + '/' +
+        calclv('hp', 100).min + '-' + calclv('hp', 100).max
+    )
+} :)
+Atk : (: stats.attack.base :)/(: calclv('attack', 50).min :)-(: calclv('attack', 50).max :)/(: calclv('attack', 100).min :)-(: calclv('attack', 100).max :)
+Def : (: stats.defense.base :)/(: calclv('defense', 50).min :)-(: calclv('defense', 50).max :)/(: calclv('defense', 100).min :)-(: calclv('defense', 100).max :)
+Spa : (: stats['special-attack'].base :)/(: calclv('special-attack', 50).min :)-(: calclv('special-attack', 50).max :)/(: calclv('special-attack', 100).min :)-(: calclv('special-attack', 100).max :)
+Spd : (: stats['special-defense'].base :)/(: calclv('special-defense', 50).min :)-(: calclv('special-defense', 50).max :)/(: calclv('special-defense', 100).min :)-(: calclv('special-defense', 100).max :)
+Spe : (: stats.speed.base :)/(: calclv('speed', 50).min :)-(: calclv('speed', 50).max :)/(: calclv('speed', 100).min :)-(: calclv('speed', 100).max :)
+总: (:  Math.round(stats.hp.base + stats.attack.base + stats.defense.base + stats['special-attack'].base + stats['special-defense'].base + stats.speed.base) + '' :)(: hasFormTips :)
+

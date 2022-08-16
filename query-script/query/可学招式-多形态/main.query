@@ -1,0 +1,25 @@
+#!setup
+cmd: 可学招式-多形态
+auto-reload: true
+fuzzy-query: true
+engine: nashorn
+# engine: groovy
+# url: https://graphql-pokeapi.graphcdn.app/
+fuzzy-in: pokemon-names
+fuzzy-field: id
+# operationName: io
+description: 查询宝可梦
+argument-inject:
+  - inject.js
+script-import:
+  - all-forms.js # 导入 js
+graphql-import:
+  - all-forms.graphql # 导入 ql, 没有提示要死了
+# api 中最多收录了 898 个宝可梦
+
+#!template
+宝可梦: (: species.names[2].name :)/(: species.names[1].name :)/(: species.names[0].name :) (: if(formTips!==null) formTips; else ""; :)
+分类: (: species.names[2].genus :)
+全国图鉴编号: (: species.id :) (: img :)
+可学会的招式:
+(: levelup() :)(: machine() :)(: tutor() :)(: egg() :)(: form_change() :)
