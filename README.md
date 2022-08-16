@@ -1,6 +1,12 @@
 # QueryPokemon
 宝可梦查询插件
 
+
+![](https://img.shields.io/github/downloads/whiterasbk/MiraiQueryPokemon/total)
+![](https://img.shields.io/github/v/release/whiterasbk/MiraiQueryPokemon?display_name=tag)
+![](https://img.shields.io/github/languages/top/whiterasbk/MiraiQueryPokemon)
+![GitHub](https://img.shields.io/github/license/whiterasbk/MiraiQueryPokemon)
+
 ## 效果
 ![](https://mirai.mamoe.net/assets/uploads/files/1660625712920-1281fb2f-9c18-4855-a44a-1d8879ec17ae-image.png)
 
