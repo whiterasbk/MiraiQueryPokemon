@@ -14,6 +14,7 @@ import net.mamoe.mirai.console.util.cast
 import net.mamoe.mirai.console.util.safeCast
 import okhttp3.internal.toImmutableMap
 import org.json.JSONObject
+import org.openjdk.nashorn.api.scripting.NashornScriptEngineFactory
 import org.yaml.snakeyaml.Yaml
 import java.io.File
 import java.io.FileFilter
@@ -56,7 +57,8 @@ open class QueryExecutable(content: String, val config: QueryExecutableConfigura
         private val sharpSeparateRegex = Regex("#!\\w+")
         private val queryArgsRegex = Regex("query\\s\\w+\\((\\s*\\\$\\w+\\s*:\\s*\\w+\\s*,?\\s*)+\\)")
         private val scriptEngineManager = ScriptEngineManager()
-        private val engine = scriptEngineManager.getEngineByName("JavaScript")
+        private val engine = scriptEngineManager.getEngineByName("javascript") ?: NashornScriptEngineFactory().scriptEngine //scriptEngineManager.getEngineByName("javascript")
+//        private val engine = NashornScriptEngineFactory().scriptEngine //scriptEngineManager.getEngineByName("javascript")
         private val sharedScriptList = mutableListOf<Any>()
 
         private val preLoadJsFolder = QueryPokemon.resolveDataFile("preload-script")
@@ -67,6 +69,7 @@ open class QueryExecutable(content: String, val config: QueryExecutableConfigura
         private lateinit var preloadCodes: String
 
         init {
+
             try {
                 val sb = StringBuilder()
 
@@ -113,7 +116,7 @@ open class QueryExecutable(content: String, val config: QueryExecutableConfigura
             bindings["logger"] = logger
             bindings["localSpritesPath"] = Config.local_sprites_folder.let { if (it.isNotBlank()) it else null }
             bindings["dataFolder"] = QueryPokemon.dataFolder
-            bindings["mappers"] = translateMappers.toImmutableMap()
+            bindings["mappers"] = translateMappers
             bindings["mapperIgnoreCase"] = { key: String, whichMap: String ->
                 translateMappers[whichMap]?.filterKeys { it.equals(key, true) }?.values?.firstOrNull()
             }

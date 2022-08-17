@@ -17,6 +17,8 @@ import net.mamoe.mirai.message.data.content
 import net.mamoe.mirai.utils.info
 import java.io.File
 import java.io.FileFilter
+import javax.script.ScriptEngine
+import javax.script.ScriptEngineManager
 
 object QueryPokemon : KotlinPlugin(
     JvmPluginDescription(
