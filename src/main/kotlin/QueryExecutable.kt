@@ -3,7 +3,7 @@ package bot.good
 import com.google.gson.JsonParser
 import io.ktor.client.*
 import io.ktor.client.engine.okhttp.*
-import io.ktor.client.features.*
+import io.ktor.client.plugins.*
 import io.ktor.client.request.*
 import io.ktor.client.statement.*
 import kotlinx.coroutines.InternalCoroutinesApi
@@ -12,7 +12,6 @@ import me.sargunvohra.lib.pokekotlin.client.PokeApiClient
 import net.mamoe.mirai.console.command.CommandSender
 import net.mamoe.mirai.console.util.cast
 import net.mamoe.mirai.console.util.safeCast
-import okhttp3.internal.toImmutableMap
 import org.json.JSONObject
 import org.openjdk.nashorn.api.scripting.NashornScriptEngineFactory
 import org.yaml.snakeyaml.Yaml
@@ -165,7 +164,7 @@ open class QueryExecutable(content: String, val config: QueryExecutableConfigura
 
         suspend fun QueryExecutable.graphQuery(query: String, variables: JSONObject? = null): String {
 
-            val rep = httpClient.post<HttpResponse> {
+            val rep = httpClient.post {
                 if (!setupOptions.containsKey("url"))
                     url(Config.pokeapi_graphql_url)
                 else {
@@ -186,17 +185,19 @@ open class QueryExecutable(content: String, val config: QueryExecutableConfigura
                         else setupOptions["requestTimeout"] as Long
                 }
 
-                body = buildJSONObject {
-                    put("query", query)
-                    variables?.let {
-                        if (Config.debug) logger.info("passed arguments: $it")
-                        put("variables", it)
-                    }
-                    operationName?.let { put("operationName", it) }
-                }.toString()
+                setBody(
+                    buildJSONObject {
+                        put("query", query)
+                        variables?.let {
+                            if (Config.debug) logger.info("passed arguments: $it")
+                            put("variables", it)
+                        }
+                        operationName?.let { put("operationName", it) }
+                    }.toString()
+                )
             }
 
-            val text = rep.readText()
+            val text = rep.bodyAsText()
 
             val rjs = JsonParser().parse(text).asJsonObject
 

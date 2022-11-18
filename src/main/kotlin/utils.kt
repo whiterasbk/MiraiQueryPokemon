@@ -4,7 +4,7 @@ import com.google.gson.JsonElement
 import com.google.gson.JsonParser
 import io.ktor.client.*
 import io.ktor.client.engine.okhttp.*
-import io.ktor.client.features.*
+import io.ktor.client.plugins.*
 import io.ktor.client.request.*
 import io.ktor.client.statement.*
 import io.ktor.http.*
@@ -164,7 +164,7 @@ object Translate {
 
     suspend fun suspendFrom(text: String, lang: String = "en", limit: Long = 700): String {
         return try {
-            val resp = suspendHttpClient.get<HttpResponse> {
+            val resp = suspendHttpClient.get {
                 url {
                     protocol = URLProtocol.HTTP
                     host = Config.baidufanyi_http.replace("http://", "") // "api.fanyi.baidu.com/api/trans/vip/translate"
@@ -185,7 +185,7 @@ object Translate {
 
             delay(limit)
 
-            val rjs = JsonParser().parse(resp.readText()).asJsonObject
+            val rjs = JsonParser().parse(resp.bodyAsText()).asJsonObject
 
             if (rjs.has("error_code")) {
                 val code = rjs["error_code"].asInt

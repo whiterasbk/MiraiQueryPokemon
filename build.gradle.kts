@@ -4,7 +4,7 @@ plugins {
     val kotlinVersion = "1.6.21"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.serialization") version kotlinVersion
-    id("net.mamoe.mirai-console") version "2.10.3"
+    id("net.mamoe.mirai-console") version "2.13.0"
 }
 
 group = "bot.good"
@@ -25,6 +25,8 @@ dependencies {
     implementation("commons-codec:commons-codec:1.10")
     testImplementation ("com.github.liuyueyi.media:markdown-plugin:2.6.3")
     testImplementation ("org.codehaus.groovy:groovy-all:3.0.10")
+    api("io.ktor:ktor-client-core:2.0.0")
+    api("io.ktor:ktor-client-okhttp:2.0.0")
     implementation(kotlin("stdlib-jdk8"))
 }
 
